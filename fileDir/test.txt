@@ -1,0 +1,850 @@
+2381	238	1	192601098946	09-jan-26	Andersson, Hilda Greta	Hilda		Andersson			Skogsv 39	14144	Huddinge	1	26	1		fbf	08-7118616	0		2	2	2	2	1	192010217731	M	0		2	50	21-feb-02	0	0
+2382	238	2	192601098920	09-jan-26	Alakangas, Eva Maria	Eva		Alakangas			Svedjan 25	96193	Boden	25	82	1		fbf	0921-480024	0		2	2	1	1	2	0		0		1	92	30-aug-97	0	0
+2811	281	1	192601200260	20-jan-26	Mueller, Birgit	Birgit		Mueller			Hagag 17 K, 5 TR	11347	Stockholm	1	80	6		fbf	08-342945	0		2	4	2	1	2	0		0		1	92	30-aug-97	0	0
+2812	281	2	192601200658	20-jan-26	Fransson, Börje	Börje		Fransson			Österg 36 A, III	15243	Södertälje	1	81	2		fbf	08-55086127	0		1	4	1	2	1	0		0		1	92	30-aug-97	0	0
+21621	2162	1	192602106805	10-feb-26	Lundén Östholm, Mary	Mary	Lundén	Östholm			Drottning Kristinas Väg 15	69630	Askersund	18	82	1		fbf	0583-12951	0		2	2	2	1	2	193609162338	M	0		2	50	13OCT2001	0	0
+21622	2162	2	192602106847	10-feb-26	Karlsson, Birgit	Birgit		Karlsson			Timmermansv 2	69143	Karlskoga	18	83	1		fbf	0586-36594	0		2	2	1	2	1	0		0		1	50	06-sep-02	0	0
+22641	2264	1	192603056645	05-mar-26	Karlsson, Anna Margareta	Anna Margareta		Karlsson			Gustavsg 42	70355	Örebro	18	80	2		fbf	019-185425	0		2	2	2	1	2	192101126650	M	0		2	92	30-aug-97	0	0
+22642	2264	2	192603056629	05-mar-26	Molin, Siv Linnéa	Siv Linnéa		Molin			Folkungagatan 38 A	70342	Örebro	18	80	30		fbf	019-187663	0		2	2	1	2	1	0		0		1	50	02-nov-99	0	0
+23611	2361	1	192603263373	26-mar-26	Mazetti, Karl Gustaf Severin	Karl Gustaf		Mazetti			Författarev 45	37163	Lyckeby	10	80	1		fbf	0455-23160	0		1	4	2	1	2	192909043305	M	0		2	50	02-mar-02	0	0
+23612	2361	2	192603263324	26-mar-26	Ohlsson, Margit	Margit		Ohlsson			Kyrkogatan 8 A	37132	Karlskrona	10	80	1		fbf	0455-19988	0		2	4	1	2	1	0		0		1	50	14-mar-00	0	0
+24451	2445	1	192604105532	10-apr-26	Karlsson, Alf	Alf		Karlsson			Kungsgatan 64	46135	Trollhättan	14	88	1		fbf	0520-97063	0		1	4	2	1	2	192602015808	M	0		2	50	17OCT2002	0	0
+24452	2445	2	192604105565	10-apr-26	Comstedt, Inga Lill Viktoria	Inga Lill		Comstedt			Drottningg 62C	46133	Trollhättan	14	88	1		fbf	0520-39786	0		2	4	1	2	1	192506085816	M	0		2	50	23-aug-02	0	0
+24811	2481	1	192604186870	18-apr-26	Arvidsson, Nils	Nils		Arvidsson			Gustavsgatan 14	69134	Karlskoga	18	83	1		fbf	0586-55683	0		1	2	2	2	1	193001162324	M	0		2	50	05-dec-02	0	0
+24812	2481	2	192604186854	18-apr-26	Arvidsson, Ernst Otto	Ove		Arvidsson			Södra Drottninggatan 26 LÄG 63	45140	Uddevalla	14	85	1		fbf	0522-85241	0		1	2	1	1	2	193006094829	M	0		2	50	08MAY2001	0	0
+24941	2494	1	192604205845	20-apr-26	Andersson, Maj Irma Kristina	Irma Kristina		Andersson			Grundläggareg 11	70357	Örebro	18	80	30		fbf	019-125025	0		2	4	2	2	1	192307316873	M	0		2	92	30-aug-97	0	0
+24942	2494	2	192604204830	20-apr-26	Johansson, Mats Bertil Johannes	Mats Johannes		Johansson			Södra Annebergsvägen 8	43337	Partille	14	2	1		fbf	031-441318	0		1	4	1	1	2	193010245201	M	0		2	92	06-nov-97	0	0
+24981	2498	1	192604213369	21-apr-26	Garsbo, Margit Ingeborg	Margit Ingeborg		Garsbo			Furuslätten 60	42735	Billdal	14	80	36		fbf		0		2	4	2	2	1	0		0		1	92	30-aug-97	0	0
+24982	2498	2	192604213575	21-apr-26	Lundqvist, John-Erik	John-Erik		Lundqvist			Tångvägen 43 C	26083	Vejbystrand	12	92	9		fbf	0431-10817	0		1	4	1	1	2	193004103721	M	0		2	50	02-aug-01	0	0
+25311	2531	1	192604274833	27-apr-26	Andersson, Elov Halvard	Elov		Andersson			Renvägen 4	31141	Falkenberg	13	82	1		fbf	0346-17765	0		1	2	2	1	2	192811275524	M	0		2	50	31MAY2001	0	0
+25312	2531	2	192604274858	27-apr-26	Andersson, Erik Bertil	Erik Bertil		Andersson			Smörtvet 230	46065	Brålanda	14	87	4		fbf	0521-30619	0		1	2	1	2	1	192705294862	M	0		2	92	16-sep-99	0	0
+26061	2606	1	192605154836	15MAY1926	Olofsson, Gunnar Bertil	Gunnar		Olofsson			Futteviksvägen 24	44297	Kode	14	15	5		fbf	0303-52578	0		1	2	2	1	2	192507164800	M	0		2	92	30-aug-97	0	0
+26062	2606	2	192605154810	15MAY1926	Olofsson, Einar Herbert	Herbert		Olofsson			Futteviksvägen 13	44297	Kode	14	15	5		fbf	0303-52390	0		1	2	1	2	1	0		0		1	50	22-jun-01	0	0
+27701	2770	1	192606236517	23-jun-26	Fredriksson, Karl Gunnar	Karl		Fredriksson			Bäckgatan 12 E	68630	Sunne	17	66	1		fbf	08-628 50 32	0		1	4	2	2	1	0		0		2	50	27-jul-00	0	0
+27702	2770	2	192606230205	23-jun-26	Flodmark, Edit Maria	Edit		Flodmark			Ekbacksgränd 6 A AVD 16	17237	Sundbyberg	1	83	1		fbf	08-6281515	0		2	4	1	1	2	0		0		1	50	21-feb-02	0	0
+28181	2818	1	192607063332	06-jul-26	Henriksson, Tage Valter	Valter		Henriksson			Styrmansg 14	37130	Karlskrona	10	80	1		fbf	0455-82236	0		1	2	2	1	2	193011272923	M	0		2	92	30-aug-97	0	0
+28182	2818	2	192607063316	06-jul-26	Henriksson, Göte Stig	Göte		Henriksson			Tromtög 6 B	37137	Karlskrona	10	80	1		fbf	0455-82227	0		1	2	1	2	1	193212282960	M	0		2	92	30-aug-97	0	0
+28291	2829	1	192607085210	08-jul-26	Blomgren, Bertil	Bertil		Blomgren			Fiolgatan 2	42141	Västra Frölunda	14	80	22		fbf	031-459797	0		1	2	2	1	2	192712195409	M	0		2	50	29OCT2002	0	0
+28292	2829	2	192607085236	08-jul-26	Blomgren, Sven	Sven		Blomgren			Kolborydsv 14	44351	Lerum	14	41	1		fbf	0302-10186	0		1	2	1	2	1	193002175804	M	0		2	50	28-feb-02	0	0
+28831	2883	1	192607193501	19-jul-26	Karlsson, Britta	Britta		Karlsson			Skogsstjärnevägen 3	37238	Ronneby	10	81	1		fbf	0457-14286	0		2	4	2	2	1	0		0		1	50	16OCT2003	0	0
+28832	2883	2	192607194137	19-jul-26	Karlsson, Sven Erik	Erik		Karlsson			Grynv 66	24010	Dalby	12	81	16		fbf	046-203096	0		1	4	1	1	2	0		0		1	92	30-aug-97	0	0
+28941	2894	1	192607212442	21-jul-26	Brandin, Karin Margareta	Karin		Brandin			Tolvfors Bruksgata 10 LÄG 10A	80626	Gävle	21	80	1		fbf	026-120684	0		2	2	2	2	1	0		0		1	92	30-aug-97	0	0
+28942	2894	2	192607212426	21-jul-26	Larsson, Elsa	Elsa		Larsson			Häradsgatan 19	57361	Sommen	6	87	1		fbf	0140-30139	0		2	2	1	1	2	0		0		1	50	27-sep-01	0	0
+29031	2903	1	192607237720	23-jul-26	Hedberg, Rut	Rut		Hedberg			Sätrahöjden 25 LÄG 0146	80634	Gävle	21	80	8		fbf	026-181077	0		2	2	2	1	2	192905157711	M	0		2	92	30-aug-97	0	0
+29032	2903	2	192607237704	23-jul-26	Karlsson, Svea	Svea		Karlsson			Svedjebo 6332	82062	Bjuråker	21	84	9		fbf	0653-22041	0		2	2	1	2	1	0		0		1	92	30-aug-97	0	0
+29841	2984	1	192608120768	12-aug-26	Olsson, Marianne	Marianne		Olsson			Vadören Mälby	74291	Östhammar	3	82	4		fbf	026-626375	0		2	2	2	2	1	192301181018	M	0		2	50	19-jul-01	0	0
+29842	2984	2	192608120743	12-aug-26	Holmberg, Ulla	Ulla		Holmberg			Ivarskärrsvägen 31	16244	Vällingby	1	80	31		fbf	08-891236	0		2	2	1	1	2	0		0		1	50	29OCT2002	0	0
+52271	5227	1	191309137733	13-sep-13	Lewin, Magnus	Magnus Anton		Lewin			Österskärsv 1 C, 3TR	18450	Åkersberga	1	17	2		fbf	08-54069966	0		1	4	2	1	2	191402287708	M	0		2	92	30-aug-97	0	0
+52272	5227	2	191309137501	13-sep-13	Edman, Brita Kristina	Brita Kristina		Edman			Storgatan 6 D	82010	Arbrå	21	83	9		fbf	0278-41047	0		2	4	1	2	1	0		0		1	50	20-sep-01	0	0
+52521	5252	1	191401148059	14-jan-14	Melin, Emil Harald	Emil		Melin			Klockstapelvägen 18 B	87052	Nyland	22	82	11		fbf	0612-22034	0		1	4	2	2	1	0		0		1	50	13-sep-01	0	0
+52522	5252	2	191401148000	14-jan-14	Jonsson, Eda	Eda		Jonsson	Husums Sjukhem		Pensionärshemsvägen 8	89035	Husum	22	84	10		fbf	0663-61307	0		2	4	1	1	2	0		0		1	92	30-aug-97	0	0
+52671	5267	1	191405012111	01MAY1914	Andersson, John Lennart	John Lennart		Andersson			Dunderbacksvägen 21 C	61246	Finspång	5	62	1		fbf	0122-12158	0		1	4	2	1	2	191812302121	M	0		2	50	16-aug-01	0	0
+52672	5267	2	191405012103	01MAY1914	Bark, May Valborg	May Valborg		Bark	Hårstorpsgården		Hårstorpsvägen 13	61245	Finspång	5	62	1		fbf	0122-10979	0		2	4	1	2	1	0		0		1	50	14-jun-03	0	0
+54881	5488	1	191702185024	18-feb-17	Hilmersson, Anna Elisabet	Anna Elisabet		Hilmersson			Redbergsvägen 22	41665	Göteborg	14	80	33		fbf	031-253540	0		2	4	2	2	1	0		0		1	50	04-feb-03	0	0
+54882	5488	2	191702185412	18-feb-17	Elgedal, Frank Holger	Frank Holger		Elgedal			Mandolingatan 19	42145	Västra Frölunda	14	80	22		fbf	031-451870	0		1	4	1	1	2	0		0		1	50	29OCT2002	0	0
+55141	5514	1	191706276662	27-jun-17	Helge, Karin Elisabet	Karin		Helge						18	80	27		fbf	019-233145	0		2	4	2	1	2	0		0		1	50	10OCT2003	0	0
+55142	5514	2	191706276639	27-jun-17	Segelberg, Sven	Sven		Segelberg			V Vinterg 212, II	70344	Örebro	18	80	3		fbf	019-127271	0		1	4	1	2	1	0		0		1	92	30-aug-97	0	0
+55251	5525	1	191707295554	29-jul-17	Jonasson, Karl Åke	Karl-Åke		Jonasson			Göteborgsvägen 82	44632	Älvängen	14	40	5		fbf	0303-745061	0		1	4	2	1	2	192011165582	M	0		2	50	16-feb-99	0	0
+55252	5525	2	191707295521	29-jul-17	Höij, Lilly	Lilly		Höij			Göteborgsv 197	44633	Älvängen	14	40	5		fbf	0303-46467	0		2	4	1	2	1	191307185510	M	0		2	92	01-jan-98	0	0
+55331	5533	1	191708283955	28-aug-17	Nilsson, Thure	Thure		Nilsson			Klämmavägen 2 HAGAGÅRDEN	44155	Alingsås	14	89	1		fbf	0322-639273	0		1	4	2	2	1	191702254168	M	0		2	50	05-jun-02	0	0
+55332	5533	2	191708285505	28-aug-17	Karlsson, Lisen Beata	Lisen		Karlsson			Fredings Väg 4	44950	Alafors	14	40	5		fbf	0303-740370	0		2	4	1	1	2	191810165512	M	0		2	50	17-jan-02	0	0
+55621	5562	1	191711245082	24-nov-17	Karlsson, Aina	Aina		Karlsson			Skiljemyntsgatan 16 B	41480	Göteborg	14	80	21		fbf	031-827233	0		2	4	2	1	2	0		0		1	50	29OCT2002	0	0
+55622	5562	2	191711244879	24-nov-17	Karlheden, Jens	Jens		Karlheden			Kaparegatan 4 A, LÄG 1	45142	Uddevalla	14	85	1		fbf	0522-16668	0		1	4	1	2	1	192106174846	M	0		2	92	30-aug-97	0	0
+56511	5651	1	191811142759	14-nov-18	Petersson, Erik Lennart	Erik		Petersson			Drakvägen 17	36050	Lessebo	7	61	1		fbf	0478-10801	0		1	4	2	2	1	192602252708	M	0		2	50	10OCT2002	0	0
+56512	5651	2	191811142726	14-nov-18	Eliasson, Sonja Dorotea	Sonja		Eliasson			Storgatan 48 C	36051	Hovmantorp	7	61	2		fbf	0478-40254	0		2	4	1	1	2	191803292711	M	0		2	50	01-apr-03	0	0
+56961	5696	1	191905045835	04MAY1919	Gruvnäs, Axel	Axel		Gruvnäs			Ringv 127 B, III	11661	Stockholm	1	80	15		fbf	08-6411284	0		1	4	2	2	1	0		0		1	92	30-aug-97	0	0
+56962	5696	2	191905045801	04MAY1919	Jounger, Maja	Maja		Jounger	Bergagården		Bergavägen 1	24139	Eslöv	12	85	1		fbf	0413-18270	0		2	4	1	1	2	191509107015	M	0		2	50	17-aug-02	0	0
+57021	5702	1	191905273510	27MAY1919	Bendroth, Kurt Erik	Kurt Erik		Bendroth			Byvägen 39 B	27740	Sankt Olof	12	91	17		fbf	0414-60130	0		1	4	2	1	2	192409223563	M	0		2	50	15OCT2002	0	0
+57022	5702	2	191905273700	27MAY1919	Castell, Brita Margit	Brita Margit		Castell			Fridhällag 34	21230	Malmö	12	80	16		fbf	040-499460	0		2	4	1	2	1	0		0		2	50	04-sep-02	0	0
+57181	5718	1	191908065038	06-aug-19	Nilsson, Karl Gustaf	Karl Gustaf		Nilsson			Paternostergatan 16	41467	Göteborg	14	80	12		fbf	031-240122	0		1	4	2	1	2	192207315009	M	0		2	92	30-aug-97	0	0
+57182	5718	2	191908065202	06-aug-19	Skoog, Kerstin	Kerstin		Skoog			Almhöjdsvägen 48	41746	Göteborg	14	80	30		fbf	031-551382	0		2	4	1	2	1	191510135435	M	0		2	50	28-jan-03	0	0
+57961	5796	1	192002103550	10-feb-20	Persson, Bror Yngve	Bror		Persson			Järnvägsgatan 25 AVD 18 LÄG 6	17237	Sundbyberg	1	83	1		fbf	08-297059	0		1	4	2	1	2	191510153503	M	0		2	50	16-aug-01	0	0
+57962	5796	2	192002104525	10-feb-20	Hallgren, Signe Ingeborg	Signe Ingeborg		Hallgren			Vitemölleg 10B	21442	Malmö	12	80	6		fbf	040-977135	0		2	4	1	2	1	192004064511	M	0		2	50	05-sep-02	0	1
+58561	5856	1	192005192436	19MAY1920	Liljedahl, Karl Arne John	Karl Arne		Liljedahl			Järnvägsg 25	33021	Reftele	6	62	16		fbf	0371-20309	0		1	4	2	2	1	192304172626	M	0		2	92	30-aug-97	0	0
+58562	5856	2	192005192600	19MAY1920	Carlson, Anna Valborg Emilia	Valborg		Carlson		Katrineholm	Jönköpingsvägen 66	56332	Gränna	6	80	7		fbf	0390-10708	0		2	4	1	1	2	0		0		1	50	31OCT2002	0	0
+58681	5868	1	192006200659	20-jun-20	Danielsson, Erik Algot	Algot		Danielsson			Galgv 12	28136	Hässleholm	12	93	1		fbf	0451-41245	0		1	4	2	2	1	192108260189	M	0		2	92	30-aug-97	0	0
+58682	5868	2	192006207340	20-jun-20	Jansson, Greta	Greta		Jansson			Marnäsgatan 40	77153	Ludvika	20	85	1		fbf	0240-84468	0		2	4	1	1	2	0		0		1	50	20-dec-01	0	0
+58691	5869	1	192006215020	21-jun-20	Johansson, Elna Sylvia Lovisa	Sylvia		Johansson			Träkilsgatan 63	41678	Göteborg	14	80	38		fbf	031-217094	0		2	4	2	2	1	0		0		1	50	21-nov-02	0	0
+58692	5869	2	192006214817	21-jun-20	Lingnert, Börje	Börje		Lingnert			Bäckslingan 4	43658	Hovås	14	80	36		fbf	031-912185	0		1	4	1	1	2	192209144803	M	0		2	92	30-aug-97	0	0
+59211	5921	1	192011111461	11-nov-20	Bredenborg, Anna Kristina	Anna		Bredenborg			Norrtäljeg 11A	75327	Uppsala	3	80	1		fbf	018-121291	0		2	4	2	2	1	0		0		1	92	30-aug-97	0	0
+59212	5921	2	192011111438	11-nov-20	Bredenborg, Erik	Erik		Bredenborg			Ubblixbo 105	81595	Månkarbo	3	60	5		fbf	0293-54015	0		1	4	1	1	2	0		0		1	50	12-jun-02	0	0
+59261	5926	1	192011194541	19-nov-20	Kristoffersson, Birgit	Birgitt		Kristoffersson			Kronodalsvägen 2	23632	Höllviken	12	33	9		fbf	040-450492	0		2	4	2	1	2	0		0		2	50	03-jan-02	1,92011E+11	0
+59262	5926	2	192011194517	19-nov-20	Lilja, Per Anders Bertil	Per Anders Bertil		Lilja			Konsultgatan 13	21569	Malmö	12	80	17		fbf	040-190325	0		1	4	1	2	1	192203224502	M	0		2	50	15-aug-02	0	0
+59361	5936	1	192012105819	10-dec-20	Karlsson, Anders Hugo	Hugo		Karlsson			Hol Larsgården 302	46193	Västra Tunhem	14	87	9		fbf		0		1	4	2	1	2	0		0		1	50	22-mar-00	0	0
+59362	5936	2	192012105702	10-dec-20	Johansson, Astrid Ingegärd	Astrid		Johansson			Fågelsångsv 1	46142	Trollhättan	14	88	10		fbf	0520-12290	0		2	4	1	2	1	192204125757	M	0		2	50	23-aug-02	0	0
+59491	5949	1	192101214688	21-jan-21	Torin, Rut Margit	Margit		Torin			Sandstigen 2, SANDHAMN	30273	Halmstad	13	80	9		fbf	035-31144	0		2	4	2	2	1	191905294615	M	0		2	92	30-aug-97	0	0
+59492	5949	2	192101214712	21-jan-21	Andersson, Carl Magnus	Carl Magnus		Andersson			Agravägen 10	30256	Halmstad	13	80	3		fbf	035-217006	0		1	4	1	1	2	192204114603	M	0		2	92	30-aug-97	0	0
+59681	5968	1	192103012635	01-mar-21	Wahlqvist, Stig Rune Samuel	Rune		Wahlqvist			Frimurargatan 22	55454	Jönköping	6	80	2		fbf	036-122245	0		1	4	2	1	2	192707282683	M	0		2	50	26-sep-02	0	0
+59682	5968	2	192103015505	01-mar-21	Gullander, Aina	Aina		Gullander			Lindängsvägen 9	52336	Ulricehamn	14	91	1		fbf	0321-45110	0		2	4	1	2	1	0		0		2	50	28-apr-01	0	0
+59711	5971	1	192103048241	04-mar-21	Hult, Inga-Britt	Inga		Hult			Kungstensg 40, IV	11359	Stockholm	1	80	6		fbf	08-308601	0		2	4	2	1	2	0		0		1	92	30-aug-97	0	0
+59712	5971	2	192103048217	04-mar-21	Hult, Per Arne	Arne		Hult			Pyrolavägen 11, 3 TR	18160	Lidingö	1	86	1		fbf	08-7661043	0		1	4	1	2	1	192202277147	M	0		2	50	30-aug-01	0	0
+59781	5978	1	192103167132	16-mar-21	Leandersson, Johan Herbert	Herbert		Leandersson			Manhemsvägen 26 1TR	79131	Falun	20	80	3		fbf	023-15913	0		1	4	2	1	2	192401147141	M	0		2	50	04-jul-00	0	0
+59782	5978	2	192103167108	16-mar-21	Olsson, Ester	Ester		Olsson			Landa 155	78393	Stora Skedvi	20	82	2		fbf	0225-40185	0		2	4	1	2	1	0		0		1	50	11OCT2000	0	0
+59841	5984	1	192103263998	26-mar-21	Lundberg, Sture Christian	Sture		Lundberg			Smedgr 3	23133	Trelleborg	12	87	1		fbf	0410-14566	0		1	4	2	1	2	192609143983	M	0		2	92	30-aug-97	0	0
+59842	5984	2	192103264186	26-mar-21	Jönsson, Rut Gunborg	Gunborg		Jönsson			Malörtsvägen 12 B	23136	Trelleborg	12	87	15		fbf	0410-17984	0		2	4	1	2	1	0		0		2	50	22OCT2003	0	0
+126161	12616	1	190905141008	14MAY1909	Sävfors, Märta	Märta		Sävfors			Björnvägen 16 B BV	18133	Lidingö	1	86	1		fbf	08-7652042	0		2	2	2	1	2	0		0		2	50	13-sep-01	0	0
+126162	12616	2	190905140844	14MAY1909	Ihrman, Sonja Maria Dagny	Maria		Ihrman			Valhallavägen 126, II	11441	Stockholm	1	80	10		fbf	08-6614019	0		2	2	1	2	1	0		0		1	50	22OCT2002	0	0
+128761	12876	1	191002104188	10-feb-10	Sörensen Maria Cornelia	Maria Cornelia		Sörensen				0	DANMARK	0	0	0				9		2	2	2	2	1	0		0		0	0		0	0
+128762	12876	2	191002104162	10-feb-10	Carlsson Dea Eugenia	Dea Eugenia		Carlsson			HÄSTMÖLLERGR 2 A	0	Hälsingborg	12	83	0				9		2	2	1	1	2	0		0		0	0		0	0
+130541	13054	1	191008318998	31-aug-10	Sandberg, Karl Ivar	Ivar		Sandberg			Lulevägen 1	94533	Rosvik	25	81	5		fbf	0911-208030	0		1	2	2	2	1	0		0		1	50	25-aug-99	0	0
+130542	13054	2	191008310490	31-aug-10	Sandberg, Johan	Johan		Sandberg			Fyrislundsg 48, V	75446	Uppsala	3	80	4		fbf	018-250428	0		1	2	1	1	2	0		0		1	92	30-aug-97	0	0
+134291	13429	1	191109222404	22-sep-11	Andersson, Alice Elisabet	Alice		Andersson			Kortebovägen 44	56433	Bankeryd	6	80	20		fbf	036-371114	0		2	2	2	2	1	191011102413	M	0		2	50	26-sep-02	0	0
+134292	13429	2	191109225928	22-sep-11	Gustafsson, Margot Emilia	Margot		Gustafsson			Parkv 7 A	56531	Mullsjö	6	42	3		fbf	0392-10451	0		2	2	1	1	2	0		0		1	92	01-jan-98	0	0
+140931	14093	1	191306296680	29-jun-13	Vilhelmsson, Dagmar Elvira	Dagmar Elvira		Vilhelmsson			Tulegatan 12	70354	Örebro	18	80	2		fbf	019-255725	0		2	2	2	2	1	0		0		1	50	19-mar-99	0	0
+140932	14093	2	191306292101	29-jun-13	Sundell, Lilly	Lilly		Sundell			Paulis Väg 15 C	57019	Pauliström	6	85	17		fbf	0383-730216	0		2	2	1	1	2	0		0		1	92	30-aug-97	0	0
+143381	14338	1	191402144867	14-feb-14	KARLSSON, ESTER JULIA INGEBORG	Ester Julia Ingeborg		Karlsson			Annelundsv 25B	66131	Säffle	17	85	1		fbf	0533-14865	0		2	2	2	1	2	0		0		1	92	30-aug-97	0	0
+143382	14338	2	191402142101	14-feb-14	ANDERSSON, ANNA GUNHILD INGEBORG	Anna Gunhild Ingeborg		Andersson			Hvitfeldtsvägen 106	47133	Skärhamn	14	19	2		fbf	031-458590	0		2	2	1	2	1	0		0		1	50	26MAY2001	0	0
+146441	14644	1	191411294661	29-nov-14	Jönsson, Svea Cecilia	Svea Cecilia		Jönsson	Krusbäret Plan 5		Malcusgatan 3	30247	Halmstad	13	80	2		fbf	035-125156	0		2	2	2	1	2	0		0		1	92	30-aug-97	0	0
+146442	14644	2	191411294646	29-nov-14	Fredriksson, Linnéa Eugenia	Linnéa Eugenia		Fredriksson			Soldalsvägen 14, SOLDALEN	30240	Halmstad	13	80	9		fbf	035-217745	0		2	2	1	2	1	191504134691	M	0		2	50	06-mar-03	0	0
+148811	14881	1	191507024824	02-jul-15	Johansson, Ingrid Elvira	Ingrid		Johansson			Ekeblads Väg 1	43351	Öjersjö	14	2	1		fbf	031-987093	0		2	2	2	2	1	0		0		1	50	05-jun-03	0	0
+148812	14881	2	191507025029	02-jul-15	Svensson, Gertrud Linnéa	Gertrud		Svensson			Räntmästaregatan 25 C	41658	Göteborg	14	80	33		fbf	031-193165	0		2	2	1	1	2	191410245110	M	0		2	50	04-feb-03	0	0
+149291	14929	1	191507146106	14-jul-15	Märkel Nyholm, Elsa	Elsa		Märkel Nyholm			Viksgatan 18 C	67132	Arvika	17	84	1		fbf	0570-17064	0		2	2	2	1	2	0		0		1	50	03OCT2002	0	0
+149292	14929	2	191507146205	14-jul-15	Märkel, Vera	Vera		Märkel			Gunnarskogs Gränd 2	67131	Arvika	17	84	1		fbf	0570-13408	0		2	2	1	2	1	0		0		1	50	03-aug-01	0	0
+150541	15054	1	191512254507	25-dec-15	Svensson, Inga-Lis	Inga-Lis		Svensson			Teknikergatan 29	21568	Malmö	12	80	17		fbf	040-83108	0		2	2	2	2	1	0		0		2	50	16-jan-01	0	0
+150542	15054	2	191512254523	25-dec-15	Hydén, Inga Brit	Inga Brit		Hydén			Lönngatan 28	21449	Malmö	12	80	6		fbf	040-85928	0		2	2	1	1	2	0		0		1	50	20OCT2000	0	0
+151081	15108	1	191602181941	18-feb-16	Malm, Gertrud	Gertrud		Malm			Berg 108	88194	Sollefteå	22	83	1		fbf	0620-23165	0		2	2	2	1	2	0		0		1	50	27-mar-02	0	0
+151082	15108	2	191602185702	18-feb-16	Lindström, Ingrid	Ingrid		Lindström			Grönahögsvägen 77	52332	Ulricehamn	14	91	1		fbf	0321-41974	0		2	2	1	2	1	192106213719	M	0		2	92	01-jan-98	0	0
+153691	15369	1	191610035824	03OCT1916	Eriksson, Margareta	Margareta		Eriksson			Kungsg 58	46134	Trollhättan	14	88	1		fbf	0520-411537	0		2	2	2	2	1	0		0		1	50	23-aug-02	0	0
+153692	15369	2	191610035808	03OCT1916	Johansson, Elisabet	Elisabet		Johansson			Kungsgatan 58	46134	Trollhättan	14	88	1		fbf	0520-411341	0		2	2	1	1	2	0		0		2	50	24-sep-03	0	0
+154011	15401	1	191610303214	30OCT1916	Söderling, Ivan Birger	Birger		Söderling			Bergmansg 2	62146	Visby	9	80	1		fbf	0498-212922	0		1	2	2	1	2	191611223205	M	0		2	92	30-aug-97	0	0
+154012	15401	2	191610306811	30OCT1916	Söderling, Gunnar Ingvar	Gunnar		Söderling			Järvsögränd 11	16262	Vällingby	1	80	31		fbf	08-894258, 0498-265173	0		1	2	1	2	1	191908136805	M	0		2	50	29OCT2002	0	0
+154521	15452	1	191612228047	22-dec-16	Vestin, Ida Margareta	Ida		Vestin			Bovägen 10 C	86131	Timrå	22	62	1		fbf	060-573704	0		2	2	2	1	2	0		0		1	50	04-sep-03	0	0
+154522	15452	2	191612228021	22-dec-16	Wedin, Nancy Lovisa	Nancy		Wedin			Kustvägen 7	87031	Mjällom	22	82	4		fbf	0613-21011	0		2	2	1	2	1	0		0		1	50	21OCT2000	0	0
+155081	15508	1	191702132448	13-feb-17	Rydin, Lisa Maria	Lisa		Rydin			Långgatan 20	57334	Tranås	6	87	1		fbf	0140-14778	0		2	2	2	2	1	0		0		1	50	27-sep-01	0	0
+155082	15508	2	191702132620	13-feb-17	Malmqvist, Elin Margareta	Margareta		Malmqvist			Drottninggatan 25	56132	Huskvarna	6	80	5		fbf	036-133097	0		2	2	1	1	2	0		0		1	50	14-jan-99	0	0
+155721	15572	1	191704074663	07-apr-17	Johansson, Greta Ingeborg	Greta		Johansson			Hägared 13	43010	Tvååker	13	83	11		fbf	0340-40437	0		2	2	2	2	1	0		0		2	50	18-sep-03	0	0
+155722	15572	2	191704073327	07-apr-17	Ekelund, Gertrud Elvira	Gertrud		Ekelund			Fortifikationsgatan 9D	37131	Karlskrona	10	80	1		fbf	0455-15209	0		2	2	1	1	2	0		0		1	50	31-jan-03	0	0
+155941	15594	1	191704201985	20-apr-17	Wahlström, Britta Vilhelmina	Britta		Wahlström			Hagagatan 65 A	60215	Norrköping	5	81	4		fbf	011-139165	0		2	2	2	1	2	0		0		1	50	07-jul-01	0	0
+155942	15594	2	191704202124	20-apr-17	Alexandersson, Stina Maria	Stina		Alexandersson			Bråbogatan 1	60216	Norrköping	5	81	3		fbf	011-168623	0		2	2	1	2	1	0		0		1	50	24MAY2001	0	0
+156961	15696	1	191707250013	25-jul-17	Hall, Karl Ragnar	Karl Ragnar		Hall	Pettersson		Levertinsg 3	11252	Stockholm	1	80	19		fbf	08-6188027	0		1	2	2	2	1	0		0		1	92	30-aug-97	0	0
+156962	15696	2	191707250039	25-jul-17	Hall, Karl Bertil	Bertil		Hall			Albinsrogatan 5 B, IX	21467	Malmö	12	80	17		fbf	040-926275	0		1	2	1	1	2	191910070026	M	0		2	50	15-aug-02	0	0
+157391	15739	1	191709010134	01-sep-17	Löfgren, Birger Vilhelm	Birger		Löfgren			Smedjevägen 5 B BV	76231	Rimbo	1	88	10		fbf	0176-10959	0		1	2	2	2	1	0		0		2	50	07-jul-00	0	0
+157392	15739	2	191709010191	01-sep-17	Löfgren, Göte Sigfrid	Göte		Löfgren			Bjurholmsg 16 2 TR	11638	Stockholm	1	80	15		fbf	08-6408133(hem)-08-855233(land)	0		1	2	1	1	2	0		0		1	92	30-aug-97	0	0
+158331	15833	1	191712042827	04-dec-17	Svärd, Ebba Signe Elisabet	Ebba		Svärd			Kungsvägen 5 C	28634	Örkelljunga	12	57	1		fbf	0435-52710	0		2	2	2	2	1	0		0		1	92	19-nov-97	0	0
+158332	15833	2	191712042801	04-dec-17	Engqvist, Elsa Maria Elvira	Elsa		Engqvist			Hinnerydsvägen 5	28731	Strömsnäsbruk	7	67	3		fbf	0433-21224	0		2	2	1	1	2	191503162834	M	0		2	50	19-sep-02	0	0
+158601	15860	1	191801032440	03-jan-18	Rydenstam, Ulla	Ulla		Rydenstam			Artillerig 70 A	11530	Stockholm	1	80	11		fbf	08-6647871	0		2	2	2	1	2	0		0		2	50	30-aug-02	0	0
+158602	15860	2	191801030865	03-jan-18	Webe, Birgit Elisabet Katarina	Birgit		Webe			Banérgatan 79 4 TR	11553	Stockholm	1	80	11		fbf	08-6619076	0		2	2	1	2	1	191807260011	M	0		2	50	05-jul-01	0	0
+159591	15959	1	191803314366	31-mar-18	Ohrlander, Anna-Stina	Anna-Stina		Ohrlander			Dirigentgatan 4 2TR	21585	Malmö	12	80	18		fbf	0372-70102	0		2	2	2	1	2	0		0		1	50	30-sep-99	0	0
+159592	15959	2	191803314382	31-mar-18	Svensson, Anna-Maja	Anna-Maja		Svensson			Vendelsfridsgatan 5 D	21764	Malmö	12	80	5		fbf	040-966894	0		2	2	1	2	1	0		0		1	50	15-aug-02	0	0
+159781	15978	1	191804161048	16-apr-18	Persson, Elly Karolina	Elly		Persson			Turevägen 48 B	19147	Sollentuna	1	63	1		fbf	08-7542862	0		2	2	2	1	2	0		0		2	50	06-feb-03	0	0
+159782	15978	2	191804161063	16-apr-18	Persson, Elsa	Elsa		Persson			Granängsvägen 3 4 TR	13545	Tyresö	1	38	1		fbf	08-7985324	0		2	2	1	2	1	0		0		1	50	26-feb-00	0	0
+159831	15983	1	191804187316	18-apr-18	Lundell, Sten Valdemar	Sten		Lundell			Sveaborgsgatan 49	78467	Borlänge	20	81	2		fbf	0243-32410	0		1	2	2	1	2	192208147146	M	0		2	50	01-nov-01	0	0
+159832	15983	2	191804187175	18-apr-18	Lundell, Ture Valdemar	Ture		Lundell			Mestaäng 54	77499	By Kyrkby	20	84	4		fbf	0226-75029	0		1	2	1	2	1	0		0		1	92	30-aug-97	0	0
+162061	16206	1	191811260650	26-nov-18	Fahlén, Erik	Erik		Fahlén			Löparv 1	79131	Falun	20	80	3		fbf	023-26054	0		1	2	2	1	2	191709090268	M	0		2	92	30-aug-97	0	0
+162062	16206	2	191811265436	26-nov-18	Fahlén, Petrus	Petrus		Fahlén			Stigbergsliden 11	41463	Göteborg	14	80	12		fbf	031-140937	0		1	2	1	2	1	191907315004	M	0		2	92	30-aug-97	0	0
+163351	16335	1	191904280540	28-apr-19	Abrahamsson, Ann-Marie	Ann-Marie		Abrahamsson			Vattumannens Gata 145, 4TR	13662	Haninge	1	36	1		fbf	08-7779281	0		2	2	2	1	2	0		0		1	50	07-jun-01	0	0
+163352	16335	2	191904280045	28-apr-19	Svensson, Anna-Lisa	Anna-Lisa		Svensson			Ringvägen 33 LÄG 0285	11863	Stockholm	1	80	14		fbf	08-848649	0		2	2	1	2	1	0		0		1	50	03-apr-01	0	0
+165061	16506	1	191910231503	23OCT1919	Eriksson, Svea Ingeborg	Svea		Eriksson			Svista	75593	Uppsala	3	80	21		fbf	018-367207	0		2	2	2	1	2	0		0		1	92	30-aug-97	0	0
+165062	16506	2	191910231487	23OCT1919	Jansson, Lilly	Lilly		Jansson			Mattiasgatan 10 B	81536	Tierp	3	60	1		fbf	0293-12861	0		2	2	1	2	1	0		0		1	50	31MAY2001	0	0
+165081	16508	1	191910241205	24OCT1919	Jonsson, Essy Emma Britt	Britt		Jonsson			Harg 1179	76021	Vätö	1	88	21		fbf	0176-234726	0		2	2	2	2	1	192006121210	M	0		2	50	02-mar-99	0	0
+165082	16508	2	191910241023	24OCT1919	Eriksson, Maj Karolina Missit	Maj		Eriksson			Risbylevägen 12	19454	Upplands Väsby	1	14	3		fbf	08-59030540	0		2	2	1	1	2	0		0		1	50	25OCT2001	0	0
+165681	16568	1	191912104807	10-dec-19	Johansson, Nora	Nora		Johansson			Centrumvägen 10 A LÄG 20	45530	Munkedal	14	30	1		fbf	0524-71120	0		2	2	2	1	2	0		0		1	50	02-jul-98	0	0
+165682	16568	2	191912105507	10-dec-19	Nilsson, Anna Maria	Anna		Nilsson			Carl Roséns Gränd 15 LÄG 19	45172	Uddevalla	14	85	12		fbf	0522-71610	0		2	2	1	2	1	0		0		1	50	18-mar-00	0	0
+166131	16613	1	192001122429	12-jan-20	Fridh, Aina Maria	Aina		Fridh			Kabelstigen 5 C	57437	Vetlanda	6	85	1		fbf	0383-16548	0		2	2	2	1	2	0		0		1	92	30-aug-97	0	0
+166132	16613	2	192001122460	12-jan-20	Jonhall, Astrid Magnhild	Astrid		Jonhall			Kettilsgatan 5	57436	Vetlanda	6	85	1		fbf	0383-10666	0		2	2	1	2	1	191405252675	M	0		2	50	10-feb-00	0	0
+166791	16679	1	192003025547	02-mar-20	Carlsson, Margit Sofia	Margit		Carlsson			Södra Kyrkogatan 57 A	50343	Borås	14	90	2		fbf	033-140371	0		2	2	2	2	1	0		0		1	50	29-nov-01	0	0
+166792	16679	2	192003022940	02-mar-20	Holmström, Maja Kristina	Maja		Holmström	Kvarnbacken		Sveavägen 6	38280	Nybro	8	81	1		fbf	0481-12130	0		2	2	1	1	2	0		0		1	50	08OCT2003	0	0
+167711	16771	1	192004244360	24-apr-20	Forsberg, Ingrid	Ingrid		Forsberg			Skattegårdsv 57, BV	16262	Vällingby	1	80	31		fbf	08-4718962	0		2	2	2	2	1	191806210512	M	0		2	92	30-aug-97	0	0
+167712	16771	2	192004244329	24-apr-20	Wahlquist, Karin Valborg Julia	Karin		Wahlquist			Tycho Brahegatan 21	21612	Limhamn	12	80	7		fbf	040-157718	0		2	2	1	1	2	0		0		1	50	09OCT2002	0	0
+167731	16773	1	192004266462	26-apr-20	Gustafsson, Marianne Terese	Marianne Terese		Gustafsson			Nordvärnsgatan 3	65344	Karlstad	17	80	11		fbf	054-564967	0		2	2	2	2	1	0		0		1	50	30-aug-01	0	0
+167732	16773	2	192004266207	26-apr-20	Kihlberg, Margit	Margit Sofia		Kihlberg			Hantverkaregatan 33	65460	Karlstad	17	80	2		fbf	054-101952	0		2	2	1	1	2	192012176216	M	0		2	50	30-aug-01	0	0
+167881	16788	1	192005103540	10MAY1920	Moberg, Hulda Alma Kristina	Hulda Alma Kristina		Moberg			Storgatan 9	28072	Killeberg	12	73	3		fbf	0479-30185	0		2	2	2	2	1	0		0		1	50	06-sep-01	0	0
+167882	16788	2	192005103524	10MAY1920	Björnsson, Svea Inga Brita	Svea Inga Brita		Björnsson			Storgatan 40	28072	Killeberg	12	73	3		fbf	0479-30153	0		2	2	1	1	2	0		0		1	50	06-sep-01	0	0
+168381	16838	1	192006116228	11-jun-20	Kärnström, Eivor Frideborg	Eivor Frideborg		Kärnström			Södra Ringvägen 65	68140	Kristinehamn	17	81	1		fbf		0		2	2	2	2	1	0		0		2	50	30-sep-99	0	0
+168382	16838	2	192006116442	11-jun-20	Larsson, Gunni Ingegerd	Gunni		Larsson			Södra Ringvägen 65	68140	Kristinehamn	17	81	1		fbf	0550-14536	0		2	2	1	1	2	0		0		1	50	07-mar-03	0	0
+168391	16839	1	192006110056	11-jun-20	Dahlberg, Arvid Bertil Sune	Sune		Dahlberg			Borgstigen 9	13333	Saltsjöbaden	1	82	2		fbf	08-7177723	0		1	2	2	2	1	0		0		2	50	25-jan-02	0	0
+168392	16839	2	192006110577	11-jun-20	Dahlberg, Bengt	Bengt		Dahlberg			Rättartunet 17, V	14135	Huddinge	1	26	1		fbf	08-7468143	0		1	2	1	1	2	192403105485	M	0		2	92	30-aug-97	0	0
+168641	16864	1	192006295717	29-jun-20	Stjernhager, Per Gustaf	Per		Stjernhager			Kransvägen 122	50765	Borås	14	90	2		fbf	033-155850	0		1	2	2	2	1	0		0		1	92	01-jan-98	0	0
+168642	16864	2	192006295733	29-jun-20	Stjernhager, Karl Gustaf	Karl Gustaf		Stjernhager			Månsagårdsvägen 11	51171	Fritsla	14	63	7		fbf	0320-70993	0		1	2	1	1	2	0		0		2	50	16-aug-01	0	0
+169121	16912	1	192008175941	17-aug-20	Nygren, Anne-Marie	Ann-Marie		Nygren			Västra Kvarngatan 38	61132	Nyköping	4	80	1		fbf	0155-210790	0		2	2	2	1	2	0		0		1	50	21-nov-02	0	0
+169122	16912	2	192008171940	17-aug-20	Gunnarsson, Inga Britta	Ingabritt		Gunnarsson			Norra Promenaden 104 A, 2 TR	60218	Norrköping	5	81	3		fbf	011-130596	0		2	2	1	2	1	0		0		2	50	08-sep-01	0	0
+169551	16955	1	192009180692	18-sep-20	Ekblad, Stig Gunnar	Stig		Ekblad			Nordmarksvägen 84	12372	Farsta	1	80	25		fbf	08-946838	0		1	2	2	1	2	0		0		2	50	28-nov-02	0	0
+169552	16955	2	192009180718	18-sep-20	Ekblad, Bengt Olov	Bengt		Ekblad			Grafikvägen 13 1 TR	12143	Johanneshov	1	80	34		fbf	08-910549	0		1	2	1	2	1	192010100887	M	0		2	50	12-nov-02	0	0
+169741	16974	1	192010017867	01OCT1920	Bergman, Karin Maria	Karin Maria		Bergman			Tjärhovsgatan 7 A LÄG 20	45142	Uddevalla	14	85	1		fbf	0524-40220	0		2	2	2	2	1	0		0		2	92	30-aug-97	1,9201E+11	0
+169742	16974	2	192010017842	01OCT1920	Forsberg, Inger Kristina	Inger		Forsberg			Nyhemmanet 70	87194	Viksjö	22	80	5		fbf	0611-31089	0		2	2	1	1	2	192008097830	M	0		2	92	30-aug-97	0	0
+169841	16984	1	192010072409	07OCT1920	Josefsson, Brita Ingegärd	Brita Ingegärd		Josefsson			Torng 23	33432	Anderstorp	6	62	4		fbf	0371-15464	0		2	2	2	2	1	191707242416	M	0		2	92	30-aug-97	0	0
+169842	16984	2	192010072425	07OCT1920	Andersson, Margot Elvira	Margot		Andersson			Torgg 10	33433	Anderstorp	6	62	4		fbf	0371-16748	0		2	2	1	1	2	0		0		1	92	30-aug-97	0	0
+170811	17081	1	192012214942	21-dec-20	Myhre, Margareta Sofia	Margareta Sofia		Myhre			Norra Anrås 143	44460	Stora Höga	14	15	5		fbf	0303-777019	0		2	2	2	1	2	0		0		2	50	03OCT2001	0	0
+170812	17081	2	192012215444	21-dec-20	Andersson, Alice Linnea	Alice Linnea		Andersson			Bäckvägen 18 B, II	43535	Mölnlycke	14	1	3		sp	031-885542	0		2	2	1	2	1	0		0		1	50	05-dec-02	0	0
+171191	17119	1	192101192488	19-jan-21	Sveningsson, Karin Anna Justina	Karin Anna Justina		Sveningsson			Brynsås 5	56025	Bottnaryd	6	80	24		fbf	0393-44021	0		2	2	2	1	2	0		0		1	50	22-dec-99	0	0
+171192	17119	2	192101192405	19-jan-21	Andersson, Linnéa Viola Maria	Linnéa Viola Maria		Andersson			Skolgatan 19	56631	Habo	6	43	1		fbf	036-47238	0		2	2	1	2	1	0		0		1	50	13-sep-01	0	0
+171271	17127	1	192101276612	27-jan-21	Gustafsson, Nils Karl	Nils		Gustafsson			Östa, Hidingebro	71692	Fjugesta	18	14	2		fbf	0585-10246	0		1	2	2	1	2	0		0		1	50	27-feb-02	0	0
+171272	17127	2	192101276638	27-jan-21	Gustafsson, Olov Karl	Olov Karl		Gustafsson			Östa, Kullabacken	71692	Fjugesta	18	14	2		fbf	0585-10664	0		1	2	1	2	1	193512026802	M	0		2	50	27-feb-02	0	0
+172301	17230	1	192104162603	16-apr-21	Brorsson, Stenis Gunhild Teresia	Gunhild		Brorsson			Byrum 1	57031	Ingatorp	6	86	5		fbf	0381-24013	0		2	2	2	1	2	191702032630	M	0		2	50	04-dec-99	0	0
+172302	17230	2	192104167362	16-apr-21	Johansson, Ingrid Amalia	Ingrid		Johansson			Permatsvägen 19 A	79631	Älvdalen	20	39	2		fbf	0251-10522	0		2	2	1	2	1	0		0		1	50	15-jul-98	0	0
+172621	17262	1	192105053363	05MAY1921	Martinsson, Svea Ingeborg	Svea		Martinsson			Sölvesborgsvägen 15	37530	Mörrum	10	82	6		fbf	0454-50460	0		2	2	2	1	2	0		0		2	50	25-sep-01	0	0
+172622	17262	2	192105053348	05MAY1921	Johansson, Rut	Rut		Johansson			Bygatan 22 L	37534	Mörrum	10	82	6		fbf	0454-50824	0		2	2	1	2	1	0		0		1	92	30-aug-97	0	0
+173731	17373	1	192108010923	01-aug-21	Säfström, Inger	Inger Margareta		Säfström			Tyghusgatan 2, III	30232	Halmstad	13	80	1		fbf	035-187185	0		2	2	2	1	2	0		0		1	92	30-aug-97	0	0
+173732	17373	2	192108013505	01-aug-21	Olsson, Inga Margareta	Inga Margareta		Olsson			Fabriksgatan 19 C	26533	Åstorp	12	77	1		fbf	042-58631	0		2	2	1	2	1	0		0		1	50	04OCT2001	0	0
+174731	17473	1	192110273907	27OCT1921	Magnusson, Ebba Paulina	Ebba		Magnusson			Hornsgatan 2 A	27434	Skurup	12	64	1		fbf	0411-39500	0		2	2	2	2	1	0		0		1	50	16OCT2003	0	0
+174732	17473	2	192110273923	27OCT1921	Ivarsson, Marta Amalia	Märta		Ivarsson			Nybogatan 13 B	27330	Tomelilla	12	70	5		fbf	0417-31226	0		2	2	1	1	2	0		0		2	50	18-dec-01	0	0
+175291	17529	1	192108077104	07-aug-21	Karlsson, Anna Viktoria	Anna		Karlsson			Kolgillaregatan 10 A	77434	Avesta	20	84	1		fbf	0226-53382	0		2	2	2	2	1	192410132993	M	0		2	50	05-dec-02	0	0
+175292	17529	2	192108076981	07-aug-21	Eriksson, Kerstin Viktoria	Kerstin		Eriksson			Hyttg 72 B	79173	Falun	20	80	3		fbf	023-22903	0		2	2	1	1	2	0		0		1	92	30-aug-97	0	0
+175341	17534	1	192112112400	11-dec-21	Gustafsson, Sally	Sally		Gustafsson			Ryd	56892	Skillingaryd	6	65	5		fbf	0370-74030	0		2	2	2	1	2	0		0		1	92	30-aug-97	0	0
+175342	17534	2	192112112624	11-dec-21	Gunnargård, Berta	Berta		Gunnargård			Storgatan 7 LGH 2	33033	Hillerstorp	6	17	3		fbf	0370-22138	0		2	2	1	2	1	191801232610	M	0		2	50	06-feb-99	0	0
+176311	17631	1	192203012824	01-mar-22	Bergenholtz, Agnes Kerstin Edit	Kerstin		Bergenholtz			Djäknevägen 5	35234	Växjö	7	80	1		fbf	0470-749098	0		2	2	2	2	1	0		0		1	92	30-aug-97	0	0
+176312	17631	2	192203012840	01-mar-22	Hultgren, Inez Klara Elisabet	Inez		Hultgren			Kvarnhagsgatan 21 A	35240	Växjö	7	80	1		fbf	0470-711381	0		2	2	1	1	2	0		0		1	92	30-aug-97	0	0
+176911	17691	1	192204101733	10-apr-22	Gustafsson, Rolf	Rolf		Gustafsson			Hagvägen 9	61340	Oxelösund	4	81	1		fbf	0155-212654	0		1	2	2	2	1	0		0		1	50	03-jun-00	0	0
+176912	17691	2	192204101758	10-apr-22	Gustafsson, Rune Ingvar	Rune		Gustafsson			Sågaregatan 6 C, I	61132	Nyköping	4	80	1		fbf	0155-216450	0		1	2	1	1	2	0		0		1	50	21-nov-02	0	0
+177181	17718	1	192204243030	24-apr-22	Knutsson, Arne	Arne		Knutsson			Stengatan 2	57231	Oskarshamn	8	82	1		fbf	0491-15154	0		1	2	2	2	1	192411062900	M	0		2	50	27-apr-01	0	0
+177182	17718	2	192204243014	24-apr-22	Knutsson, Ebbe Hjalmar	Ebbe		Knutsson			Bangatan 15	57750	Silverdalen	8	60	2		fbf	0495-40776	0		1	2	1	1	2	0		0		1	92	30-aug-97	0	0
+178131	17813	1	192207204633	20-jul-22	Öberg, Rune	Rune		Öberg		Prästgården	Minas Väg 60	43031	Åsa	13	84	8		fbf	0340-651045	0		1	2	2	1	2	0		0		1	50	06-feb-01	0	0
+178132	17813	2	192207205572	20-jul-22	Öberg, Stig	Stig		Öberg			Varbergsvägen 1804 A	43031	Åsa	13	84	8		fbf	0340-651045	0		1	2	1	2	1	0		0		1	50	03-nov-01	0	0
+178681	17868	1	192209028964	02-sep-22	Fredriksson, Anna-Lena	Anna-Lena		Fredriksson			Mellanparksgatan 5	95233	Kalix	25	14	1		fbf	0923-77486	0		2	2	2	1	2	192204198937	M	0		2	50	05-jul-01	0	0
+178682	17868	2	192209028980	02-sep-22	Fredriksson, Anna-Lisa	Anna-Lisa		Fredriksson			Drottning Kristinas Väg 9 B	39238	Kalmar	8	80	16		fbf	0480-23237	0		2	2	1	2	1	191704051117	M	0		2	50	31OCT2002	0	0
+179051	17905	1	192209297825	29-sep-22	Pettersson, Ruth	Ruth		Pettersson			Södra Långgatan 28	89530	Bredbyn	22	84	4		fbf	0661-10287	0		2	2	2	2	1	0		0		1	50	26-feb-02	0	0
+179052	17905	2	192209297841	29-sep-22	Öberg, Gerd	Gerd		Öberg			Ringduveg 111, I	72470	Västerås	19	80	2		fbf	021-351576	0		2	2	1	1	2	192502288034	M	0		2	50	14-mar-02	0	0
+179781	17978	1	192212122366	12-dec-22	Blondell, Dagmar	Dagmar Ingeborg		Blondell			Solgården C14	59932	Ödeshög	5	9	2		sp		0		2	2	2	1	2	0		0		1	50	01-sep-00	0	0
+179782	17978	2	192212121905	12-dec-22	Svensson, Birgit Margareta	Birgit Margareta		Svensson			Åkaregatan 11	60360	Norrköping	5	81	6		fbf	011-140454	0		2	2	1	2	1	191907021917	M	0		2	50	24MAY2001	0	0
+180881	18088	1	192303096131	09-mar-23	Wikborg, Olof Martin	Olof		Wikborg			Älvdalsv 15, III	16575	Hässelby	1	80	38		fbf	08-7393539	0		1	2	2	1	2	0		0		2	50	13-aug-03	0	0
+180882	18088	2	192303091710	09-mar-23	Wikborg, Anders Martin	Anders		Wikborg			Visnumsgatan 5	68141	Kristinehamn	17	81	1		fbf	0550-18539	0		1	2	1	2	1	0		0		1	50	11-jun-98	0	0
+181181	18118	1	192303281428	28-mar-23	Forsberg, Eva Zenobia	Eva Zenobia		Forsberg		Vretarna	Ålfors 256	81591	Tierp	3	60	5		fbf	0293-53022	0		2	2	2	2	1	192110271497	M	0		2	50	27-sep-02	0	0
+181182	18118	2	192303287581	28-mar-23	Sandberg, Inga Brita	Inga Brita		Sandberg			Lisa Sass Gata 12	42253	Hisings Backa	14	80	40		fbf	031-511788	0		2	2	1	1	2	0		0		2	50	04-jun-03	0	0
+181811	18181	1	192305188761	18MAY1923	Johansson, Ingrid	Ingrid		Johansson			Linjeplan 26 B	88150	Sollefteå	22	83	1		fbf	0620-16836	0		2	2	2	2	1	0		0		2	50	25-aug-01	0	0
+181812	18181	2	192305188522	18MAY1923	Johansson, Astrid	Astrid		Johansson			Parkgatan 17	92131	Lycksele	24	81	1		fbf	0950-66994	0		2	2	1	1	2	0		0		1	50	17-jul-01	0	0
+182271	18227	1	192306281623	28-jun-23	Nerblad, Gunnel Charlotta	Gunnel		Nerblad			Björnbärsv 22	28140	Hässleholm	12	93	1		fbf	0451-80566	0		2	2	2	1	2	0		0		1	92	30-aug-97	0	0
+182272	18227	2	192306285822	28-jun-23	Flodin, Gerd Karolina	Gerd		Flodin			Staketgatan 25 C LÄG 48	80323	Gävle	21	80	1		fbf	026-121024	0		2	2	1	2	1	0		0		1	92	30-aug-97	0	0
+182371	18237	1	192307166989	16-jul-23	Blom, Rut	Rut		Blom			Rudbecksg 14, VII	70223	Örebro	18	80	1		fbf	019-6112626	0		2	2	2	2	1	0		0		1	92	30-aug-97	0	0
+182372	18237	2	192307166963	16-jul-23	Persson, Elsa Viktoria	Elsa		Persson			Hemshyttan 4	77794	Söderbärke	20	61	2		fbf	0240-53237	0		2	2	1	1	2	191612147155	M	0		2	92	30-aug-97	0	0
+182411	18241	1	192307192118	19-jul-23	Öhrberg, Kurt Holger	Kurt Holger		Öhrberg			Ljuragatan 29	60351	Norrköping	5	81	6		fbf	011-187908	0		1	2	2	2	1	192705302129	M	0		2	50	24MAY2001	0	0
+182412	18241	2	192307192134	19-jul-23	Öhrberg, Knut Erik	Knut Erik		Öhrberg			Bråddgatan 27	60222	Norrköping	5	81	3		fbf	011-164381	0		1	2	1	1	2	0		0		1	50	28-dec-00	0	0
+182781	18278	1	192308222781	22-aug-23	Hermansson, Tyra Margit	Tyra		Hermansson			Kvarnvägen 26	36032	Gemla	7	80	16		fbf	0470-67542	0		2	2	2	1	2	0		0		1	92	30-aug-97	0	0
+182782	18278	2	192308225503	22-aug-23	Vernblom, Lisa	Lisa		Vernblom			Lars Kaggsgatan 107	50443	Borås	14	90	2		fbf	033-105175	0		2	2	1	2	1	0		0		1	92	01-jan-98	0	0
+182821	18282	1	192308255609	25-aug-23	Svahn, Aina Justina	Aina Justina		Svahn			Fjärde Långgatan 45	41327	Göteborg	14	80	11		fbf	031-141040	0		2	2	2	1	2	192205055250	M	0		2	92	30-aug-97	0	0
+182822	18282	2	192308254842	25-aug-23	Olausson, Elin	Elin Helena		Olausson			Sibräckavägen 4	47195	Skärhamn	14	19	2		fbf	0304-660157	0		2	2	1	2	1	0		0		1	50	10-jul-03	0	0
+183001	18300	1	192309087167	08-sep-23	Liljemark, Elsa Kristina	Elsa		Liljemark			Polacksgatan 4 A	82133	Bollnäs	21	83	3		fbf	0278-16663	0		2	2	2	2	1	192107057735	M	0		2	50	20-sep-01	0	0
+183002	18300	2	192309087126	08-sep-23	Näslund, Ella Emilia	Ella		Näslund			Älvdalsgatan 7	65229	Karlstad	17	80	1		fbf	054-157711	0		2	2	1	1	2	0		0		1	50	30-aug-01	0	0
+183041	18304	1	192309112981	11-sep-23	Fransson, Karin Dagny	Karin		Fransson			Doktor Sandbergs Gata 5 D	38244	Nybro	8	81	1		fbf	0481-13029	0		2	2	2	1	2	0		0		1	50	12OCT2000	0	0
+183042	18304	2	192309113005	11-sep-23	Karlsson, Anna Dagny	Anna		Karlsson			Vattugatan 4	38242	Nybro	8	81	1		fbf	0481-17169	0		2	2	1	2	1	0		0		2	50	21-aug-03	0	0
+183911	18391	1	192312125632	12-dec-23	Andersson, Ivar	Ivar		Andersson			Sexdregagatan 3	50762	Borås	14	90	2		fbf	033-157455	0		1	2	2	1	2	0		0		1	50	01-sep-01	0	0
+183912	18391	2	192312125616	12-dec-23	Ramfall, Axel	Axel		Ramfall			Kransv 166	50765	Borås	14	90	2		fbf	033-157419	0		1	2	1	2	1	193211175702	M	0		2	50	23-aug-02	0	0
+184121	18412	1	192401015207	01-jan-24	Olsson, Kajsa	Kajsa		Olsson			Eklandagatan 44	41282	Göteborg	14	80	8		fbf	031-180243	0		2	2	2	1	2	192108065232	M	0		2	50	15OCT2002	0	0
+184122	18412	2	192401015041	01-jan-24	Kallin, Brita	Brita		Kallin			Lillekärr Norra 12	42534	Hisings Kärra	14	80	31		fbf	031-573818	0		2	2	1	2	1	192305155018	M	0		2	92	30-aug-97	0	0
+184251	18425	1	192401156951	15-jan-24	Landerholm, Karl-Gunnar	Gunnar		Landerholm			Hamngatan 11 D	73631	Kungsör	19	60	1		fbf	0227-10686	0		1	2	2	2	1	193205126927	M	0		2	50	23-apr-02	0	0
+184252	18425	2	192401156936	15-jan-24	Landerholm, Bengt-Magnus	Bengt		Landerholm			Storgatan 26	73632	Kungsör	19	60	1		fbf	0227-10949	0		1	2	1	1	2	192410296905	M	0		2	50	04-sep-03	0	0
+184411	18441	1	192401306226	30-jan-24	Petersson, Ingrid	Ingrid		Petersson			S Ringv 57	68140	Kristinehamn	17	81	1		fbf	0550-14131	0		2	2	2	2	1	0		0		1	50	03-sep-02	0	0
+184412	18441	2	192401306242	30-jan-24	Jönsson, Margit	Margit		Jönsson			Vildparksv 18	28137	Hässleholm	12	93	1		fbf	0451-13183	0		2	2	1	1	2	192602163533	M	0		2	92	30-aug-97	0	0
+185121	18512	1	192404033926	03-apr-24	Göransson, Astrid	Astrid		Göransson			Serenadg 70 VI	21572	Malmö	12	80	8		fbf	040-86449	0		2	2	2	2	1	0		0		2	50	05-sep-02	0	0
+185122	18512	2	192404033942	03-apr-24	Jönsson, Margit Ellida	Margit		Jönsson			Kungsgatan 13	64130	Katrineholm	4	83	1		fbf	0150-16914	0		2	2	1	1	2	192303274134	M	0		2	50	24MAY2001	0	0
+185341	18534	1	192404234631	23-apr-24	Oskarsson, Karl Arne	Karl Arne		Oskarsson			Rosendalsvägen 10	43016	Rolfstorp	13	83	5		fbf		0		1	2	2	1	2	0		0		1	50	17-nov-99	0	0
+185342	18534	2	192404234615	23-apr-24	Oskarsson, Erik Verner	Erik Verner		Oskarsson			Lindbergsvägen 106	43292	Varberg	13	83	13		fbf		0		1	2	1	2	1	192706074727	M	0		2	92	30-aug-97	0	0
+186661	18666	1	192408194500	19-aug-24	Lindgren, Ulla Maria Ingegärd W	Ulla		Lindgren			Per Bondessons Väg 12	26831	Svalöv	12	14	2		fbf	0418-662377	0		2	2	2	1	2	192012160376	M	0		2	92	08-jan-98	0	0
+186662	18666	2	192408190680	19-aug-24	Neborg, Margareta	Margareta		Neborg			Tranv 13	26942	Båstad	12	78	2		fbf	0431-361579	0		2	2	1	2	1	0		0		1	50	03-jan-02	0	0
+186761	18676	1	192408294318	29-aug-24	Petersén, Hans Erik Konstantin	Hans Erik		Petersén			Vitabäcksgränd 1	21620	Malmö	12	80	7		fbf	040-154154	0		1	2	2	1	2	0		0		1	92	30-aug-97	0	0
+186762	18676	2	192408294334	29-aug-24	Petersén, Olle Bertil Konstantin	Bertil		Petersén			Erikslustvägen 36 E	21773	Malmö	12	80	2		fbf	040-264816	0		1	2	1	2	1	0		0		1	50	15-aug-02	0	0
+188581	18858	1	192502184829	18-feb-25	Samuelsson, Linnéa Margareta	Margareta		Samuelsson			Frejag 2A	43144	Mölndal	14	81	1		fbf	031-873857	0		2	2	2	1	2	0		0		1	92	30-aug-97	0	0
+188582	18858	2	192502184845	18-feb-25	Eriksson, Sylvia Eleonora	Sylvia		Eriksson			Killingstigen 5	43341	Partille	14	2	1		fbf	031-443758	0		2	2	1	2	1	0		0		2	50	11-nov-98	0	0
+188891	18889	1	192503175925	17-mar-25	Johansson, Elsa Marianne	Marianne		Johansson			Trojenborgsstigen 1 A	59632	Skänninge	5	86	3		fbf	0142-42787	0		2	2	2	2	1	191712236130	M	0		2	50	28-nov-98	0	0
+188892	18889	2	192503172120	17-mar-25	Bengtsson, Märta Ingeborg	Ingeborg		Bengtsson			Norra Borgvik Nordstugan	66495	Borgvik	17	64	2		fbf	0555-74019	0		2	2	1	1	2	192512206455	M	0		2	50	15-aug-98	0	0
+189191	18919	1	192504096484	09-apr-25	Henriksson, Dagny Elvira	Dagny Elvira		Henriksson			Henrik Sörensens Väg 5	68532	Torsby	17	37	1		fbf	0560-13139	0		2	2	2	1	2	0		0		1	92	30-aug-97	0	0
+189192	18919	2	192504096443	09-apr-25	Olsson, Elin Linnéa	Elin Linnéa		Olsson			Tjärnberg 1	68594	Torsby	17	37	9		fbf	0560-33064	0		2	2	1	2	1	0		0		1	50	03-jan-02	0	0
+189621	18962	1	192505164125	16MAY1925	Apelgren, Margareta Anne-Britt	Margareta		Apelgren			Nöbbelövsvägen 2 C NIBBLEGÅRDEN	22652	Lund	12	81	2		fbf	046-149465	0		2	2	2	2	1	0		0		1	92	30-aug-97	0	0
+189622	18962	2	192505164109	16MAY1925	Andersson, Majken Inga-Lisa	Majken		Andersson			Stenskogsvägen 7	24330	Höör	12	67	2		fbf	0413-23686	0		2	2	1	1	2	0		0		1	92	30-aug-97	0	0
+189901	18990	1	192506082821	08-jun-25	Wänberg, Signe	Signe Magnhild		Wänberg			Järnvägsgatan 18	34014	Lagan	7	81	8		fbf	0372-35100	0		2	2	2	2	1	0		0		1	92	30-aug-97	0	0
+189902	18990	2	192506082805	08-jun-25	Bengtsson, Anna	Anna Margit		Bengtsson			Kyrksjövägen 7 C	36044	Ingelstad	7	80	8		fbf	0470-30375	0		2	2	1	1	2	0		0		2	50	22-jan-03	0	0
+190061	19006	1	192506232368	23-jun-25	Olsson, Karin	Karin		Olsson			Kvinnebyvägen 65	58933	Linköping	5	80	3		fbf	013-156039	0		2	2	2	2	1	192305287159	M	0		2	50	26-apr-01	0	0
+190062	19006	2	192506232905	23-jun-25	Henningsson, Ingrid Margareta	Ingrid		Henningsson			Gubbtäppev 17	14464	Rönninge	1	28	1		fbf	08-53255664	0		2	2	1	1	2	0		0		1	50	09MAY2002	0	0
+190591	19059	1	192508120363	12-aug-25	Gustafsson, Märta Ingeborg	Märta		Gustafsson			Vänortsringen 50 BV	19530	Märsta	1	91	6		fbf	08-59120853	0		2	2	2	1	2	0		0		1	50	16-nov-02	0	0
+190592	19059	2	192508120348	12-aug-25	Viklund, Greta	Greta Frideborg		Viklund			Vasagatan 21 B	91060	Åsele	24	63	1		fbf	0941-66053	0		2	2	1	2	1	0		0		1	50	29MAY2002	0	0
+190841	19084	1	192509111254	11-sep-25	LANDBERG, KARL ÅKE	Karl Åke		Landberg			Gustaf Clasons Gata 30	60378	Norrköping	5	81	5		fbf	011-170252	0		1	2	2	1	2	192807161266	M	0		2	92	30-aug-97	0	0
+190842	19084	2	192509116634	11-sep-25	Landberg, Folke Hugo	Folke Hugo		Landberg			Morbyvägen 1	73792	Fagersta	19	82	1		fbf	070-6247615	0		1	2	1	2	1	193003286881	M	0		2	50	05-feb-02	0	0
+191591	19159	1	192511303949	30-nov-25	Svensson, Karla	Karla Elvira		Svensson			Övre Långvinkelsgatan 107	25436	Helsingborg	12	83	1		fbf	042-132838	0		2	2	2	1	2	0		0		1	92	30-aug-97	0	0
+191592	19159	2	192511304145	30-nov-25	Nordgren, Klary Ellynora	Klary Ellynora		Nordgren			Spjutserödsvägen 2	28436	Perstorp	12	75	1		fbf	042-283822	0		2	2	1	2	1	0		0		2	50	11-jul-03	0	0
+210511	21051	1	192608295255	29-aug-26	Nilsson Nils Johan	Nils Johan		Nilsson				0		0	0	0				9		1	2	2	2	1	0		0		0	0		0	0
+210512	21051	2	192608294811	29-aug-26	Nilsson, Kurt Artur	Kurt Artur		Nilsson			Norra Fiskebäcksvägen 30	42679	Västra Frölunda	14	80	23		fbf	031-291382	0		1	2	1	1	2	193103015404	M	0		2	50	09-jun-98	0	0
+210991	21099	1	192609085556	08-sep-26	Olsson, Arne Georg	Arne		Olsson			Kopperöd 368	45193	Uddevalla	14	85	11		fbf	0522-660386	0		1	2	2	1	2	193109274880	M	0		2	50	05MAY2000	0	0
+210992	21099	2	192609085531	08-sep-26	Olsson, Allan Gunnar	Allan		Olsson			Stommen 2479	45892	Färgelanda	14	39	2		fbf	0528-10586	0		1	2	1	2	1	193505195606	M	0		2	92	01-jan-98	0	0
+211561	21156	1	192609222324	22-sep-26	Nilsson, Märta Kristina	Märta		Nilsson			Höjdg 21A	61432	Söderköping	5	82	1		fbf	0121-12803	0		2	2	2	1	2	192810241915	M	0		2	50	09MAY2002	0	0
+211562	21156	2	192609221920	22-sep-26	Holmfeldt, Margit Augusta	Margit		Holmfeldt			Smedstugugatan 15 A	60213	Norrköping	5	81	4		fbf	011-169311	0		2	2	1	2	1	192905201931	M	0		2	50	24MAY2001	0	0
+211801	21180	1	192609281460	28-sep-26	Eriksson, Maria Emilia	Maria Emilia		Eriksson			Bergsgatan 82, III	74532	Enköping	3	81	1		fbf	0171-34854	0		2	2	2	1	2	0		0		1	50	27-sep-02	0	0
+211802	21180	2	192609281486	28-sep-26	Olsson, Mariana Charlotta	Mariana Charlotta		Olsson			Sunnerstavägen 11	82141	Bollnäs	21	83	3		fbf	0278-15844	0		2	2	1	2	1	191801077510	M	0		2	50	20-sep-01	0	0
+212541	21254	1	192610152437	15OCT1926	Hägg, Sven Erik Robert	Robert		Hägg			Nygatan 28	67140	Arvika	17	84	1		fbf	0570-14386	0		1	2	2	2	1	192804249841	M	0		2	50	03OCT2002	0	0
+212542	21254	2	192610152619	15OCT1926	Hägg, Sven Olof Börje	Börje		Hägg			Storgatan 109	33131	Värnamo	6	83	1		fbf	0370-80494	0		1	2	1	1	2	0		0		1	50	22-jan-02	0	0
+212801	21280	1	192610216125	21OCT1926	Skoog, Karin	Karin		Skoog			Södra Kolarestigen 63	54245	Mariestad	14	93	2		fbf	0501-14738	0		2	2	2	1	2	192101116156	M	0		2	50	26-apr-01	0	0
+212802	21280	2	192610215945	21OCT1926	Rosell, Elsa	Elsa		Rosell			Kullgatan 1 A	57015	Holsbybrunn	6	85	15		fbf	0383-50521	0		2	2	1	2	1	0		0		2	50	27-jun-03	0	0
+213071	21307	1	192610289577	28OCT1926	Lindberg, Lennart	Lennart		Lindberg			Ritarg 1B,NB	75433	Uppsala	3	80	4		fbf	018-254647	0		1	4	2	2	1	193201291444	M	0		2	92	30-aug-97	0	0
+213072	21307	2	192610281400	28OCT1926	Wahlström, Maj-Britt Olivia	Maj-Britt		Wahlström	Pettersson		Kastanjeg 7	75434	Uppsala	3	80	4		fbf	018-253052	0		2	4	1	1	2	0		0		1	50	03-sep-02	0	0
+213681	21368	1	192611155256	15-nov-26	Wolter, Kurt	Kurt		Wolter			Hjortmosseg 32	46151	Trollhättan	14	88	1		fbf	0520-33068	0		1	4	2	1	2	0		0		1	50	23-aug-02	0	0
+213682	21368	2	192611154846	15-nov-26	Carlsson, Ingegerd	Ingegerd		Carlsson			Bäckmans Gård 64, 3TR	43435	Kungsbacka	13	84	1			0300-10927	0		2	4	1	2	1	192004104812	M	0		2	92		0	0
+213811	21381	1	192611177359	17-nov-26	Dagerhorn, Sixten	Sixten		Dagerhorn			Stinsgatan 14	65226	Karlstad	17	80	1		fbf	054-186274	0		1	2	2	1	2	192802261400	M	0		2	50	30-aug-01	0	0
+213812	21381	2	192611177334	17-nov-26	Andersson, Gustaf Börje	Börje		Andersson			Kungsgårdsv 28	79141	Falun	20	80	1		fbf	023-20659	0		1	2	1	2	1	192906137308	M	0		2	92	30-aug-97	0	0
+214231	21423	1	192611293941	29-nov-26	Sollander, Margit Irene	Margit Irene		Sollander			Hebsackersgatan 2 A	25437	Helsingborg	12	83	1		fbf	042-121307	0		2	2	2	2	1	0		0		1	92	30-aug-97	0	0
+214232	21423	2	192611293982	29-nov-26	Nilsson, Inga	Inga Linnéa		Nilsson			Hebsackersgatan 2 A	25437	Helsingborg	12	83	1		fbf	042-126944	0		2	2	1	1	2	0		0		1	92	16-dec-97	0	0
+214821	21482	1	192612138038	13-dec-26	Westerlind, Per	Per		Westerlind			Hälletorpsvägen 13, 2 TR	87142	Härnösand	22	80	1		fbf	0611-222193	0		1	2	2	1	2	193007297827	M	0		2	50	12-apr-01	0	0
+214822	21482	2	192612138012	13-dec-26	Vesterlind, Lars Paul	Paul		Vesterlind			Dirigentvägen 15 A 281	89330	Bjästa	22	84	7		fbf	0660-223019	0		1	2	1	2	1	0		0		1	50	23-aug-03	0	0
+214891	21489	1	192612160040	16-dec-26	Von Wachenfeldt, Birgitta Maria	Birgitta		von Wachenfeldt			Storg 57 NB	11523	Stockholm	1	80	11		fbf	08-6623318	0		2	2	2	1	2	191307210490	M	0		2	92	30-aug-97	0	0
+214892	21489	2	192612160024	16-dec-26	Lindkvist, Ingrid Maria	Ingrid		Lindkvist			Ålgrytev 252	12730	Skärholmen	1	80	40		fbf	08-883744	0		2	2	1	2	1	193210251652	M	0		2	92	30-aug-97	0	0
+215201	21520	1	192612228037	22-dec-26	Kallin, Nils Johan Lennart	Lennart		Kallin			Samhällsv 17	89243	Domsjö	22	84	8		fbf	0660-52304	0		1	4	2	2	1	193001048028	M	0		2	92	30-aug-97	0	0
+215202	21520	2	192612228003	22-dec-26	Kallin, Rut Sigrid Kristina	Rut		Kallin			Bagges Väg 37	89243	Domsjö	22	84	8		fbf	0660-52683	0		2	4	1	1	2	0		0		1	92	30-aug-97	0	0
+216261	21626	1	192701166445	16-jan-27	Torpfelt, Elsa Lovisa Solveig	Solveig		Torpfelt			Hagalundsvägen 4	66930	Deje	17	63	2		fbf	0552-10429	0		2	2	2	2	1	192106036474	M	0		2	92	30-aug-97	0	0
+216262	21626	2	192701166205	16-jan-27	Nilsson, Anna Sigrid Gulli	Gulli		Nilsson			Karsbol, Åsen 1	66592	Kil	17	15	2		fbf	0554-15133	0		2	2	1	1	2	192212036418	M	0		2	50	13-mar-02	0	0
+216541	21654	1	192701251429	25-jan-27	Eklund, Rut	Rut		Eklund			Tövädersg 16	75431	Uppsala	3	80	4		fbf		0		2	4	2	1	2	192011181456	M	0		2	92	30-aug-97	0	0
+216542	21654	2	192701251296	25-jan-27	Hägglund, Erik Adolf	Erik		Hägglund			Ol-jansvägen 1 E	74046	Östervåla	19	17	7		fbf	0292-10437	0		1	4	1	2	1	0		0		1	50	20-jul-02	0	0
+217091	21709	1	192702084571	08-feb-27	Javerud, Bertil	Bertil		Javerud			Alnarpsvägen 3,1 TR	23253	Åkarp	12	31	1		fbf	040-464074	0		1	2	2	1	2	193901034508	M	0		2	50	04-sep-03	0	0
+217092	21709	2	192702084555	08-feb-27	Svensson, Bengt	Bengt		Svensson			Augustenborgsg 9B	21447	Malmö	12	80	6		fbf	040-920668	0		1	2	1	2	1	193311213502	M	0		2	50	05-sep-02	0	0
+217961	21796	1	192703027512	02-mar-27	Fröjd, Harry	Johan Harry		Fröjd			Björnöv 53	76141	Norrtälje	1	88	23		fbf	0176-19771	0		1	4	2	1	2	193405237508	M	0		2	92	30-aug-97	0	0
+217962	21796	2	192703026944	02-mar-27	Bergstrand, Anna Maria	Anna Maria		Bergstrand			Rodergatan 42 E	80282	Gävle	21	80	2		fbf	026-183809	0		2	4	1	2	1	192905107179	M	0		2	92	30-aug-97	0	1
+218051	21805	1	192703043212	04-mar-27	Engström, Tore Oskar Fred	Tore		Engström			Hablingbo Simes 449	62011	Havdhem	9	80	83		fbf	0498-485048	0		1	4	2	2	1	192706023229	M	0		2	92	30-aug-97	0	0
+218052	21805	2	192703043246	04-mar-27	Dahlberg, Ingegerd Lisbeth	Ingegerd		Dahlberg			Silte Ajpe 904	62011	Havdhem	9	80	82		fbf	0498-485076	0		2	4	1	1	2	192102043219	M	0		2	50	22OCT2003	0	0
+218391	21839	1	192703124657	12-mar-27	Mentzer, Sten	Sten von		Mentzer			Strömgatan 9 C	51254	Svenljunga	14	65	1		fbf	0325-611240	0		1	2	2	2	1	0		0		1	50	04-dec-01	0	0
+218392	21839	2	192703123311	12-mar-27	Von Mentzer, Rolf	Rolf		von Mentzer			Flygarevägen 6 A	24331	Höör	12	67	2		fbf	046-250776	0		1	2	1	1	2	193212173367	M	0		2	50	19-jan-00	0	0
+218601	21860	1	192703196945	19-mar-27	Sjögren, Svea Gunhild Viola	Gunhild		Sjögren			Brösicke Gård 15	64061	Stallarholmen	4	86	7		fbf	0152-42254	0		2	2	2	1	2	192011131774	M	0		2	50	06-nov-02	0	0
+218602	21860	2	192703196929	19-mar-27	Karlsson, Gudrun	Gudrun Linnéa		Karlsson	Hagaberg		Nibblesbackevägen 31	73151	Köping	19	83	1		fbf	0221-20810	0		2	2	1	2	1	0		0		1	92	12-sep-97	0	0
+219131	21913	1	192703314860	31-mar-27	Hellgren, Sonja Ingeborg	Sonja		Hellgren			Norra Långgatan 5	45230	Strömstad	14	86	1		fbf	0526-10690	0		2	2	2	2	1	0		0		1	50	24MAY2001	0	0
+219132	21913	2	192703314886	31-mar-27	Andersson, Vera Margareta	Vera		Andersson			Klippgatan 1 LÄG 434	45133	Uddevalla	14	85	1		fbf	0522-16581	0		2	2	1	1	2	0		0		1	92	30-aug-97	0	0
+219441	21944	1	192704096284	09-apr-27	Karlsson, Gunborg Maria	Gunborg		Karlsson			Skogsliden 23	69373	Svartå	18	62	2		fbf	0585-50258	0		2	2	2	2	1	0		0		1	50	03-jan-01	0	0
+219442	21944	2	192704096300	09-apr-27	Rydström, Karin Alice	Karin		Rydström			V Torgg 19 C BV	66531	Kil	17	15	1		fbf	0554-31446	0		2	2	1	1	2	0		0		2	50	16OCT2003	0	0
+220071	22007	1	192704211693	21-apr-27	Jonsson, Anders Birger	Birger		Jonsson			Koppargatan 5	57730	Hultsfred	8	60	2		fbf	0495-40001	0		1	4	2	1	2	195505272962	M	0		2	50	12-apr-01	0	0
+220072	22007	2	192704210042	21-apr-27	Bergström, Birgit Margareta	Birgit		Bergström			Kantatvägen 25 3 TR	13140	Nacka	1	82	1		fbf	08-6477462	0		2	4	1	2	1	192509210015	M	0		2	50	28-sep-00	0	0
+220221	22022	1	192704264825	26-apr-27	KARLSSON, SVEA NITA HERMINE	Svea Nita Hermine		Karlsson			Djurgårdsgatan 11	53150	Lidköping	14	81	1		fbf	0510-22780	0		2	2	2	1	2	192111106155	M	0		7	50	05-nov-02	0	0
+220222	22022	2	192704264940	26-apr-27	JAGEFELDT, ANNA GLORIA	Anna Gloria		Jagefeldt			Kungsgatan 16, LÄG 33	45333	Lysekil	14	84	1		fbf	0523-10920	0		2	2	1	2	1	0		0		1	50	06-sep-01	0	0
+220341	22034	1	192704297858	29-apr-27	Jonsson, Bror Sixten	Sixten		Jonsson			Hemling 408	89051	Långviksmon	22	84	12		fbf	0662-31062	0		1	2	2	1	2	192901068003	M	0		2	50	26-sep-01	0	0
+220342	22034	2	192704297874	29-apr-27	Jonsson, Knut Östen	Knut		Jonsson			Rörsjö 111	89051	Långviksmon	22	84	4		fbf	0662-50015	0		1	2	1	2	1	193310047844	M	0		2	50	17-apr-02	0	0
+220431	22043	1	192705022453	02MAY1927	Pettersson, Nils	Nils		Pettersson	Geroshus Avd Tellus		Galileis Gata 32	41517	Göteborg	14	80	32		fbf	031-308703	0		1	4	2	1	2	0		0		1	50	28OCT2000	0	0
+220432	22043	2	192705022404	02MAY1927	Johansson, Anna-Lisa	Anna-Lisa		Johansson			Änggatan 10	57142	Nässjö	6	82	1		fbf	0380-13786	0		2	4	1	2	1	0		0		2	50	23OCT2002	0	0
+220601	22060	1	192705061964	06MAY1927	Lindgren, Maj-Britt	Maj-Britt		Lindgren			Linköpingsvägen 41	60236	Norrköping	5	81	29		fbf	011-172702	0		2	2	2	2	1	0		0		1	92	30-aug-97	0	0
+220602	22060	2	192705062129	06MAY1927	Johansson, Gull-Britt Matilda	Gull-Britt Matilda		Johansson			Gråbergsgatan 67	60356	Norrköping	5	81	29		fbf	011-186892	0		2	2	1	1	2	0		0		2	50	27-feb-01	0	0
+221211	22121	1	192705183313	18MAY1927	Klaesson, Erik Arnold	Erik		Klaesson			Stationsvägen 7	37530	Mörrum	10	82	6		fbf	0454-50371	0		1	2	2	2	1	0		0		2	50	30-jan-03	0	0
+221212	22121	2	192705183339	18MAY1927	Klaesson, Vigo	Nils Vigo		Klaesson			Norreg 25	28151	Hässleholm	12	93	1		fbf	0451-15597	0		1	2	1	1	2	193903143307	M	0		2	50	15-feb-03	0	0
+221231	22123	1	192705185003	18MAY1927	Asp, Majken Irene	Majken Irene		Asp			Slottsskogsgatan 9 A	41453	Göteborg	14	80	13		fbf	031-121689	0		2	4	2	1	2	0		0		1	92	30-aug-97	0	0
+221232	22123	2	192705185011	18MAY1927	Asp, Per Åke	Per Åke		Asp			Slottsskogsgatan 9 A	41453	Göteborg	14	80	13		fbf	031-121689	0		1	4	1	2	1	0		0		1	92	30-aug-97	0	0
+221961	22196	1	192706019052	01-jun-27	Bladfors, Folke	Folke		Bladfors			Sandviksgatan 59 3 TR	97233	Luleå	25	80	1		fbf	0920-225771	0		1	4	2	2	1	193101139040	M	0		2	92	30-aug-97	0	0
+221962	22196	2	192706018963	01-jun-27	Nilsson, Irma Maria Elisabet	Irma		Nilsson			Vitåvägen 561	95596	Vitå	25	80	4		fbf	0924-30046	0		2	4	1	1	2	0		0		1	50	14-feb-02	0	0
+223011	22301	1	192706266208	26-jun-27	Gustafsson, Gunvor Maria	Gunvor		Gustafsson			Ugglestigen 37	14951	Nynäshamn	1	92	1		fbf	08-52012418	0		2	2	2	1	2	192410048017	M	0		2	92	30-aug-97	0	0
+223012	22301	2	192706266224	26-jun-27	Carnelid, Karin Cecilia	Karin		Carnelid			Hantverksgatan 16 B	68231	Filipstad	17	82	1		fbf	0590-71738	0		2	2	1	2	1	0		0		2	50	26-mar-02	0	0
+224511	22451	1	192708066838	06-aug-27	Gävert, Hilding Börje	Börje		Gävert			Drakenbergsg 61	70219	Örebro	18	80	4		fbf	019-330079	0		1	4	2	2	1	192707126625	M	0		2	92	30-aug-97	0	0
+224512	22451	2	192708066820	06-aug-27	Hellström, Olga Birgit Elisabet	Birgit		Hellström			Klockarbacken 25 1TR	69238	Kumla	18	81	1		fbf	019-641691	0		2	4	1	1	2	0		0		1	50	03-feb-00	0	0
+224831	22483	1	192708167552	16-aug-27	Hedman, Anders Joel	Anders		Hedman			Celsings Väg 41, 2 TR	19279	Sollentuna	1	63	1		fbf	08-6267798	0		1	2	2	2	1	192804297600	M	0		2	92	30-aug-97	0	0
+224832	22483	2	192708167578	16-aug-27	Hedman, Bernt	Bernt		Hedman			Stationsgatan 5 N	82040	Järvsö	21	61	7		fbf	0651-41056	0		1	2	1	1	2	193309267122	M	0		2	92	30-aug-97	0	0
+225091	22509	1	192708228016	22-aug-27	Svedin, Sten Ingmar	Sten Ingmar		Svedin			Myntgränd 32	87032	Ullånger	22	82	6		fbf	0613-10322	0		1	4	2	1	2	0		0		1	50	06OCT2001	0	0
+225092	22509	2	192708228008	22-aug-27	Norlander, Signe Linnéa	Signe Linnéa		Norlander			Prästmyrvägen 3 D	87030	Nordingrå	22	82	4		sp	0613-20648	0		2	4	1	2	1	0		0		1	50	03OCT2001	0	0
+225641	22564	1	192709083550	08-sep-27	Hansson, Stig	Stig		Hansson			Porsvägen 20	28433	Perstorp	12	75	1		fbf	0435-34191	0		1	4	2	1	2	193101144123	M	0		2	50	17OCT2002	0	0
+225642	22564	2	192709083568	08-sep-27	Ivarsson, Sonja Linnea	Sonja		Ivarsson			Klostervägen 8 C	26435	Klippan	12	76	1		fbf	0435-12552	0		2	4	1	2	1	192604183711	M	0		2	50	30-jan-03	0	0
+225781	22578	1	192709118232	11-sep-27	Hansson, Hans Anders	Hans		Hansson			Hoverberg 2552	84040	Svenstavik	23	26	1		fbf	0687-12158	0		1	4	2	1	2	0		0		1	92	30-aug-97	0	0
+225782	22578	2	192709118406	11-sep-27	Hansson, Birgit Maria	Birgit		Hansson			Hoverberg 2552	84040	Svenstavik	23	26	1		fbf	0687-12158	0		2	4	1	2	1	0		0		1	92	30-aug-97	0	0
+226411	22641	1	192709262758	26-sep-27	Lemark, Ingvald Bernhard	Ingvald		Lemark			Fösingsmåla Södergård 10	36023	Älmeboda	7	63	3		fbf	0477-66032	0		1	4	2	2	1	193506262827	M	0		2	50	14-mar-01	0	0
+226412	22641	2	192709262741	26-sep-27	Olausson, Ingrid Gunborg	Ingrid		Olausson			Kantarellvägen 7	44290	Kungälv	14	80	35		fbf	0303-13251	0		2	4	1	1	2	192909204816	M	0		2	50	19-jun-01	0	0
+226431	22643	1	192709265934	26-sep-27	Stormvik, Börje Ingemar	Börje		Stormvik			Släggkastarg 5, VII	72241	Västerås	19	80	23		fbf	021-330770	0		1	4	2	1	2	193208241061	M	0		2	50	14-mar-02	0	0
+226432	22643	2	192709266122	26-sep-27	Hermansson, Inger Sylvia	Inger		Hermansson			Köpmangatan 45	70223	Örebro	18	80	1		fbf	019-314516	0		2	4	1	2	1	0		0		1	50	11OCT2001	0	0
+226781	22678	1	192710074622	07OCT1927	Bengtsson, Anna Lisa	Anna Lisa		Bengtsson			Asigestugan 207 B	31050	Slöinge	13	82	6		fbf	0346-40722	0		2	2	2	1	2	0		0		2	50	13-jun-02	0	0
+226782	22678	2	192710074606	07OCT1927	Valdemarsson, Tora Birgitta	Tora Birgitta		Valdemarsson			Lärkvägen 24	31044	Getinge	13	80	14		fbf	0346-51460	0		2	2	1	2	1	191904104617	M	0		2	50	03-nov-00	0	0
+226841	22684	1	192710102811	10OCT1927	Ström, Karl Arne Ingemar	Karl Arne Ingemar		Ström		Ängaholm	Tomeshult 111	36194	Eriksmåla	8	62	3		fbf	0471-41013	0		1	4	2	2	1	192912082720	M	0		2	50	21-feb-01	0	0
+226842	22684	2	192710102829	10OCT1927	Axelsson, Solvig	Gerd Solvig Margareta		Axelsson			Skogsgatan 1 C	36153	Broakulla	8	62	3		fbf	0471-40184	0		2	4	1	1	2	0		0		1	50	21-nov-02	0	0
+227301	22730	1	192710262466	26OCT1927	Ernerskog, Ester	Ester Linnéa Ingeborg		Ernerskog			Östra Bergsgatan 5 B	57336	Tranås	6	87	1		fbf	0140-311557	0		2	4	2	2	1	191706192315	M	0		2	50	27-sep-01	0	0
+227302	22730	2	192710262656	26OCT1927	Johansson, Karl Evert Ingemar	Karl Evert Ingemar		Johansson			Götgatan 11	57339	Tranås	6	87	1		fbf	0140-15007	0		1	4	1	1	2	193010082620	M	0		2	92	12-jan-99	0	0
+227941	22794	1	192711136453	13-nov-27	Norbäck, Finn Arnold	Finn		Norbäck			Skolgatan 19 B	69141	Karlskoga	18	83	1		fbf	0586-57531	0		1	4	2	1	2	0		0		1	50	05-dec-02	0	0
+227942	22794	2	192711130209	13-nov-27	Grinndal, Gerd Berit Marianne	Gerd		Grinndal			Malma Gård 416	75647	Uppsala	3	80	38		fbf	018-301561	0		2	4	1	2	1	192408011654	M	0		2	92	30-aug-97	0	0
+229301	22930	1	192712197835	19-dec-27	Malmström, Nils Emil Fredrik	Nils		Malmström			Sandsv 11	89035	Husum	22	84	10		fbf	0663-10344	0		1	2	2	2	1	193411307840	M	0		2	92	30-aug-97	0	0
+229302	22930	2	192712197850	19-dec-27	Malmström, Karl Erik August	Karl		Malmström			Babordsvägen 3 A	89178	Bonässund	22	84	2		fbf	0660-370376	0		1	2	1	1	2	193303107845	M	0		2	92	30-aug-97	0	0
+229321	22932	1	192712203914	20-dec-27	Skiöld, Viktor	Henry Viktor		Skiöld			Skaragatan 98	25263	Helsingborg	12	83	2		fbf	042-280314	0		1	4	2	2	1	0		0		1	50	02-dec-99	0	0
+229322	22932	2	192712204102	20-dec-27	Gustafsson, Anna Maria	Anna Maria		Gustafsson			Hälsingborgsvägen 2 B	26141	Landskrona	12	82	1		fbf	0418-12218	0		2	4	1	1	2	0		0		1	50	09-jan-03	0	0
+230371	23037	1	192801194131	19-jan-28	Christensson, Bengt	Bengt		Christensson			Gubbelyckev 11	51931	Horred	14	63	14		fbf	0320-80135	0		1	4	2	1	2	192705140529	M	0		2	50	19-aug-99	0	0
+230372	23037	2	192801193968	19-jan-28	Thorbjörnsson, Karin	Karin		Thorbjörnsson			Granitv 10, LÄG 93	43732	Lindome	14	81	3		fbf	031-995554	0		2	4	1	2	1	0		0		1	92	30-aug-97	0	0
+230601	23060	1	192801246402	24-jan-28	Nilsson, Britt-Lis	Britt-Lis		Nilsson			Sågmon Lillälven	67192	Arvika	17	84	2		fbf	0570-10222	0		2	2	2	1	2	0		0		1	50	14-feb-01	0	0
+230602	23060	2	192801246428	24-jan-28	Lundgren, Inga-Lis	Inga-Lis		Lundgren			Vänernsgatan 3 B	65226	Karlstad	17	80	1		fbf	054-571864	0		2	2	1	2	1	0		0		2	50	30-aug-01	0	0
+231821	23182	1	192802189007	18-feb-28	Andersson, Maud	Maud		Andersson			Kommendörsgatan 9 4-10	96131	Boden	25	82	1		fbf	090-180975	0		2	2	2	1	2	192807089038	M	0		2	50	05-aug-03	0	0
+231822	23182	2	192802180840	18-feb-28	Lundin, Mary Adéla	Mary		Lundin			Flottiljvägen 3	96143	Boden	25	82	1		fbf	0921-15852	0		2	2	1	2	1	192410280032	M	0		2	50	16-aug-01	0	0
+232631	23263	1	192803096201	09-mar-28	Bergström, Karin Margareta	Karin		Bergström			Östra Kanalgatan 2 A II	65220	Karlstad	17	80	1		fbf	054-180873	0		2	2	2	1	2	0		0		1	50	30-aug-01	0	0
+232632	23263	2	192803096227	09-mar-28	Edanius, Ulla Kristina	Ulla		Edanius			Hagagatan 19 A	65220	Karlstad	17	80	1		fbf	054-184037	0		2	2	1	2	1	0		0		1	50	30-aug-01	0	0
+232741	23274	1	192803125430	12-mar-28	Fengrot, Ernst Rune	Rune		Fengrot			Nedre Tångvägen 3	43937	Onsala	13	84	14		fbf	0300-26977	0		1	2	2	2	1	194105135000	M	0		2	50	14-feb-01	0	0
+232742	23274	2	192803125414	12-mar-28	Sagstrand, Allan	Allan		Sagstrand			Holmåkrav 17A	43740	Lindome	14	81	3		fbf	031-994221	0		1	2	1	1	2	0		0		1	92	30-aug-97	0	0
+233041	23304	1	192803174131	17-mar-28	Hansson, Bertil	Nils Bertil		Hansson			Östra Hantverkaregatan 1	26020	Teckomatorp	12	14	10		fbf	0418-660986	0		1	2	2	1	2	193002063943	M	0		2	50	09-jan-03	0	0
+233042	23304	2	192803174115	17-mar-28	Hansson, Knut Gottfrid	Knut Gottfrid		Hansson			Södra Solhemsgatan 10	26020	Teckomatorp	12	14	10		fbf	0418-660738	0		1	2	1	2	1	0		0		1	50	11OCT2002	0	0
+233121	23312	1	192803180047	18-mar-28	Pasquier, Elsa-Greta	Elsa-Greta		Pasquier			Idögränd 1, 1TR	12431	Bandhagen	1	80	23		fbf	08-998746,0175-92123	0		2	2	2	2	1	192612149472	M	0		2	50	05-nov-02	0	0
+233122	23312	2	192803180708	18-mar-28	Sjöström, Ulla	Ulla-Brita		Sjöström			Olaus Magnus Väg 30	12137	Johanneshov	1	80	36		sp	08-6653113	0		2	2	1	1	2	0		0		1	92	17-sep-99	0	0
+233371	23337	1	192803238977	23-mar-28	Johansson, Kurt Adolf	Kurt		Johansson			Basvägen 7	94205	Långträsk	25	81	3		fbf	0911-220068	0		1	4	2	2	1	193001308968	M	0		2	50	07-dec-01	0	0
+233372	23337	2	192803238928	23-mar-28	Grahn, Ingegerd	Ingegerd		Grahn			Djupviksgatan 22, 2 TR	94133	Piteå	25	81	1		fbf	0911-12771	0		2	4	1	1	2	0		0		1	50	12-apr-02	0	0
+233591	23359	1	192803296629	29-mar-28	Hägglund, Anna Maria	Maria		Hägglund			Barrstigen 1 B	70221	Örebro	18	80	4		fbf	019-364205	0		2	2	2	2	1	192604227831	M	0		2	92	30-aug-97	0	0
+233592	23359	2	192803296603	29-mar-28	Johansen, Birgitta Maria	Birgitta		Johansen			Korpg 2 B	51154	Kinna	14	63	1		fbf	0320-12304	0		2	2	1	1	2	192703249397	M	0		2	92	01-jan-98	0	0
+234311	23431	1	192804164149	16-apr-28	Persson, Ingegärd Viola	Ingegärd Viola		Persson			Trumpetgatan 7	26735	Bjuv	12	60	1		fbf	042-70052	0		2	4	2	1	2	192611083912	M	0		2	50	22-nov-01	0	0
+234312	23431	2	192804164214	16-apr-28	Tinebo, Inge	Inge Henry		Tinebo			Vedbyvägen 12	26435	Klippan	12	76	1		fbf	0435-13098	0		1	4	1	2	1	193103203703	M	0		2	50	30-jan-03	0	0
+234391	23439	1	192804176317	17-apr-28	Skog, Bengt	Bengt		Skog			Skolgatan 3	54731	Gullspång	14	47	1		fbf	0551-20880	0		1	2	2	1	2	192902226220	M	0		2	50	03-nov-98	0	0
+234392	23439	2	192804176333	17-apr-28	Skog, Henry	Henry		Skog			Ålkärrsvägen 24 A	66332	Skoghall	17	61	1		fbf	010-64320387/ 0550-13542	0		1	2	1	2	1	193104136225	M	0		2	50	21-jan-03	0	0
+234451	23445	1	192804191241	19-apr-28	Eliasson, Anna Linnéa	Linnéa		Eliasson			Grindtorpsvägen 9 7 TR	18332	Täby	1	60	1		fbf	08-351446	0		2	2	2	2	1	192902251079	M	0		2	50	17-aug-99	0	0
+234452	23445	2	192804191266	19-apr-28	Max, Ragnhild Viola	Viola		Max			Viggbyholmsvägen 58 B	18369	Täby	1	60	1		fbf	08-7567697	0		2	2	1	1	2	0		0		1	50	17-jan-02	0	0
+234471	23447	1	192804195036	19-apr-28	Alexanderson, Orvar	Orvar		Alexanderson			Brunndalen 8	47171	Hakenäset	14	19	1		fbf	0304-665321	0		1	2	2	1	2	192904100340	M	0		2	50	25-jun-03	0	0
+234472	23447	2	192804195051	19-apr-28	Alexanderson, Hans Guy	Guy		Alexanderson			Nyponvägen 16	43491	Kungsbacka	13	84	4		fbf	0300-25711	0		1	2	1	2	1	193004035006	M	0		2	50	27-sep-01	0	0
+236571	23657	1	192806094872	09-jun-28	Torstensson, Uno	Uno		Torstensson			Teleskopgatan 8	41518	Göteborg	14	80	32		fbf	031-467741	0		1	4	2	1	2	192905215402	M	0		2	50	21-nov-02	0	0
+236572	23657	2	192806094823	09-jun-28	Nilsson, Ulla Maria	Ulla		Nilsson			Seglaregatan 35	41457	Göteborg	14	80	13		fbf	031-425155	0		2	4	1	2	1	192510175017	M	0		2	92	30-aug-97	0	0
+236921	23692	1	192806167736	16-jun-28	Zetterberg, Gunnar	Karl Gunnar		Zetterberg			Durovägen 75 B	80628	Gävle	21	80	6		fbf	026-197689	0		1	4	2	1	2	193303157600	M	0		2	92	02-sep-99	0	0
+236922	23692	2	192806167702	16-jun-28	Landström, Ulla Margareta	Ulla		Landström			Stålgatan 6 C	81130	Sandviken	21	81	1		fbf	026-250227	0		2	4	1	2	1	192905087736	M	0		2	92	30-aug-97	0	0
+237271	23727	1	192806244618	24-jun-28	Andersson, Erik Bertil	Bertil		Andersson			Gamla Nissastigen 101	31332	Oskarström	13	80	5		fbf	035-60692	0		1	4	2	2	1	191609064686	M	0		2	50	08-jan-02	0	0
+237272	23727	2	192806244600	24-jun-28	Abrahamsson, Anna Greta	Anna-Greta		Abrahamsson			Silvergatan 6	31332	Oskarström	13	80	5		fbf	035-60118	0		2	4	1	1	2	192706234610	M	0		2	92	30-aug-97	0	0
+237291	23729	1	192806246118	24-jun-28	Längström, Karl-Erik	Karl-Erik		Längström			Bergsgatan 6	53010	Vedum	14	70	14		fbf	0512-40207	0		1	2	2	1	2	0		0		1	50	04-apr-02	0	0
+237292	23729	2	192806246159	24-jun-28	Längström, Bertil	Bertil		Längström			Kyrkogatan 3	53010	Vedum	14	70	14		fbf	0512-40559	0		1	2	1	2	1	0		0		1	92	01-jan-98	0	0
+237621	23762	1	192807018722	01-jul-28	Strandberg, Inga-Lisa	Inga-Lisa		Strandberg			Ridhusgatan 14, BV	90323	Umeå	24	80	1		fbf	090-33085	0		2	4	2	2	1	192312188739	M	0		2	50	25MAY2002	0	0
+237622	23762	2	192807018730	01-jul-28	Strömsten, Sven Axel	Sven-Axel		Strömsten			Skiftesvägen 17	87160	Härnösand	22	80	1		fbf	0611-16752	0		1	4	1	1	2	192806248700	M	0		2	50	18-aug-01	0	0
+238391	23839	1	192807217704	21-jul-28	Östlund, Birgitta Linnéa	Birgitta		Östlund			Valbogatan 12	80324	Gävle	21	80	1		fbf	026-124677	0		2	2	2	1	2	0		0		1	50	08-nov-02	0	0
+238392	23839	2	192807237728	23-jul-28	Engvall, Astrid Olivia	Astrid		Engvall			Tallåsvägen 5 B LÄG 17	80641	Gävle	21	80	1		fbf	026-511323	0		2	2	1	2	1	0		0		1	92	30-aug-97	0	0
+238601	23860	1	192807283706	28-jul-28	Billing, Kerstin Ulla-Britt Linnéa	Ulla-Britt		Billing			Linnégatan 3 A	27234	Simrishamn	12	91	1		fbf	0414-411203	0		2	4	2	2	1	0		0		1	50	30-jan-03	0	0
+238602	23860	2	192807283755	28-jul-28	Billing, Stig Bertil Folke	Stig		Billing			F M Franzéns Gata 3 A	25440	Helsingborg	12	83	1		fbf	042-214666	0		1	4	1	1	2	192810040523	M	0		2	92	30-aug-97	0	0
+239461	23946	1	192808216176	21-aug-28	ERLINGE, GUSTAV SAMUEL ERLING	Gustav Samuel Erling		Erlinge			Konventsv 15	24010	Dalby	12	81	16		fbf	046-209559	0		1	2	2	1	2	192903142400	M	0		2	92	30-aug-97	0	0
+239462	23946	2	192808216143	21-aug-28	GILLSELL, SIV MARIA ELLA-BRITT	Siv Maria Ella-Britt		Gillsell			Aspängsvägen 1	52130	Falköping	14	86	1		fbf	0515-12849	0		2	2	1	2	1	0		0		7	50	25OCT2001	0	0
+239741	23974	1	192808308916	30-aug-28	Lindberg, John Bertil	John		Lindberg			Parkvägen 40 B	97253	Luleå	25	80	3		fbf	0920-230603	0		1	4	2	1	2	193104108984	M	0		2	50	14-feb-02	0	0
+239742	23974	2	192808308908	30-aug-28	Öman, Vally	Vally		Öman			Bultvägen 8	94431	Hortlax	25	81	2		fbf	0911-30349	0		2	4	1	2	1	192602118974	M	0		2	50	12-apr-02	0	0
+240671	24067	1	192809278415	27-sep-28	Andersson, Karl Axel	Karl Axel		Andersson			Håsjö 2331	84064	Kälarne	23	5	3		fbf	0696-51022	0		1	4	2	2	1	193205258423	M	0		2	50	03-jan-02	0	0
+240672	24067	2	192809278407	27-sep-28	Johannesson, Karin	Karin		Johannesson			Ragunda 137	84070	Hammarstrand	23	3	1		fbf	0696-50018	0		2	4	1	1	2	192305218436	M	0		2	92	30-aug-97	0	0
+241971	24197	1	192811026919	02-nov-28	Ekström, Erik	Erik		Ekström			Gullregnsgatan 5 LÄG 9	80282	Gävle	21	80	2		fbf	026-512906	0		1	2	2	1	2	194309287607	M	0		2	92	30-aug-97	0	0
+241972	24197	2	192811026935	02-nov-28	Ekström, Nils	Nils Valter		Ekström			Larsbodavägen 36, VII	12341	Farsta	1	80	25		fbf	08-936169	0		1	2	1	2	1	193410268548	M	0		2	92	30-aug-97	0	0
+242451	24245	1	192811162839	16-nov-28	Wensfelt, Ingemar	Ingemar		Wensfelt			Borgmästaregatan 18	35236	Växjö	7	80	28		fbf	0470-10929	0		1	4	2	2	1	193012172841	M	0		2	92	30-aug-97	0	0
+242452	24245	2	192811162706	16-nov-28	Sterner, Ingegerd	Barbro Ingegerd		Sterner			Hovsgatan 14 B	35233	Växjö	7	80	28		fbf	0470-711648	0		2	4	1	1	2	0		0		1	50	12-mar-02	0	0
+243261	24326	1	192812144620	14-dec-28	Johansson, Jenny Maria Viktoria	Maria		Johansson			Nyponvägen 3	45931	Ljungskile	14	85	3		fbf	0522-20562	0		2	2	2	1	2	192409124811	M	0		2	92	30-aug-97	0	0
+243262	24326	2	192812144646	14-dec-28	Hansson, Ada Margit Elisabet	Elisabet		Hansson			Tallvägen 7	43010	Tvååker	13	83	11		fbf	0340-40341	0		2	2	1	2	1	192804254619	M	0		2	92	30-aug-97	0	0
+243471	24347	1	192812192751	19-dec-28	Bengtsson, Karl Åke	Åke		Bengtsson			Krokvägen 34	34135	Ljungby	7	81	1		fbf	0372-13354	0		1	2	2	1	2	193305099826	M	0		2	92	30-aug-97	0	0
+243472	24347	2	192812192736	19-dec-28	Bengtsson, Anton Ragnar	Ragnar		Bengtsson			Angelstad Sundhem	34194	Ljungby	7	81	11		fbf	0372-21020	0		1	2	1	2	1	192905072704	M	0		2	92	30-aug-97	0	0
+244001	24400	1	192901044863	04-jan-29	Larsson, Birgit	Birgit		Larsson			Tranhult Björketorp	34176	Ryssby	7	81	3		fbf	0372-41021	0		2	2	2	1	2	0		0		1	50	08-jun-01	0	0
+244002	24400	2	192901044889	04-jan-29	Hansson, Gunvor Hildegard	Gunvor		Hansson			Lilla Hogdal 1226	45292	Strömstad	14	86	6		fbf	0526-34020	0		2	2	1	2	1	193101214835	M	0		2	50	04MAY2002	0	0
+244161	24416	1	192901081063	08-jan-29	Pettersson, Elsie	Elsie		Pettersson			Myrängsv 38	14137	Huddinge	1	26	1		fbf	08-7742278	0		2	2	2	2	1	0		0		1	50	21-feb-02	0	0
+244162	24416	2	192901081089	08-jan-29	Karlsson, Inga-Lill	Inga-Lill		Karlsson			Viltorpsbacken 49	16270	Vällingby	1	80	31		fbf	08-362303	0		2	2	1	1	2	193010036410	M	0		2	50	29OCT2002	0	0
+244771	24477	1	192901222956	22-jan-29	Sunesson, Edmund	Edmund		Sunesson			Kvarngatan 19	38332	Mönsterås	8	61	1		fbf	0499-12426	0		1	4	2	1	2	0		0		1	92	30-aug-97	0	0
+244772	24477	2	192901222949	22-jan-29	Sunesson, Eleonore Doris Ingeborg	Eleonore		Sunesson			Hantverksgatan 33 A	57234	Oskarshamn	8	82	1		fbf	0491-13787	0		2	4	1	2	1	0		0		1	50	27-apr-01	0	0
+244781	24478	1	192901223525	22-jan-29	Karlsson, Elsif Gerthie Lillian	Ellesiv		Karlsson			Mejerigatan 1	26070	Ljungbyhed	12	76	5		fbf	0435-440817	0		2	4	2	2	1	193105093573	M	0		2	50	30-jan-03	0	0
+244782	24478	2	192901223533	22-jan-29	Karlsson, Torild Louis Sebastian	Torild		Karlsson			Stackarp 2349	26492	Klippan	12	76	3		fbf	0435-711928	0		1	4	1	1	2	193103223560	M	0		2	92	30-aug-97	0	0
+245971	24597	1	192902228432	22-feb-29	Andersson, Erik Gösta	Erik		Andersson			Box 37	84058	Pilgrimstad	23	5	6		fbf	0693-31067	0		1	4	2	1	2	0		0		1	50	14-sep-02	0	0
+245972	24597	2	192902228242	22-feb-29	Edholm, Margareta	Greta		Edholm			Freskvägen 9	83145	Östersund	23	80	1		fbf	063-122706	0		2	4	1	2	1	0		0		1	50	24-aug-01	0	0
+246931	24693	1	192903165203	16-mar-29	Zandhers-Andersson, Bojan	Ingeborg		Zandhers-Andersson			Mattssonsliden 6	41318	Göteborg	14	80	12		fbf	031-995331	0		2	4	2	2	1	193301014852	M	0		2	50	15-sep-98	0	0
+246932	24693	2	192903165211	16-mar-29	Zandhers, Nils Josef	Nils		Zandhers			Blekeliden 8	44231	Kungälv	14	82	1		fbf	0303-16356	0		1	4	1	1	2	194712115924	M	0		2	92	30-aug-97	0	0
+247001	24700	1	192903196968	19-mar-29	Sandberg, Olga Marianne	Marianne		Sandberg			Thun-ollevägen 39	13434	Gustavsberg	1	20	6		fbf	08-57036734	0		2	2	2	2	1	192711098455	M	0		2	92	30-aug-97	0	0
+247002	24700	2	192903196943	19-mar-29	Heimler, Majlis	Majlis		Heimler			Konvalescentvägen 51	43933	Onsala	13	84	14		fbf	031-943960	0		2	2	1	1	2	0		0		1	50	09OCT1998	0	0
+247481	24748	1	192903307219	30-mar-29	Nyström, Erik	Erik		Nyström			Söder Lindberg 120	79390	Leksand	20	29	1		fbf	0247-60103	0		1	4	2	1	2	0		0		1	92	30-aug-97	0	0
+247482	24748	2	192903307300	30-mar-29	Nyström, Karin	Karin		Nyström			Norr Lindberg 100	79390	Leksand	20	29	1		fbf	0247-60528	0		2	4	1	2	1	0		0		1	92	30-aug-97	0	0
+247521	24752	1	192903312987	31-mar-29	Karlsson, Mari-Ann	Mari-Ann		Karlsson			Skomakaregatan 3 A	38240	Nybro	8	81	1		fbf	0481-10923	0		2	2	2	2	1	193005012954	M	0		2	50	24MAY2001	0	0
+247522	24752	2	192903313001	31-mar-29	Lindgren, Helfrid Ann-Mari	Ann-Mari		Lindgren			Arkitektg 4 E	37138	Karlskrona	10	80	1		fbf	0455-16097	0		2	2	1	1	2	192507193312	M	0		2	92	30-aug-97	0	0
+248381	24838	1	192904215973	21-apr-29	Ljungberg, Gunnar	Gunnar		Ljungberg			Bergsliden 11	52132	Falköping	14	99	2		fbf	0515-16930	0		1	4	2	2	1	0		0		1	92	01-jan-98	0	0
+248382	24838	2	192904215908	21-apr-29	Johansson, Astrid Margareta	Astrid		Johansson			Björlanda Strand 103	42361	Torslanda	14	80	29		fbf	031-925882	0		2	4	1	1	2	192802245932	M	0		2	50	28-jan-03	0	0
+248501	24850	1	192904242100	24-apr-29	Hallberg, Gerthy Marianne	Gerthy		Hallberg			Lövgatan 4	58245	Linköping	5	80	33		fbf	013-127205	0		2	2	2	1	2	191305111930	M	0		2	50	26-apr-01	0	0
+248502	24850	2	192904242126	24-apr-29	Cahp, Siv Marianne	Siv		Cahp			Alkärrsgatan 13	60380	Norrköping	5	81	29		fbf	011-173017	0		2	2	1	2	1	192806191959	M	0		2	50	24MAY2001	0	0
+248601	24860	1	192904272743	27-apr-29	LINDAHL, EDLA ANNA MARIA	Edla		Lindahl			Östhagag 10	33017	Rydaholm	6	83	12		fbf	0472-20306	0		2	2	2	2	1	192207222452	M	0		7	92	30-aug-97	0	0
+248602	24860	2	192904272727	27-apr-29	LUND, ASTRID LILLIAN KAROLINA	Astrid Lillian Karolina		Lund			Ängsgatan 5	33017	Rydaholm	6	83	12		fbf	0472-20543	0		2	2	1	1	2	0		0		7	50	22OCT2003	0	0
+249341	24934	1	192905125445	12MAY1929	Hauge, Inger	Inger		Hauge			Ankarhjelmsvägen 28 A	41743	Göteborg	14	80	30		fbf	031-553074	0		2	4	2	1	2	192904197072	M	0		2	50	28-jan-03	0	0
+249342	24934	2	192905125411	12MAY1929	Fransson, Stig Gösta	Stig		Fransson			Björnvägen 3	43543	Pixbo	14	1	3		fbf	031-882497	0		1	4	1	2	1	193404174900	M	0		2	50	05-dec-02	0	0
+249951	24995	1	192905296139	29MAY1929	Johansson, Per-Olof	Per-Olof		Johansson			Carlsrovägen 21	54152	Skövde	14	96	3		fbf	0500-414028	0		1	4	2	1	2	193312186129	M	0		2	50	20-feb-03	0	0
+249952	24995	2	192905296121	29MAY1929	Ljung, Maj	Maj-Britt		Ljung			Skolg 10 D	66130	Säffle	17	85	1		fbf	0533-14227	0		2	4	1	2	1	0		0		1	92	30-aug-97	0	0
+250331	25033	1	192906113564	11-jun-29	Paulin, Karin Elisabet	Karin		Paulin			Öllers Väg 7 D	29574	Näsum	12	72	3		fbf	0456-24060	0		2	2	2	2	1	0		0		1	50	03MAY2003	0	0
+250332	25033	2	192906113549	11-jun-29	Jönsson, Anna Maj-Britt	Anna Britt		Jönsson			Korsaslättsv 27-4	29594	Näsum	12	72	3		fbf	0456-24217	0		2	2	1	1	2	193006103513	M	0		2	92	30-aug-97	0	0
+251221	25122	1	192907034306	03-jul-29	Jönsson, Rut Gunnel	Gunnel		Jönsson			Söderåsgatan 159	21617	Limhamn	12	80	7		fbf	040-152107	0		2	2	2	2	1	192203014317	M	0		2	50	09OCT2002	0	0
+251222	25122	2	192907034561	03-jul-29	Lindquist, Kerstin Marianne	Marianne		Lindquist			Kulladalsgatan 26 C	21564	Malmö	12	80	18		fbf	040-191456	0		2	2	1	1	2	0		0		1	50	19-sep-02	0	0
+252401	25240	1	192908043561	04-aug-29	Nexér Billström, Karly Ingeborg	Karly Ingeborg		Nexér Billström			RIDSTIGEN 3	28200	#NAME?	11	0	0				9		2	2	2	1	2	0		0		0	0		0	0
+252402	25240	2	192908043546	04-aug-29	Söderblom, Clary Gunhild	Clary Gunhild		Söderblom			Ryttaregatan 12	23537	Vellinge	12	33	4		fbf	040-420490	0		2	2	1	2	1	0		0		1	50	06-feb-03	0	0
+252861	25286	1	192908140029	14-aug-29	Rosenborg, Harriet Maria	Harriet		Rosenborg			Strandgatan 8 4 TR	63343	Eskilstuna	4	84	20		fbf	016-73053	0		2	4	2	2	1	0		0		2	50	22OCT2003	0	0
+252862	25286	2	192908140011	14-aug-29	Svensson, Sven Olof	Sven-Olof		Svensson			Vasallgatan 3 D	39350	Kalmar	8	80	17		fbf	0480-20569	0		1	4	1	1	2	0		0		1	50	31OCT2002	0	0
+253211	25321	1	192908222306	22-aug-29	Andersson, Rut	Rut Ingeborg		Andersson			Gård 137	46011	Nygård	14	62	5		fbf	0520-62422	0		2	2	2	2	1	0		0		1	92	01-jan-98	0	0
+253212	25321	2	192908226869	22-aug-29	Lundvall, Karin	Karin		Lundvall			Danska Vägen 5	33236	Gislaved	6	62	1		fbf	0371-80946	0		2	2	1	1	2	0		0		1	50	03-apr-01	0	0
+253341	25334	1	192908241645	24-aug-29	Lerner, Judit Marianne	Marianne		Lerner			Ekeby Fridhem	64050	Björnlunda	4	81	2		fbf	08-55037187	0		2	4	2	2	1	0		0		2	50	28-dec-02	0	0
+253342	25334	2	192908241637	24-aug-29	Andersson, Karl Henrik	Karl-Henrik		Andersson			Frönäs	64050	Björnlunda	4	61	4		fbf	0158-20029	0		1	4	1	1	2	193202161646	M	0		2	92	30-aug-97	0	0
+253651	25365	1	192909036820	03-sep-29	Ullbrand, Anna Maria	Anna-Maria		Ullbrand			Pl 159 A	71131	Lindesberg	18	85	2		fbf	0581-611419	0		2	4	2	2	1	192012206898	M	0		2	92	30-aug-97	0	0
+253652	25365	2	192909036853	03-sep-29	Eriksson, Erik Torsten	Torsten		Eriksson			Frövidalsgatan 11 B	71832	Frövi	18	85	4		fbf	0581-72065	0		1	4	1	1	2	192701279446	M	0		2	50	02-aug-02	0	0
+253801	25380	1	192909072866	07-sep-29	Johansson, Ester Ingegärd	Ester		Johansson			Liljevägen 27	35250	Växjö	7	80	18		fbf	0470-60433	0		2	2	2	1	2	192802172813	M	0		2	92	30-aug-97	0	0
+253802	25380	2	192909072726	07-sep-29	Dahl, Ella Elisabeth	Ella		Dahl			Ingelstad Norra Boaryd	36044	Ingelstad	7	80	8		fbf	0470-30468	0		2	2	1	2	1	192509262719	M	0		2	50	04MAY2001	0	0
+253891	25389	1	192909098515	09-sep-29	Olofsson, Ernst	Ernst Yngve		Olofsson			Balfors 70	91692	Bjurholm	24	3	1		fbf	0932-10916	0		1	2	2	2	1	0		0		2	50	01-jul-99	0	0
+253892	25389	2	192909098531	09-sep-29	Olofsson, Frans August	Frans August		Olofsson			Bredträsk 52	91692	Bjurholm	24	3	1		fbf	0943-30016	0		1	2	1	1	2	0		0		2	50	05-nov-02	0	0
+254161	25416	1	192909172922	17-sep-29	Larsson, Inez	Inez		Larsson			Nedra Segerstad 117	38065	Degerhamn	8	40	8		fbf	0485-664033	0		2	2	2	2	1	192311233015	M	0		2	50	03-jan-02	0	0
+254162	25416	2	192909172823	17-sep-29	Nilsson, Doris Henrietta	Doris		Nilsson			Rullstensvägen 41	36050	Lessebo	7	61	1		fbf	0478-10864	0		2	2	1	1	2	192401032830	M	0		2	50	10OCT2002	0	0
+254321	25432	1	192909211647	21-sep-29	Jansson, Gunn Charlotta	Gun		Jansson			Lundbladsvägen 9 C	63349	Eskilstuna	4	84	2			016-147476	0		2	2	2	2	1	192405171691	M	0		2	92		0	0
+254322	25432	2	192909211662	21-sep-29	Pettersson, Siv Charlotta	Siv		Pettersson			Stenkvistav 3	63358	Eskilstuna	4	84	2		fbf	016-139037	0		2	2	1	1	2	192702261674	M	0		2	92	30-aug-97	0	0
+254351	25435	1	192909220705	22-sep-29	Tjärnstig, Ulla Birgitta	Ulla		Tjärnstig			Stamg 40 NB	12574	Älvsjö	1	80	21		fbf	08-812163	0		2	2	2	2	1	192411027333	M	0		2	92	02-sep-99	0	0
+254352	25435	2	192909220721	22-sep-29	Andersson, Kerstin Ingegärd	Kerstin		Andersson			Boråsvägen Östergården 67	43065	Rävlanda	14	1	4		fbf	0301-44105	0		2	2	1	1	2	192211105719	M	0		2	92	30-aug-97	0	0
+254521	25452	1	192909263325	26-sep-29	Pavicevic, Ingrid Viola	Ingrid Viola		Pavicevic			Kockumsvägen 51	37250	Kallinge	10	81	1		fbf	h	0		2	4	2	2	1	0		0		7	50	16OCT2003	0	0
+254522	25452	2	192909263416	26-sep-29	MAGNUSSON, INGVAR VILHELM	Ingvar Vilhelm		Magnusson			Källängsvägen 81	18144	Lidingö	1	86	1		fbf	08-7676090	0		1	4	1	1	2	193310090828	M	0		2	50	30-aug-01	0	0
+254591	25459	1	192909284875	28-sep-29	Larsson, Carl Cyril	Cyril		Larsson			Galejvägen 12	45204	Nordkoster	14	86	7		fbf	0526-20200	0		1	4	2	2	1	0		0		1	50	22-jun-01	0	0
+254592	25459	2	192909284867	28-sep-29	Nilsson, Gerty Evelyn	Gerty		Nilsson			Björke 5042	45294	Strömstad	14	86	2		fbf	0526-24186	0		2	4	1	1	2	0		0		1	50	04MAY2002	0	0
+254651	25465	1	192909303311	30-sep-29	Meurling, Bengt Karl Sigvard	Bengt		Meurling			Skogstorpet Esketorp	37024	Nättraby	10	80	18		fbf	0455-49557	0		1	4	2	1	2	193902253347	M	0		2	92	30-aug-97	0	0
+254652	25465	2	192909303345	30-sep-29	Meurling, Inez Gottvid Amanda	Inez		Meurling			Brunnsgatan 52 LÄG 17	80252	Gävle	21	80	1		fbf	026-618368	0		2	4	1	2	1	0		0		1	50	02-apr-03	0	0
+255141	25514	1	192910122965	12OCT1929	Evaldsson, Valborg	Valborg		Evaldsson			Svarthövdaryd 48	37017	Eringsboda	10	81	5		fbf	0455-71050	0		2	4	2	1	2	193211173350	M	0		2	50	12-sep-01	0	0
+255142	25514	2	192910123039	12OCT1929	Johansson, Erling	Erling		Johansson			Bläsemåla 203	36060	Vissefjärda	8	62	2		fbf	0471-23050	0		1	4	1	2	1	193003122987	M	0		2	50	14-sep-01	0	0
+255311	25531	1	192910167101	16OCT1929	Eriksson, Signe Ingegerd	Ingegerd		Eriksson			Fiolvägen 19	78041	Gagnef	20	26	2		fbf	0243-230389	0		2	4	2	2	1	193004069799	M	0		2	50	02OCT2003	0	0
+255312	25531	2	192910167135	16OCT1929	Haglund, Bror Manfred	Bror		Haglund			Sturåkersvägen 8, SIFFERBO	78041	Gagnef	20	26	2		fbf	0243-30232	0		1	4	1	1	2	193511289369	M	0		2	50	27MAY2000	0	0
+255601	25560	1	192910271911	27OCT1929	Andersson, Gunnar	Gunnar		Andersson			Metallvägen 8 B	59751	Åtvidaberg	5	61	1		fbf		0		1	4	2	2	1	0		0		1	50	02-feb-00	0	0
+255602	25560	2	192910271903	27OCT1929	Sandberg, Märta	Märta		Sandberg			Odengatan 12	55323	Jönköping	6	80	2		fbf	036-162348	0		2	4	1	1	2	0		0		1	50	26-sep-02	0	0
+256131	25613	1	192911112932	11-nov-29	Pettersson, Gustaf Adolf	Gustaf Adolf		Pettersson			Lilla Laxemar 4	57295	Figeholm	8	82	3		fbf	0491-34166	0		1	4	2	1	2	193209122963	M	0		2	50	15-mar-00	0	0
+256132	25613	2	192911112940	11-nov-29	Nikolausson, Anna Stina	Anna-Stina		Nikolausson			Jämserum Gransjömåla	57296	Fårbo	8	82	3		fbf	0491-30039	0		2	4	1	2	1	192211062951	M	0		2	50	15-mar-00	0	0
+256351	25635	1	192911185441	18-nov-29	Lantz, Birgit	Birgit		Lantz		Svenstorp	Tryckhålan 151	47392	Henån	14	21	6		fbf	0304-39125	0		2	4	2	2	1	0		0		1	50	24-jun-03	0	0
+256352	25635	2	192911185433	18-nov-29	Svensson, Bengt Gustav	Bengt		Svensson			Åbryggan 1	47334	Henån	14	21	2		fbf	0304-39125	0		1	4	1	1	2	193005255249	M	0		2	50	05-feb-03	0	0
+256481	25648	1	192911201453	20-nov-29	Andersson, Karl Olov	Karl Olov		Andersson		Sätersberg	Enköping Skälby 10	74591	Enköping	3	81	1		fbf	0171-32426	0		1	2	2	2	1	0		0		1	40	13-nov-01	0	0
+256482	25648	2	192911201438	20-nov-29	Andersson, Erik Ingemar	Ingemar		Andersson			Ägovägen 11	73431	Hallstahammar	19	61	1		fbf	0220-17269	0		1	2	1	1	2	0		0		1	50	18OCT2001	0	0
+256771	25677	1	192911268577	26-nov-29	Roslund, Jakob Eskil Alfred	Eskil		Roslund			Brännan 18	93047	Byske	24	82	8			0912-21014	0		1	4	2	2	1	193501068765	M	0		2	92		0	0
+256772	25677	2	192911268742	26-nov-29	Eriksson, Sara Ethel Amalia	Ethel		Eriksson			Smedjegatan 10	93070	Malå	24	18	1		fbf	0953-10221	0		2	4	1	1	2	192605295910	M	0		2	50	26-apr-01	0	0
+256931	25693	1	192912033335	03-dec-29	Fransson, Olof Einar	Einar		Fransson			Bollasjö 1	37034	Holmsjö	10	80	14		fbf	0455-92009	0		1	4	2	2	1	0		0		1	92	30-aug-97	0	0
+256932	25693	2	192912033327	03-dec-29	Karlsson, Ida Margit	Margit		Karlsson			Länsv 8 NÄVRAGÖL	37034	Holmsjö	10	80	15		fbf	0455-92021	0		2	4	1	1	2	192408143317	M	0		2	92	30-aug-97	0	0
+257901	25790	1	192912273618	27-dec-29	Persson, Hans Rune	Hans		Persson			Trastgatan 1 B	28335	Osby	12	73	1		fbf	0479-31128	0		1	4	2	1	2	0		0		1	50	06-sep-01	0	0
+257902	25790	2	192912273543	27-dec-29	Andersson, Inger Gertrud	Inger		Andersson			Aron Nils Väg 3 D	28332	Osby	12	73	1		fbf	0479-31120	0		2	4	1	2	1	192506212352	M	0		2	92	30-aug-97	0	0
+258061	25806	1	192912312358	31-dec-29	Vastesson, Göte Egon	Göte		Vastesson			Vikingagatan 2C	61432	Söderköping	5	82	1		fbf	0121-10505	0		1	4	2	2	1	193212112308	M	0		2	92	30-aug-97	0	0
+258062	25806	2	192912312143	31-dec-29	Johansson, Karin Gunni	Gunni		Johansson			N Billstag 9	72240	Västerås	19	80	23		fbf	021-330555	0		2	4	1	1	2	192210216939	M	0		2	50	14-mar-02	0	0
+259771	25977	1	193002142655	14-feb-30	Almquist, Sven Per Olof	Per Olof		Almquist			Tenhultsvägen 61	56142	Huskvarna	6	80	5		fbf	036-134725	0		1	4	2	1	2	193211182963	M	0		2	50	26-sep-02	0	0
+259772	25977	2	193002142663	14-feb-30	Eriksson, Sonja	Sonja		Eriksson			Ringv 9	64032	Malmköping	4	82	5		fbf	0157-21467	0		2	4	1	2	1	192901021655	M	0		2	92	30-aug-97	0	0
+260001	26000	1	193002206971	20-feb-30	Lavebring, Harald	Harald		Lavebring			Munkhättegatan 49	21456	Malmö	12	80	17		fbf	040-967987	0		1	2	2	1	2	193007292604	M	0		2	50	15-aug-02	0	0
+260002	26000	2	193002206997	20-feb-30	Larsson, Erik	Erik		Larsson			Härnevig 5 A	72341	Västerås	19	80	3		fbf	021-140173	0		1	2	1	2	1	193002037582	M	0		2	50	14-mar-02	0	0
+260761	26076	1	193003120189	12-mar-30	Morén, Kerstin Viola	Kerstin		Morén			Skarpängsv 4	18494	Åkersberga	1	17	2		fbf	08-54027415	0		2	4	2	2	1	192910207113	M	0		2	92	30-aug-97	0	0
+260762	26076	2	193003120650	12-mar-30	Rosén, Sven Otto	Sven		Rosén			Elgentorpsvägen 18 6 TR	14630	Tullinge	1	27	5		fbf	08-53032069	0		1	4	1	1	2	0		0		1	50	21-aug-02	0	0
+262311	26231	1	193004211912	21-apr-30	Rydberg, Lennart	Lennart		Rydberg			Föreningsgatan 18A	59551	Mjölby	5	86	1		fbf	0142-34678 (landet 0491-31666)	0		1	4	2	2	1	193802102321	M	0		2	92	30-aug-97	0	0
+262312	26231	2	193004211904	21-apr-30	Franzén, Karin Ylva Elisabet	Karin		Franzén			Östermalmsvägen 27 A	61241	Finspång	5	62	1		fbf	0122-15937	0		2	4	1	1	2	0		0		1	50	16-aug-01	0	0
+262391	26239	1	193004233536	23-apr-30	Schönhult, Otto	Otto		Schönhult			Kvarngatan 13	28022	Vittsjö	12	93	12		fbf	0451-60334	0		1	4	2	2	1	193103094508	M	0		2	50	02-jul-03	0	0
+262392	26239	2	193004233700	23-apr-30	Svensson, Edit Ingrid Hillevi	Edit		Svensson			Korsövägen 30	35244	Växjö	7	80	1		fbf	0470-68189	0		2	4	1	1	2	0		0		2	50	04-jul-02	0	0
+263121	26312	1	193005095801	09MAY1930	Persson, Anna Greta	Anna Greta		Persson			Idrottsv 21 B	46140	Trollhättan	14	88	10		fbf	0520-15541	0		2	2	2	1	2	0		0		1	50	23-aug-02	0	0
+263122	26312	2	193005095827	09MAY1930	Johansson, Lilly Maria	Lilly		Johansson			Slädene, Måns-olofsg 8260	53490	Vara	14	70	4		fbf	0512-61144	0		2	2	1	2	1	192806086159	M	0		2	50	04MAY2002	0	0
+264261	26426	1	193006087542	08-jun-30	Larsson, Ulla Margareta	Ulla		Larsson			Ödegårdsgatan 8	58724	Linköping	5	80	34		fbf	013-137893	0		2	2	2	2	1	0		0		1	50	26-apr-01	0	0
+264262	26426	2	193006087526	08-jun-30	Odsäter, Carin	Carin		Odsäter			Nebulosavägen 7	17560	Järfälla	1	23	2		fbf	08-893221	0		2	2	1	1	2	192009103355	M	0		2	50	07-apr-01	0	0
+264291	26429	1	193006094860	09-jun-30	Bergman, Anna-Lisa	Anna-Lisa		Bergman			Ulebergshamnsv 10	45046	Hunnebostrand	14	27	5		fbf	0523-50161	0		2	4	2	1	2	0		0		1	50	05-sep-02	0	0
+264292	26429	2	193006094811	09-jun-30	Bergman, Jan Abraham Heimdal	Jan		Bergman			Ulebergshamnsv 5	45046	Hunnebostrand	14	27	5		fbf	0523-58845	0		1	4	1	2	1	0		0		1	50	05-sep-02	0	0
+264821	26482	1	193006230183	23-jun-30	Holm, Marianne Viktoria	Marianne		Holm			Sandtorp Nibble	64693	Gnesta	4	61	3			0158-31324	0		2	2	2	1	2	192608080350	M	0		2	92		0	0
+264822	26482	2	193006230209	23-jun-30	Orrestedt, Lillemor	Lillemor		Orrestedt			Rotholmsviken 31	76049	Herräng	1	88	5		fbf	0175-13719	0		2	2	1	2	1	192712211073	M	0		2	92	30-aug-97	0	0
+265191	26519	1	193007012119	01-jul-30	Strömqvist, Arne	Arne		Strömqvist			Riktaregatan 8	58737	Linköping	5	80	33		fbf	013-159824	0		1	4	2	1	2	193410071942	M	0		2	92	30-aug-97	0	0
+265192	26519	2	193007012127	01-jul-30	Svennberg, Astrid Margareta	Astrid		Svennberg			Solvägen 10	13550	Tyresö	1	38	1		fbf	08-7124058	0		2	4	1	2	1	193010082117	M	0		2	50	26-apr-01	0	0
+265451	26545	1	193007072485	07-jul-30	Lindqvist, Ingrid	Ingrid		Lindqvist			Finngatan 10	33134	Värnamo	6	83	1		fbf	0370-15067	0		2	4	2	2	1	0		0		1	50	19-nov-02	0	0
+265452	26545	2	193007072436	07-jul-30	Andersson, Ingvar Georg Karl Erik	Ingvar		Andersson			Florag 3	33133	Värnamo	6	83	1		fbf	0370-15298	0		1	4	1	1	2	193010272627	M	0		2	92	30-aug-97	0	0
+265571	26557	1	193007104148	10-jul-30	Sörensson, Hanna Linnea	Hanna		Sörensson			Möllevägen 2	23631	Höllviken	12	33	9		fbf	040-450409	0		2	2	2	2	1	192803013990	M	0		2	50	03-jan-02	0	0
+265572	26557	2	193007103926	10-jul-30	Åkesson, Elsa Ingegerd	Elsa		Åkesson			Östanvindsgatan 7 G	26242	Ängelholm	12	92	2		fbf	0431-19480	0		2	2	1	1	2	192006244012	M	0		2	50	01-nov-01	0	0
+266061	26606	1	193007241221	24-jul-30	Eklund, Anna Lena	Lena		Eklund			Långgatan 1	74071	Öregrund	3	82	7		fbf	0173-37037	0		2	2	2	1	2	0		0		1	50	05-jun-02	0	0
+266062	26606	2	193007241247	24-jul-30	Larsson, Ulla	Ulla		Larsson			Hälsingen 2534	74071	Öregrund	3	82	7		fbf	0173-37121	0		2	2	1	2	1	0		0		1	50	03-jan-02	0	0
+266371	26637	1	193008014825	01-aug-30	Finn, Rita	Rita		Finn			Dinglev 4	45047	Bovallstrand	14	27	6		fbf	0523-51542	0		2	2	2	2	1	193104274877	M	0		2	50	05-sep-02	0	0
+266372	26637	2	193008014841	01-aug-30	Alexandersson, Mona	Mona		Alexandersson			Kapellevägen 61	45144	Uddevalla	14	85	1		fbf	0522-18678	0		2	2	1	1	2	192809274893	M	0		2	92	30-aug-97	0	0
+267421	26742	1	193008281226	28-aug-30	Fredlund, Marianne Elisabeth	Marianne		Fredlund			Skarpskyttev 22 C	22642	Lund	12	81	25		fbf	046-2118199	0		2	2	2	2	1	0		0		1	92	30-aug-97	0	0
+267422	26742	2	193008281242	28-aug-30	Hammarlund, Naemi Ann-Marie	Ann-Marie		Hammarlund			Kvarnbergsvägen 7	74693	Bålsta	3	5	3		fbf	0171-52397	0		2	2	1	1	2	192207302411	M	0		2	92	30-aug-97	0	0
+267951	26795	1	193009147459	14-sep-30	Andersson, Pelle Gunnar	Pelle		Andersson			Bandyvägen 46	12949	Hägersten	1	80	21		fbf	08-6466045	0		1	4	2	1	2	193904196809	M	0		2	50	05-feb-99	0	0
+267952	26795	2	193009147103	14-sep-30	Röjling, Gunn Marianne	Gun		Röjling			Budavägen 1	66040	Segmon	17	64	3		fbf	0555-91257	0		2	4	1	2	1	192610096410	M	0		2	50	14-dec-00	0	0
+268361	26836	1	193009223359	22-sep-30	Rehnström, Alvar	Alvar		Rehnström			Lollandsg 31, IV	16443	Kista	1	80	42		fbf	08-7529779 / 0157-30290	0		1	4	2	1	2	0		0		1	92	30-aug-97	0	0
+268362	26836	2	193009223342	22-sep-30	Lind, Anna-Viola Kristina	Anna-Viola		Lind			Näsbychaussén 56 A	29136	Kristianstad	12	90	1		fbf	044-216541	0		2	4	1	2	1	192605053350	M	0		2	50	07-nov-02	0	0
+268691	26869	1	193009302948	30-sep-30	Engström, Gunvor	Gunvor		Engström			Norrtornsvägen 41	57232	Oskarshamn	8	82	1		fbf	0491-15328	0		2	4	2	1	2	0		0		1	50	02-aug-00	0	0
+268692	26869	2	193010012999	01OCT1930	Karlsson, Jan-Gunnar	Jan		Karlsson			Farstaängsvägen 9	12346	Farsta	1	80	25		fbf	08-946422	0		1	4	1	2	1	193303077824	M	0		2	50	10-mar-98	0	0
+268791	26879	1	193010026148	02OCT1930	Karlsson, Siv Marianne	Marianne		Karlsson			Jutevägen 16 2 TR	55445	Jönköping	6	80	1		fbf	036-160206	0		2	2	2	2	1	0		0		1	50	27-feb-99	0	0
+268792	26879	2	193010026122	02OCT1930	Petersson, Inga Brita	Inga Brita		Petersson			Prinsgatan 3 B 2TR	54131	Skövde	14	96	1		fbf	0500-411677	0		2	2	1	1	2	0		0		2	50	16-apr-02	0	0
+269111	26911	1	193010118044	11OCT1930	Forsberg, Ulla	Ulla		Forsberg			Solbergaleden 8	81340	Torsåker	21	4	2		fbf	0920-18401	0		2	2	2	1	2	0		0		1	50	18OCT2003	0	0
+269112	26911	2	193010128027	12OCT1930	Hägglund, Eva Katarina	Eva		Hägglund			Bygdevägen 26	19163	Sollentuna	1	63	1		fbf	08-356021	0		2	2	1	2	1	0		0		1	50	04-mar-98	0	0
+269651	26965	1	193010246928	24OCT1930	Nilsson, Margareta	Margareta		Nilsson			Odengatan 2 A	73630	Kungsör	19	60	1		fbf	0227-31955	0		2	2	2	1	2	192602161693	M	0		2	23	16-mar-00	0	0
+269652	26965	2	193010246902	24OCT1930	Karlsson, Astrid Magdalena	Magdalena		Karlsson			Hagavägen 31 A	73140	Köping	19	83	1		fbf	0221-12919	0		2	2	1	2	1	192503197036	M	0		2	92	30-aug-97	0	0
+269791	26979	1	193010292716	29OCT1930	Nygren, Bengt Valdemar	Bengt Valdemar		Nygren			Laxv 9	29535	Bromölla	12	72	1		fbf	0456-29589	0		1	2	2	1	2	193404083903	M	0		2	92	30-aug-97	0	0
+269792	26979	2	193010292732	29OCT1930	Nygren, Frans Gunnar	Frans Gunnar		Nygren			Härlöv Stom 2	34292	Alvesta	7	64	3		fbf	0472-42064	0		1	2	1	2	1	193105132827	M	0		2	50	07-dec-00	0	0
+269891	26989	1	193011018250	01-nov-30	Eriksson, Ingemar	Ingemar		Eriksson			Aspåsv 40	83532	Krokom	23	9	1		fbf	0640-62434	0		1	4	2	1	2	0		0		1	92	30-aug-97	0	0
+269892	26989	2	193011016924	01-nov-30	Sundkvist, Ingegerd	Ingegerd		Sundkvist			Ringvägen 23 A	83137	Östersund	23	80	1		fbf	063-121597	0		2	4	1	2	1	0		0		1	50	24-aug-01	0	0
+270711	27071	1	193011272600	27-nov-30	Sandberg, Karin Viola	Karin		Sandberg			Björnmossegången 68	13534	Tyresö	1	38	1		fbf	08-7421242	0		2	2	2	2	1	192602102432	M	0		2	92	30-aug-97	0	0
+270712	27071	2	193011272626	27-nov-30	Upper, Ulla	Ulla		Upper			Erkenskroken 9 1 TR	12054	Årsta	1	80	34		fbf	08-7229476	0		2	2	1	1	2	0		0		1	92	30-aug-97	0	0
+271231	27123	1	193012105809	10-dec-30	Liljekvist, Birgit Helen	Birgit Helen		Liljekvist			Östabergsgatan 25	73339	Sala	19	81	1		fbf	0224-12862	0		2	2	2	2	1	192802116679	M	0		2	50	14-nov-02	0	0
+271232	27123	2	193012115808	11-dec-30	Nilsson, Ingrid Gudrun	Ingrid Gudrun		Nilsson			Ringgatan 40 B	73332	Sala	19	81	1		fbf	0224-15322	0		2	2	1	1	2	0		0		1	50	17OCT2002	0	0
+271371	27137	1	193012146928	14-dec-30	Thysell, Mari-Anne	Marianne		Thysell			Drothemsgatan 3	61434	Söderköping	5	82	1		fbf	0121-15461	0		2	2	2	2	1	0		0		1	50	03MAY2002	0	0
+271372	27137	2	193012146944	14-dec-30	Brandt, Ingrid Lili-Anne	Lilian		Brandt			Plogstigen 16 C 1 TR	78451	Borlänge	20	81	2		fbf	0243-17698	0		2	2	1	1	2	0		0		1	50	31-jul-98	0	0
+271711	27171	1	193012263913	26-dec-30	Persson, Anders Lennart	Lennart		Persson			Mandelpilsgatan 18	21231	Malmö	12	80	10		fbf	040-492041	0		1	2	2	2	1	193608163360	M	0		2	50	15-aug-02	0	0
+271712	27171	2	193012263939	26-dec-30	Persson, Bertil	Bertil		Persson			Lagmansgatan 2 B	21466	Malmö	12	80	17		fbf	040-80555	0		1	2	1	1	2	193207054309	M	0		2	50	15-aug-02	0	0
+272601	27260	1	193101195737	19-jan-31	Johansson, Arne	Arne		Johansson			Stigen Östra	45893	Färgelanda	14	39	1		fbf	0528-30058	0		1	4	2	2	1	0		0		1	50	06-sep-00	0	0
+272602	27260	2	193101195703	19-jan-31	Johansson, Agnes Viola	Agnes		Johansson			Bolstad Bön 2	46065	Brålanda	14	61	5		fbf	0521-30205	0		2	4	1	1	2	192309155899	M	0		2	50	24-sep-03	0	0
+272691	27269	1	193101212987	21-jan-31	Nilsson, Ulla Margareta	Ulla		Nilsson			Vikingav 9	38735	Borgholm	8	85	1		fbf	0485-10433	0		2	2	2	1	2	192812242994	M	0		2	92	30-aug-97	0	0
+272692	27269	2	193101212961	21-jan-31	Cederholm, Ingrid Elisabet	Ingrid		Cederholm			Violvägen 7	39359	Kalmar	8	80	16		fbf	0480-422955	0		2	2	1	2	1	193012235432	M	0		2	50	06-jul-01	0	0
+273471	27347	1	193102112111	11-feb-31	Nilsson, Karl Gustaf	Carl Gustaf		Nilsson			Bergsättersvägen 70 E	59151	Motala	5	83	1		fbf	0141-214987	0		1	2	2	1	2	193111051904	M	0		2	50	16OCT2003	0	0
+273472	27347	2	193102112137	11-feb-31	Nilsson, Sven Olov	Sven Olov		Nilsson			Kvinnebyvägen 5	58933	Linköping	5	80	3		fbf	013-153264	0		1	2	1	2	1	193411091907	M	0		2	92	30-aug-97	0	0
+273751	27375	1	193102174814	17-feb-31	Johansson, Karl Erik	Erik		Johansson			Hästskov 9	47141	Rönnäng	14	19	3		fbf	0304-672600	0		1	4	2	2	1	194208234825	M	0		2	92	30-aug-97	0	0
+273752	27375	2	193102174863	17-feb-31	Johansson, Eivor	Eivor		Johansson			Myrv 15	47141	Rönnäng	14	19	3		fbf	0304-672535	0		2	4	1	1	2	0		0		1	92	30-aug-97	0	0
+274891	27489	1	193103233650	23-mar-31	Nilsson, Olle	Olle		Nilsson			Skytteg 14	28137	Hässleholm	12	93	3		fbf	0451-81133	0		1	4	2	2	1	193303043743	M	0		2	92	30-aug-97	0	0
+274892	27489	2	193103233544	23-mar-31	Larsson, Ulla	Ulla		Larsson			Strofgatan 15 B BV	70373	Örebro	18	80	30		fbf	019-200831	0		2	4	1	1	2	0		0		1	50	09-nov-00	0	0
+275201	27520	1	193104013358	01-apr-31	Johnsson, Sven Erik	Sven Erik		Johnsson			Kärrsjömålavägen 183	37693	Svängsta	10	60	2		fbf	0454-50554	0		1	4	2	2	1	193507183303	M	0		2	50	18-aug-98	0	0
+275202	27520	2	193104013382	01-apr-31	Svensson, Ella	Ella Maj-Britt		Svensson			Ålidsvägen 7	37534	Mörrum	10	82	6		fbf	0454-51046	0		2	4	1	1	2	192605113352	M	0		2	50	14-nov-02	0	0
+275601	27560	1	193104125913	12-apr-31	Samuelsson, Valter Ingemar	Valter		Samuelsson			Drakarörsgatan 10	52130	Falköping	14	99	1		fbf	0515-15139	0		1	4	2	1	2	193505275903	M	0		2	50	25OCT2001	0	0
+275602	27560	2	193104125947	12-apr-31	Samuelsson, Febe Harriet Maria	Febe		Samuelsson			Sankt Olofsgatan 45 C	52135	Falköping	14	99	1		fbf	0515-18864	0		2	4	1	2	1	0		0		1	50	25OCT2001	0	0
+275831	27583	1	193104196815	19-apr-31	Källberg, Uno Ferdinand	Uno		Källberg			Postlåda 5048	71198	Ramsberg	18	85	7		fbf	0581-660237	0		1	4	2	1	2	193206109484	M	0		2	50	10-jan-01	0	0
+275832	27583	2	193104196864	19-apr-31	Kihlman, Göta Vilhelmina	Göta		Kihlman			Häcklav 8, RAMSBERG	71198	Ramsberg	18	85	7		fbf	0581-660151	0		2	4	1	2	1	192605265475	M	0		2	92	30-aug-97	0	0
+277211	27721	1	193105246619	24MAY1931	Berggren, Bengt	Bengt		Berggren			Banvaktstugan V Sund 12616	71391	Nora	18	84	4		fbf	0587-10046	0		1	2	2	1	2	193706146648	M	0		2	92	30-aug-97	0	0
+277212	27721	2	193105246635	24MAY1931	Berggren, Nils Gunnar	Gunnar		Berggren			Torpa 431	71894	Ervalla	18	80	13		fbf	0587-50029	0		1	2	1	2	1	193302176601	M	0		2	50	03-jan-02	0	0
+277411	27741	1	193105312312	31MAY1931	Sjöström, Nils	Nils Ernhard		Sjöström			Tullportsgatan 3 C	76130	Norrtälje	1	88	1		fbf	08-55011963	0		1	4	2	2	1	193503172102	M	0		2	50	22OCT1999	0	0
+277412	27741	2	193105312304	31MAY1931	Sjöström, Maj Josefina	Maj Josefina		Sjöström			INEDALSG 21, V	0	#NAME?	1	0	0				9		2	4	1	1	2	0		0		0	0		0	0
+278901	27890	1	193107087375	08-jul-31	Göstas, Anders Einar	Einar		Göstas			Forsbackavägen 9	73746	Fagersta	19	82	1		fbf	0223-17206	0		1	4	2	2	1	0		0		1	50	26-apr-01	0	0
+278902	27890	2	193107087342	08-jul-31	Göstas, Eivor	Eivor		Göstas			Kråkbergsvägen 56	79233	Mora	20	62	1		fbf	0250-12147	0		2	4	1	1	2	0		0		1	92	30-aug-97	0	0
+279121	27912	1	193107180337	18-jul-31	Danielsson, Hans Olov	Hans		Danielsson			Fregattvägen 8, 4 TR	18137	Lidingö	1	86	1		fbf	08-7674748	0		1	4	2	2	1	193406271027	M	0		2	50	30-aug-01	0	0
+279122	27912	2	193107180709	18-jul-31	Löfqvist, Margareta	Margareta		Löfqvist			Ångermannagatan 170 8 TR	16265	Vällingby	1	80	31		fbf	08-370048	0		2	4	1	1	2	193105250355	M	0		2	50	05-mar-98	0	0
+279201	27920	1	193107202859	20-jul-31	Sjöholm, Hans Alfons	Hans		Sjöholm			Astrakanvägen 22	35261	Växjö	7	80	29		fbf	0470-16010	0		1	4	2	2	1	193411052800	M	0		2	92	04-sep-99	0	0
+279202	27920	2	193107202826	20-jul-31	Lundberg, Greta Mariann	Greta		Lundberg			Österleden 68 C	35242	Växjö	7	80	28		fbf	0470-10519	0		2	4	1	1	2	192901262432	M	0		2	50	12-jan-01	0	0
+279671	27967	1	193108042411	04-aug-31	Svensson, Åke Evert Ingemar	Ingemar		Svensson			Dannäs Boda 4	33012	Forsheda	6	83	8		fbf	0370-43185	0		1	4	2	1	2	193705152605	M	0		2	50	15-jun-02	0	0
+279672	27967	2	193108042403	04-aug-31	Petersson, Ingrid	Ingrid		Petersson			Smultronv 38	33143	Värnamo	6	83	1		fbf	0370-19423	0		2	4	1	2	1	0		0		1	92	30-aug-97	0	0
+280981	28098	1	193109142707	14-sep-31	Erlandsson, Märta Gunhild Ann-Britt	Ann-Britt		Erlandsson			Hageskruv Norragården 4	36076	Älghult	7	60	5		fbf	0481-63188	0		2	4	2	2	1	0		0		1	50	17OCT2001	0	0
+280982	28098	2	193109142772	14-sep-31	Löfgren, Ernst Bengt Gunnar	Bengt		Löfgren			Vallgatan 3	36073	Lenhovda	7	60	3		fbf	0474-20415	0		1	4	1	1	2	194010022723	M	0		2	50	03OCT2002	0	0
+281171	28117	1	193109197172	19-sep-31	Fredborg, Bengt Georg	Bengt		Fredborg			Högsvedsvägen 22	78195	Borlänge	20	81	2		fbf	0243-32714	0		1	4	2	1	2	0		0		1	92	30-aug-97	0	0
+281172	28117	2	193109197123	19-sep-31	Larsson, Inga-Lill	Ingalill		Larsson			Övre Hallegatan 34	41713	Göteborg	14	80	19		fbf	031-512188	0		2	4	1	2	1	192507305015	M	0		2	50	14-jan-03	0	0
+281341	28134	1	193109233738	23-sep-31	Åhlander, Olof	Olof		Åhlander			Lyckov 15	34337	Älmhult	7	65	4		fbf	0476-12885	0		1	2	2	2	1	193607109604	M	0		2	50	12-sep-02	0	0
+281342	28134	2	193109233712	23-sep-31	Åhlander, Yngve	Yngve		Åhlander			Hökvägen 22	31042	Haverdal	13	80	11		fbf	035-51328	0		1	2	1	1	2	193904298720	M	0		2	92	30-aug-97	0	0
+281821	28182	1	193110101932	10OCT1931	Köhl, Rune	Rune		Köhl			Nygatan 21 B	58219	Linköping	5	80	2		fbf	013-161002	0		1	2	2	2	1	0		0		2	50	18-jan-03	0	0
+281822	28182	2	193110101957	10OCT1931	Köhl, Sven	Sven		Köhl			Grengatan 17	58955	Linköping	5	80	33		fbf	013-152575	0		1	2	1	1	2	192505162103	M	0		2	92	30-aug-97	0	0
+282521	28252	1	193110301631	30OCT1931	Johansson, Lars Gunnar	Gunnar		Johansson			Runebergsg 46G	61137	Nyköping	4	80	2		fbf	0155-285728	0		1	2	2	2	1	193610121026	M	0		2	92	30-aug-97	0	0
+282522	28252	2	193110311614	31OCT1931	Johansson, Lars Göran	Göran		Johansson			Sjöbackestigen 49	61337	Oxelösund	4	81	1		fbf	0155-223370	0		1	2	1	1	2	0		0		1	92	30-aug-97	0	0
+282811	28281	1	193111098434	09-nov-31	Karlsson, Kjell Ambjörn Harald	Kjell		Karlsson			Sönnerviken 122	83021	Tandsbyn	23	80	5		fbf	063-753054	0		1	2	2	1	2	0		0		1	50	22-dec-99	0	0
+282812	28281	2	193111098459	09-nov-31	Karlsson, Ulf Harald Hjalmar	Ulf		Karlsson			Kopparslagargränd 2, II	83151	Östersund	23	80	1		fbf	063-125181	0		1	2	1	2	1	0		0		1	50	24-aug-01	0	0
+283581	28358	1	193112026277	02-dec-31	Theander, Bengt	Bengt		Theander			Mellangatan 11	66057	Väse	17	80	4		sp	054-840267	0		1	2	2	1	2	193608306209	M	0		2	50	30-aug-01	0	0
+283582	28358	2	193112026293	02-dec-31	Theander, Olov	Olov		Theander			Hammargatan 5	66057	Väse	17	80	4		sp	054-840198	0		1	2	1	2	1	0		0		1	50	30-aug-01	0	0
+284401	28440	1	193112252600	25-dec-31	Karlsson, Britta Ingegerd	Britta		Karlsson			Ringvägen 43	56433	Bankeryd	6	80	20		fbf	036-377084	0		2	2	2	2	1	192911232417	M	0		2	50	26-sep-02	0	0
+284402	28440	2	193112252626	25-dec-31	Stålknapp, Ulla Ingegerd	Ulla		Stålknapp			Tegnérgatan 27	56132	Huskvarna	6	80	5		fbf	036-137340	0		2	2	1	1	2	0		0		2	50	18-mar-03	0	0
+285501	28550	1	193201297532	29-jan-32	Westberg, Reine	Reine		Westberg			Rörbergsvägen 42	81891	Valbo	21	80	6		fbf	026-32043	0		1	2	2	1	2	193704127525	M	0		2	92	30-aug-97	0	0
+285502	28550	2	193201297557	29-jan-32	Westberg, Leif Arvid Ingemar	Leif		Westberg			Ekvägen 7 A	80269	Gävle	21	80	7		fbf	026-619251	0		1	2	1	2	1	193309277725	M	0		2	92	30-aug-97	0	0
+286401	28640	1	193202228403	22-feb-32	Bengtsson, Hildegard	Hildegard		Bengtsson			Villavägen 38	91060	Åsele	24	63	1		fbf	0941-10980	0		2	4	2	2	1	0		0		1	50	25OCT2001	0	0
+286402	28640	2	193202228478	22-feb-32	Tengman, Rolf Felix	Felix		Tengman			Skomakareg 52A	93333	Arvidsjaur	25	5	2		fbf		0		1	4	1	1	2	0		0		1	50	23-aug-02	0	0
+286521	28652	1	193202258517	25-feb-32	Sorelius, Erik Gunnar	Gunnar		Sorelius			N Parkv 24	75645	Uppsala	3	80	2		fbf	018-309911	0		1	2	2	2	1	0		0		1	92	30-aug-97	0	0
+286522	28652	2	193202268516	26-feb-32	Sorelius, Nils Lennart	Lennart		Sorelius			Norra Stenbocksgatan 60	25443	Helsingborg	12	83	1		fbf	042-133515	0		1	2	1	1	2	193409158205	M	0		2	92	30-aug-97	0	0
+287311	28731	1	193203166826	16-mar-32	Karlsson, Rut Tora Margareta	Rut Tora Margareta		Karlsson			Värdshusvägen 3	64010	Högsjö	4	28	1		fbf	0151-45467	0		2	2	2	2	1	192909306611	M	0		2	92	30-aug-97	0	0
+287312	28731	2	193203166800	16-mar-32	Törnblom, Ingrid	Ingrid Dorotea Margareta		Törnblom			Vätöbergsv 224	76021	Vätö	1	88	21		fbf	0176-234472	0		2	2	1	1	2	192904066855	M	0		2	92	30-aug-97	0	0
+287331	28733	1	193203163724	16-mar-32	Fält, Anne-Marie	Britt Anne-Marie		Fält			Röinge, Backstigen 15	28137	Hässleholm	12	93	3		fbf	0451-151 47	0		2	2	2	2	1	192702283538	M	0		2	92	30-aug-97	0	0
+287332	28733	2	193203163740	16-mar-32	Larsson, Marianne	Kerstin Marianne		Larsson			Vallmovägen 5	28137	Hässleholm	12	93	1		fbf	040-153288	0		2	2	1	1	2	192003303555	M	0		2	50	03-jun-98	0	0
+287431	28743	1	193203184530	18-mar-32	Jakob, Sven Göte	Sven		Jakob			Lundavägen 29	23235	Arlöv	12	31	1		fbf	046-81640	0		1	4	2	2	1	194002060822	M	0		2	50	25-aug-98	0	0
+287432	28743	2	193203183946	18-mar-32	Holmgren, Viola Maria	Maria		Holmgren			Dansörg 5 I	21583	Malmö	12	80	18		fbf	040-132614	0		2	4	1	1	2	193503164539	M	0		2	50	05-sep-02	0	0
+287621	28762	1	193203221902	22-mar-32	Sjöström, Aina Ingeborg	Aina		Sjöström			Händelövägen 32	60385	Norrköping	5	81	2		fbf	011-318443	0		2	2	2	2	1	192711241956	M	0		2	50	24MAY2001	0	0
+287622	28762	2	193203221928	22-mar-32	Eriksson, Dagny	Dagny		Eriksson			Trädgårdsgatan 15	69630	Askersund	18	82	1		fbf	0583-711733	0		2	2	1	1	2	0		0		1	92	30-aug-97	0	0
+288641	28864	1	193204197531	19-apr-32	Olovsson, Nils Erik	Nils		Olovsson			Karl Ix:s Väg 20 B BV	73050	Skultuna	19	80	7		fbf	021-75539	0		1	2	2	2	1	0		0		1	50	02-sep-98	0	0
+288642	28864	2	193204197515	19-apr-32	Olofsson, Lars	Lars		Olofsson		Kraftes	Malvik 465	82291	Alfta	21	21	3		fbf	0271-17135, 0278-17073	0		1	2	1	1	2	0		0		1	50	24-sep-03	0	0
+290101	29010	1	193205253960	25MAY1932	Sebring, Siv	Siv Berit		Sebring			Vipevägen 23	26162	Glumslöv	12	82	7		fbf	0418-70354	0		2	2	2	2	1	192605234117	M	0		2	50	09-jan-03	0	0
+290102	29010	2	193205253945	25MAY1932	Hedestam, Maj-Britt	Maj-Britt		Hedestam			Häradsgatan 3 C	25659	Helsingborg	12	83	3		fbf	042-283623	0		2	2	1	1	2	0		0		1	92	30-aug-97	0	0
+290131	29013	1	193205263555	26MAY1932	Pettersson, Bertil	Bertil		Pettersson			Idrottsvägen 19	36230	Tingsryd	7	63	1		fbf	0477-10754	0		1	2	2	1	2	0		0		1	50	24OCT2002	0	0
+290132	29013	2	193205263571	26MAY1932	Pettersson, Börje	Börje		Pettersson			Hägnadsvägen 10, I	74531	Enköping	3	81	1		fbf	0171-32376	0		1	2	1	2	1	193009056106	M	0		2	50	02OCT2002	0	0
+290871	29087	1	193206122198	12-jun-32	Westerberg, Jonny Vainar	Jonny		Westerberg			Skogslyckegatan 9	58727	Linköping	5	80	34		fbf	013-103241	0		1	4	2	1	2	193502202108	M	0		2	50	24-apr-01	0	0
+290872	29087	2	193206122321	12-jun-32	Ivarsson, Kerstin	Kerstin		Ivarsson			Kungsvägen 83 B	59540	Mjölby	5	86	2		fbf	0142-15903	0		2	4	1	2	1	0		0		1	92	30-aug-97	0	0
+291021	29102	1	193206171229	17-jun-32	Fallgren, Inger Margareta	Inger		Fallgren			Värdsholmsgatan 11 6 TR	15132	Södertälje	1	81	1		fbf	08-55097004	0		2	4	2	1	2	192501076471	M	0		2	50	25-sep-03	0	0
+291022	29102	2	193206171278	17-jun-32	Ahlinder, Ingemar	Ingemar		Ahlinder			Lingvägen 206 NB	12359	Farsta	1	80	25		fbf	08-6043335	0		1	4	1	2	1	193506011448	M	0		2	50	29OCT2002	0	0
+292071	29207	1	193207221015	22-jul-32	Lundkvist, Lars Rune	Lars		Lundkvist			V Banv 66	18450	Åkersberga	1	17	2		fbf	08-54063531	0		1	2	2	1	2	0		0		1	92	30-aug-97	0	0
+292072	29207	2	193207221031	22-jul-32	Lundkvist, Olov	Nils Olov		Lundkvist			Frösunda, Odenslund	18695	Vallentuna	1	15	4		fbf	08-51230004	0		1	2	1	2	1	193211061027	M	0		2	92	30-aug-97	0	0
+292151	29215	1	193207231071	23-jul-32	Rudnäs, Sten Birger Teodor Christian	Sten Birger Teodor Christian		Rudnäs			Kommendörsgatan 34, IV	11458	Stockholm	1	80	10		fbf	08-6611345	0		1	4	2	2	1	193201110180	M	0		2	50	22OCT2002	0	0
+292152	29215	2	193207231006	23-jul-32	Strömberg, Birgitta Margareta Elvira	Birgitta Margareta Elvira		Strömberg			Bengt Bagares Gränd 4 5 TR	12866	Sköndal	1	80	25		fbf	08-936717	0		2	4	1	1	2	193208310817	M	0		2	50	29OCT2002	0	0
+292161	29216	1	193207231683	23-jul-32	Jonsson, Ulla Britta	Ulla		Jonsson			Björkhultsv 19B	63229	Eskilstuna	4	84	1		fbf	016-426341	0		2	4	2	1	2	193311021657	M	0		2	92	30-aug-97	0	0
+292162	29216	2	193207231659	23-jul-32	Löfgren, Olof	Olof		Löfgren			S Kungsg 20A, 1TR	64235	Flen	4	82	1		fbf	0157-13647	0		1	4	1	2	1	0		0		1	92	30-aug-97	0	0
+292681	29268	1	193208076251	07-aug-32	Knutsson, Bernt Erik	Bernt		Knutsson			Olovsgatan 7 B	65219	Karlstad	17	80	1		fbf	0550-31219	0		1	4	2	2	1	193408076440	M	0		2	50	30-aug-01	0	0
+292682	29268	2	193208076483	07-aug-32	Frisk, Berit	Berit		Frisk			Prästgatan 39 A	68131	Kristinehamn	17	81	1		fbf	0550-411319	0		2	4	1	1	2	0		0		1	50	07-mar-03	0	0
+292971	29297	1	193208163711	16-aug-32	Nilsson, Anders Ingvar	Anders Ingvar		Nilsson			Lommarp 2178 B	28890	Vinslöv	12	93	5		fbf		0		1	4	2	1	2	0		0		1	50	12-jun-02	0	0
+292972	29297	2	193208163703	16-aug-32	Ivarsson, Anna Greta	Anna Greta		Ivarsson			Byaliden 5B	28294	Hörja	12	93	20		fbf	0451-54105	0		2	4	1	2	1	193006033538	M	0		2	92	30-aug-97	0	0
+293191	29319	1	193208237127	23-aug-32	Karlsson Lidman, Maria	Maria Signe	Karlsson	Lidman			Engelbrektsgatan 20	78431	Borlänge	20	81	2		fbf	0243-18528	0		2	4	2	1	2	0		0		1	50	15-dec-00	0	0
+293192	29319	2	193208237119	23-aug-32	Lidman, Sune	Sune		Lidman			Täppgatan 34	78437	Borlänge	20	81	2		fbf		0		1	4	1	2	1	0		0		1	92	17-feb-98	0	0
+293701	29370	1	193209074602	07-sep-32	Selmqvist, Gunn Inger	Inger		Selmqvist			Bruksgatan 18	31431	Hyltebruk	13	15	5		fbf	0345-10858	0		2	2	2	1	2	193109102636	M	0		2	50	26-apr-01	0	0
+293702	29370	2	193209074628	07-sep-32	Törnqvist, Berit	Berit		Törnqvist			Topasgatan 11	42148	Västra Frölunda	14	80	24		fbf	031-456488	0		2	2	1	2	1	192302275017	M	0		2	50	21-nov-02	0	0
+293961	29396	1	193209152630	15-sep-32	Persson, Arne Per August	Arne		Persson			Gunnes Väg 63	57635	Sävsjö	6	84	1		fbf	0382-10819	0		1	4	2	2	1	193011202946	M	0		2	50	09-jan-03	0	0
+293962	29396	2	193209152424	15-sep-32	Nilsson, Aina Sigrid Elvira	Aina		Nilsson			Skogsrundan 16	57633	Sävsjö	6	84	1		fbf	0382-12246	0		2	4	1	1	2	193004142653	M	0		2	50	17-sep-02	0	0
+294551	29455	1	193209294911	29-sep-32	Rudevärn, Stig	Stig		Rudevärn			Edsberg 125	47394	Henån	14	21	5		fbf	0304-47308	0		1	4	2	2	1	193606225245	M	0		2	50	24-jun-03	0	0
+294552	29455	2	193209294861	29-sep-32	Abrahamsson, Gun	Gun Berit Lisbeth		Abrahamsson			Landbovägen 19	42166	Västra Frölunda	14	80	41		sp	0301-30432	0		2	4	1	1	2	193502125218	M	0		2	50	26-jul-01	0	0
+295301	29530	1	193210247320	24OCT1932	Pellgaard, Ann-Mari	Ann-Mari		Pellgaard			Källvägen 2	79333	Leksand	20	29	1		fbf	0247-10475	0		2	2	2	1	2	192507157176	M	0		2	92	30-aug-97	0	0
+295302	29530	2	193210247122	24OCT1932	Gustavsson, Britt-Marie	Britt-Marie		Gustavsson			Grangärdevägen 22	77192	Ludvika	20	85	1		fbf	0240-641058	0		2	2	1	2	1	192701257137	M	0		2	50	05-feb-02	0	0
+295411	29541	1	193210274662	27OCT1932	Landberg, Inga-Lill Ragnhild	Inga-Lill		Landberg			Danska Vägen 25	30240	Halmstad	13	80	9		fbf	035-120433	0		2	2	2	2	1	192609264714	M	0		2	92	30-aug-97	0	0
+295412	29541	2	193210274688	27OCT1932	Claeson, Maj-Lill Ingegerd	Maj		Claeson			Danska Vägen 34	30240	Halmstad	13	80	9		fbf	035-217650	0		2	2	1	1	2	193006225993	M	0		2	92	30-aug-97	0	0
+295541	29554	1	193210305912	30OCT1932	Knutsson, Bengt	Bengt		Knutsson			Flo 14 STOMMEN	46796	Grästorp	14	44	8		fbf		0		1	4	2	2	1	193901045900	M	0		2	92	01-jan-98	0	0
+295542	29554	2	193210305904	30OCT1932	Johansson, Inger Elsa-Britt	Inger		Johansson			Västgötagatan 8	53432	Vara	14	70	1		fbf	0512-33187	0		2	4	1	1	2	193406126114	M	0		2	50	04-apr-02	0	0
+295611	29561	1	193211012608	01-nov-32	Palmgren, Gerda Erika Marianne	Marianne		Palmgren			Storgatan 19 B	57332	Tranås	6	87	1		fbf	0140-16474	0		2	2	2	2	1	0		0		1	92	30-aug-97	0	0
+295612	29561	2	193211012624	01-nov-32	Reiman Lingsberger, Ann-Mari	Ann-Mari	Reiman	Lingsberger			Wollmar Yxkullsgatan 9, II	11850	Stockholm	1	80	13		fbf	08-6438768	0		2	2	1	1	2	194011060037	M	0		2	50	12-nov-02	0	0
+295691	29569	1	193211025808	02-nov-32	Johansson, Inga-Lill Matilda	Inga-Lill		Johansson			Mellanv 5	51350	Sparsör	14	90	11		fbf	033-260656	0		2	2	2	2	1	0		0		1	50	23-aug-02	0	0
+295692	29569	2	193211025824	02-nov-32	Schultz, Ulla Emma Marianne	Ulla		Schultz			Fjällg 58 C	50461	Borås	14	90	1		fbf	033-124983	0		2	2	1	1	2	0		0		1	50	23-aug-02	0	0
+295881	29588	1	193211072966	07-nov-32	Karlsson, Vally	Vally		Karlsson			Kyrkogatan 7 B	57080	Virserum	8	60	5		fbf	0495-31377	0		2	2	2	2	1	192809132950	M	0		2	50	13-apr-00	0	0
+295882	29588	2	193211072982	07-nov-32	Bergström, Vera Ingegerd	Vera		Bergström			Kyrkogatan 7 A	57080	Virserum	8	60	5		fbf	0495-30072	0		2	2	1	1	2	193111112953	M	0		2	50	13-apr-00	0	0
+296271	29627	1	193211227339	22-nov-32	Karlsson, Erik Robert	Erik		Karlsson			Nordanvägen 15	78462	Borlänge	20	81	2		fbf	0243-233733	0		1	4	2	1	2	0		0		2	50	04-jul-00	0	0
+296272	29627	2	193211227347	22-nov-32	Holmstedt, Elsa Cecilia	Elsa		Holmstedt			Örjansgatan 109	78436	Borlänge	20	81	2		fbf	0243-19279	0		2	4	1	2	1	193204017317	M	0		2	50	01-nov-01	0	0
+296661	29666	1	193212058956	05-dec-32	Ölund, Rolf	Rolf		Ölund			Allén 12 B	94151	Piteå	25	81	1		fbf	0911-91645	0		1	4	2	1	2	0		0		1	50	13-apr-00	0	0
+296662	29666	2	193212058949	05-dec-32	Lindberg, Anna Violet Frideborg	Violet		Lindberg			Borgforsheden 22	94294	Sikfors	25	81	3		fbf	0911-70028	0		2	4	1	2	1	192002239032	M	0		2	92	30-aug-97	0	0
+296881	29688	1	193212126100	12-dec-32	Albinsson, Tyra Gunborg	Gunborg		Albinsson			Majtorpsgatan 31	42256	Hisings Backa	14	80	40		fbf	031-581184	0		2	2	2	2	1	192811235536	M	0		2	50	28-jan-03	0	0
+296882	29688	2	193212126126	12-dec-32	Johansson, Eivor Margareta	Eivor		Johansson			Långavad Eling	53010	Vedum	14	70	14		fbf	0512-43076	0		2	2	1	1	2	192608146110	M	0		2	50	04MAY2002	0	0
+297561	29756	1	193301062828	06-jan-33	Lorentsson, Mary Gunborg Birgitta	Gunborg		Lorentsson			Häljerud 1	46493	Mellerud	14	61	3		fbf	0521-36037	0		2	4	2	2	1	192603245594	M	0		2	50	12-jun-02	0	0
+297562	29756	2	193301062810	06-jan-33	Sandberg, Torvald Vilhelm Ivar	Torvald		Sandberg			Brantåsa Södregård 1	34036	Moheda	7	64	5		fbf	0472-74112	0		1	4	1	1	2	0		0		1	50	07-dec-00	0	0
+297861	29786	1	193301155614	15-jan-33	Karlsson, Karl Gösta	Gösta		Karlsson			Algatan 9	51252	Svenljunga	14	65	1		fbf	0325-10204	0		1	4	2	2	1	193703175806	M	0		2	50	13-sep-01	0	0
+297862	29786	2	193301155606	15-jan-33	Andersson, Kerstin Hildegard	Kerstin		Andersson			Baldersvägen 41	31142	Falkenberg	13	82	1		fbf	0346-80811	0		2	4	1	1	2	193405035613	M	0		2	92	30-aug-97	0	0
+298311	29831	1	193301297846	29-jan-33	Svensson, Anna Stina	Anna-Stina		Svensson			Militärvägen 4	43031	Åsa	13	84	8		fbf	0340-651635	0		2	2	2	1	2	0		0		2	50	15-jan-02	0	0
+298312	29831	2	193301297861	29-jan-33	Halén, Märta Kajsa	Kajsa		Halén			Spjutgatan 62	87151	Härnösand	22	80	1		fbf	0611-16721	0		2	2	1	2	1	193203249531	M	0		2	50	12-apr-01	0	0
+298341	29834	1	193301307157	30-jan-33	Lindström, Hans Gunnar	Gunnar		Lindström			Lönnemossa 40	79147	Falun	20	80	6		fbf	023-33607	0		1	4	2	1	2	0		0		1	92	30-aug-97	0	0
+298342	29834	2	193301307322	30-jan-33	Johansson, Kerstin Margareta	Kerstin		Johansson			Parkv 2	79015	Sundborn	20	80	7		fbf	023-62148	0		2	4	1	2	1	193009057351	M	0		2	92	30-aug-97	0	0
+298721	29872	1	193302134634	13-feb-33	Karlsson, Stig Allan	Stig		Karlsson			Lastad 262	31195	Falkenberg	13	82	10		fbf	0346-83980	0		1	4	2	1	2	193411119542	M	0		2	50	09-apr-02	0	0
+298722	29872	2	193302134642	13-feb-33	Johnsson, Inga-Lill	Inga-Lill		Johnsson			Postvägen 1 A	31134	Falkenberg	13	82	1		fbf	0346-13817	0		2	4	1	2	1	193101014631	M	0		2	50	31MAY2001	0	0
+298841	29884	1	193302188754	18-feb-33	Lindgren, Sven Olof	Sven Olof		Lindgren			Trädgränd 39	93157	Skellefteå	24	82	4		fbf	0910-31525	0		1	2	2	1	2	0		0		1	50	09-jul-03	0	0
+298842	29884	2	193302188937	18-feb-33	Bergmark, Karl Abel	Karl Abel		Bergmark			Kungsgatan 20 B	96131	Boden	25	82	1		fbf	0921-16131	0		1	2	1	2	1	0		0		1	50	16-aug-01	0	0
+298911	29891	1	193302202415	20-feb-33	Adamsson, Lars Ivan Lennart	Lars		Adamsson			Rosenlundsg 13	57023	Anneberg	6	82	5		fbf	0380-550471	0		1	2	2	2	1	193711152409	M	0		2	50	01MAY2002	0	0
+298912	29891	2	193302212430	21-feb-33	Adamsson, Rolf	Rolf		Adamsson			Junigatan 17	57338	Tranås	6	87	1		fbf	0140-12711	0		1	2	1	1	2	0		0		1	50	27-sep-01	0	0
+299391	29939	1	193303053734	05-mar-33	Westling, Stig Tore Lennart	Stig		Westling			Tyrstigen 2:1	77462	Avesta	20	84	6		fbf	0243-225267	0		1	4	2	1	2	194109187106	M	0		2	50	09-jan-03	0	0
+299392	29939	2	193303053700	05-mar-33	Ekelund, Ingeborg	Ingeborg		Ekelund			Svansjögatan 49	21766	Malmö	12	80	8		fbf	040-85798	0		2	4	1	2	1	192901123550	M	0		2	50	05-sep-02	0	0
+299491	29949	1	193303085801	08-mar-33	Emanuelsson, Marianne	Marianne		Emanuelsson			Kristinebergsg 22 A	51156	Kinna	14	63	1		fbf	0320-12928	0		2	2	2	1	2	0		0		1	92	01-jan-98	0	0
+299492	29949	2	193303085827	08-mar-33	Axelsson, Lilian	Lilian		Axelsson			Lövåsgatan 8	51154	Kinna	14	63	1		fbf	0320-13141	0		2	2	1	2	1	192710265618	M	0		2	50	14-aug-01	0	0
+299691	29969	1	193303138410	13-mar-33	Pihlblad, Ulf	Ulf Gösta		Pihlblad			Spireav 9	70375	Örebro	18	80	13		fbf	019-312358	0		1	4	2	2	1	0		0		2	50	16OCT1999	0	0
+299692	29969	2	193303138402	13-mar-33	Berglund, Ulla Margareta	Ulla		Berglund			Heimdalsvägen 2	83030	Lit	23	80	9		fbf	0642-10372	0		2	4	1	1	2	0		0		2	50	21-aug-02	0	0
+510031	51003	1	192105105536	10MAY1921	Johansson, Karl	Karl		Johansson			Apotekaregatan 12	25249	Helsingborg	12	83	2		fbf	042-218409	0		1	4	2	2	1	192310143926	M	0		2	50	04-mar-03	0	0
+510032	51003	2	192105104521	10MAY1921	Wisell, Anna	Anna		Wisell			Filipstadsbacken 22 4 TR	12343	Farsta	1	80	25		fbf	08-6047012	0		2	4	1	1	2	0		0		1	92	18-feb-98	0	0
+510081	51008	1	192105294892	29MAY1921	Jakobsson, Erik Georg	Erik		Jakobsson			Iskällareliden 5 B	41655	Göteborg	14	80	16		fbf	031-406468	0		1	4	2	2	1	192403024801	M	0		2	50	04-feb-03	0	0
+510082	51008	2	192105295741	29MAY1921	Hansson, Edit Britta Maria	Edit		Hansson			Amliden Björkbacka	45063	Högsäter	14	39	6		fbf	0528-60017	0		2	4	1	1	2	191911249553	M	0		2	50	06-sep-00	0	0
+511421	51142	1	192204056937	05-apr-22	Hellberg, Frans Rune	Rune		Hellberg			Sjöåkravägen 65	56431	Bankeryd	6	80	20		fbf	0523-23315	0		1	4	2	1	2	0		0		1	50	08-dec-99	0	0
+511422	51142	2	192204055608	05-apr-22	Wickström, Rut Ester	Rut		Wickström			Strandgatan 8 8TR	46131	Trollhättan	14	88	1		fbf	0520-17679	0		2	4	1	2	1	0		0		1	50	11-sep-01	0	0
+511531	51153	1	192204301283	30-apr-22	Johansson, Astrid Maria	Astrid		Johansson			Råsundavägen 72	16957	Solna	1	84	2		fbf	08-272193	0		2	4	2	1	2	0		0		1	50	18-apr-02	0	0
+511532	51153	2	192204303958	30-apr-22	Andersson, Elis	Elis		Andersson			Mölletorget 1A	27151	Ystad	12	86	1		fbf	0411-14659	0		1	4	1	2	1	192608054249	M	0		2	92	30-aug-97	0	0
+511981	51198	1	192207123551	12-jul-22	STRID, STURE VERNER	Sture Verner		Strid			Sandv 9	29572	Gualöv	12	62	2		fbf	044-54373	0		1	4	2	1	2	193011023565	M	0		2	92	30-aug-97	0	0
+511982	51198	2	192207123601	12-jul-22	SVENSSON, SVEA VIKTORIA	Svea Viktoria		Svensson			Ivög 27C	29532	Bromölla	12	62	1		fbf	0456-29318	0		2	4	1	2	1	0		0		1	92	30-aug-97	0	0
+512241	51224	1	192209162912	16-sep-22	Karlsson, Gustav Sebert Emanuel	Sebert		Karlsson			Storgatan 16 A 3TR	57930	Högsby	8	21	2		fbf	0491-20396	0		1	4	2	2	1	0		0		1	50	10-nov-98	0	0
+512242	51224	2	192209162904	16-sep-22	Karlsson, Aina Ester Linnéa	Ajna Ester Linnéa		Karlsson			Karlavägen 20 B	57931	Högsby	8	21	2		fbf	0491-20396	0		2	4	1	1	2	0		0		1	50	03-nov-98	0	0
+512271	51227	1	192209186416	18-sep-22	Lövenhamn, Per Konrad	Per		Lövenhamn			Bäckatorpsg 59	69435	Hallsberg	18	61	1		fbf	0582-611606	0		1	4	2	2	1	192104308065	M	0		2	92	30-aug-97	0	0
+512272	51227	2	192209184809	18-sep-22	Nilsson, Sylvia Elisabet	Elisabet		Nilsson			Anråsvägen 6	44460	Stora Höga	14	15	5		fbf	0303-777262	0		2	4	1	1	2	191601094830	M	0		2	50	01-jun-99	0	0
+512451	51245	1	192211117813	11-nov-22	Sjödin, Johan Bertil	Bertil		Sjödin			Södra Nedanvägsgatan 22 C	43162	Mölndal	14	81	1		fbf	031-875245	0		1	4	2	2	1	0		0		2	50	18-nov-00	0	0
+512452	51245	2	192211117805	11-nov-22	Ögren, Anna Margareta	Anna-Greta		Ögren			Friggv 1	85740	Sundsvall	22	81	6		fbf	060-159320	0		2	4	1	1	2	191810308039	M	0		2	50	14-mar-02	0	0
+512471	51247	1	192211162918	16-nov-22	Karlsson, Gunnar Alvar	Gunnar		Karlsson			Framnäsvägen 27 B	35239	Växjö	7	80	28		fbf	0470-17141	0		1	4	2	2	1	192506202908	M	0		2	92	30-aug-97	0	0
+512472	51247	2	192211162900	16-nov-22	Jonsson, Gunvor Ingeborg	Gunvor		Jonsson		Välengården	Kyrkvägen 14 A	57072	Fagerhult	8	21	4		fbf	0491-51213	0		2	4	1	1	2	0		0		2	50	15-nov-02	0	0
+512791	51279	1	192302235623	23-feb-23	Johansson, Tyra Margareta	Tyra		Johansson			Torsredsv 33	46158	Trollhättan	14	88	1		fbf	0520-10345	0		2	4	2	2	1	0		0		1	50	23-aug-02	0	0
+512792	51279	2	192302235615	23-feb-23	Bengtsson, Torsten Artur	Torsten		Bengtsson			Trollg 10B	46134	Trollhättan	14	88	1		fbf	0520-411180	0		1	4	1	1	2	192311105569	M	0		2	50	23-aug-02	0	0
+512861	51286	1	192303164178	16-mar-23	Sandberg, Nils	Nils		Sandberg			Segergatan 8 D 4TR	26145	Landskrona	12	82	1		fbf	0418-411735	0		1	4	2	2	1	193303044204	M	0		2	50	09-jan-03	0	0
+512862	51286	2	192303164145	16-mar-23	Arnö, Karin	Karin		Arnö			Granitvägen 5	43252	Varberg	13	83	1		fbf	0340-13188	0		2	4	1	1	2	192407182431	M	0		2	92	30-aug-97	0	0
+513011	51301	1	192304102177	10-apr-23	JOHANSSON, ERIK HELMER	Erik Helmer		Johansson		Norrgården	Klockrike Stora Berga 641	59032	Borensberg	5	83	7		fbf	013-391085	0		1	4	2	1	2	192711251906	M	0		2	50	04-dec-02	0	0
+513012	51301	2	192304102326	10-apr-23	Brattlöf, Anna Maria	Anna Maria		Brattlöf			Hemvägen 3 C	59018	Mantorp	5	86	18		fbf	0142-20952	0		2	4	1	2	1	0		0		1	92	30-aug-97	0	0
+513181	51318	1	192305166429	16MAY1923	Thyberg, Signe Margareta	Signe Margareta		Thyberg			Ålgården Villavägen	67192	Arvika	17	84	2		fbf	0570-23096	0		2	4	2	1	2	0		0		2	50	05-mar-03	0	0
+513182	51318	2	192305166411	16MAY1923	Norén, Nils Olof	Nils Olof		Norén			Skolgatan 20	69141	Karlskoga	18	83	1		fbf	0586-54237	0		1	4	1	2	1	0		0		1	50	09OCT2003	0	0
+513341	51334	1	192306135910	13-jun-23	Isaksson, Gustav	Gustav		Isaksson			Malmgatan 6 3TR	56631	Habo	6	43	1		fbf	036-40268	0		1	4	2	1	2	192603242468	M	0		2	50	05MAY1998	0	0
+513342	51334	2	192306135902	13-jun-23	Samuelsson, Berta Ulla Maria	Ulla		Samuelsson			Drottninggatan 47	59131	Motala	5	83	1		fbf	0141-211749	0		2	4	1	2	1	0		0		2	50	24MAY2002	0	0
+513801	51380	1	192310221912	22OCT1923	Nilsson, Stig Mauritz	Stig Mauritz		Nilsson			Blåbärsstigen 2 B	57060	Österbymo	5	12	4		fbf	0380-20791	0		1	4	2	1	2	0		0		2	50	04-mar-00	0	0
+513802	51380	2	192310221904	22OCT1923	Karlsson, Gurli Maria	Gurli Maria		Karlsson			Hagagatan 44 A	59430	Gamleby	8	83	11		fbf	0125-44084	0		2	4	1	2	1	192305201911	M	0		2	50	31-jul-01	0	0
+514111	51411	1	192312264860	26-dec-23	Gundmar, Brita Kristina	Brita		Gundmar			Kaparegatan 3 B LÄG 46	45142	Uddevalla	14	85	1		fbf	0522-12537	0		2	4	2	1	2	0		0		1	50	19-dec-00	0	0
+514112	51411	2	192312264936	26-dec-23	Nordqvist, Lars Olof	Lars Olof		Nordqvist			Södergatan 28 LÄG 52	45140	Uddevalla	14	85	1		fbf	0522-70684	0		1	4	1	2	1	193005075027	M	0		2	50	02-dec-00	0	0
+514191	51419	1	192401144619	14-jan-24	Karlsson, Allan Torsten	Allan		Karlsson		Bolg	Gamlegårdsvägen 140	43033	Fjärås	13	84	12		fbf	0300-44482	0		1	4	2	1	2	192512054608	M	0		2	50	14-jan-00	0	0
+514192	51419	2	192401144601	14-jan-24	Andersson, Elin	Elin		Andersson			Gamla Gällingevägen 132	43033	Fjärås	13	84	9		fbf	0340-652322	0		2	4	1	2	1	0		0		1	50	08-dec-99	0	0
+514501	51450	1	192403288216	28-mar-24	Grangenbeck, Gunnar	Gunnar		Grangenbeck			Bruksgatan 8 C LÄG 200	85630	Sundsvall	22	81	3		fbf	060-617040	0		1	4	2	1	2	0		0		1	50	22OCT2002	0	0
+514502	51450	2	192403287903	28-mar-24	Andersson, Gunvor	Gunvor		Andersson			Volontärvägen 39 3 TR	87162	Härnösand	22	80	1		fbf	0611-21143	0		2	4	1	2	1	0		0		1	50	03-jun-00	0	0
+514621	51462	1	192404303766	30-apr-24	Jönsson, Anna-Maria	Anna		Jönsson			Öen	31298	Våxtorp	13	81	3		fbf		0		2	4	2	2	1	0		0		1	92	30-aug-97	0	0
+514622	51462	2	192404304657	30-apr-24	Johansson, Axel	Axel		Johansson			Kyrkvägen 12 B	31275	Våxtorp	13	81	3		fbf		0		1	4	1	1	2	0		0		1	50	19-feb-03	0	0
+515131	51513	1	192409047111	04-sep-24	Ollas, John	John		Ollas			Born Hembornsvägen 41	79592	Rättvik	20	31	1		fbf	0248-14411	0		1	4	2	2	1	193001267305	M	0		2	50	04MAY2001	0	0
+515132	51513	2	192409047103	04-sep-24	Snis, Inga	Inga		Snis			Siljansvägen 33	79535	Rättvik	20	31	1		fbf	0248-10141	0		2	4	1	1	2	0		0		1	50	30-jan-03	0	0
+515171	51517	1	192409094618	09-sep-24	Nilsson, Kurt Åke	Kurt		Nilsson			Flädervägen 38	30244	Halmstad	13	80	2			035-126687	0		1	4	2	1	2	192407214622	M	0		2	92		0	0
+515172	51517	2	192409093503	09-sep-24	Svensson, Dagny Alice	Dagny		Svensson			Frontgatan 1 C	25456	Helsingborg	12	83	17		fbf	042-161897	0		2	4	1	2	1	0		0		1	92	30-aug-97	0	0
+515231	51523	1	192409194871	19-sep-24	Svensson, Bengt Harald	Bengt		Svensson			Tuntorp 334	45492	Brastad	14	84	5		fbf	0523-47528	0		1	4	2	1	2	194109139362	M	0		2	50	04OCT2001	0	0
+515232	51523	2	192409194806	19-sep-24	Eriksson, Birgit Maria	Birgit		Eriksson			Göteborgsvägen 14 A	45142	Uddevalla	14	85	1		fbf	0522-15065	0		2	4	1	2	1	192509174831	M	0		2	92	30-aug-97	0	0
+515591	51559	1	192412296135	29-dec-24	Andersson, Bengt Arvid	Bengt		Andersson			Mellby Lyckhem	53196	Lidköping	14	94	6		fbf	0510-32010	0		1	4	2	1	2	192512216165	M	0		2	92	01-jan-98	0	0
+515592	51559	2	192412296127	29-dec-24	Larsson, Karin Helena	Helena		Larsson			Forsby Skattegården 5	54192	Skövde	14	96	14		fbf	0500-425207	0		2	4	1	2	1	0		0		1	50	03-jan-02	0	0
+516111	51611	1	192504172970	17-apr-25	Svensson, Torsten	Torsten		Svensson			Rönnvägen 3 M	57733	Hultsfred	8	60	1		fbf	0495-13225	0		1	4	2	2	1	193708182989	M	0		2	50	17MAY2001	0	0
+516112	51611	2	192504172962	17-apr-25	Ossiansson, Vera Sofia	Vera		Ossiansson			Björklundsgatan 2	59334	Västervik	8	83	1		fbf	0490-17437	0		2	4	1	1	2	0		0		2	50	02-jun-99	0	0
+516221	51622	1	192505104352	10MAY1925	Planborn, Kjell	Kjell		Planborn			Högklintavägen 17, II	17264	Sundbyberg	1	83	1		fbf	08-7644933	0		1	4	2	2	1	0		0		1	50	16-aug-01	0	0
+516222	51622	2	192505104543	10MAY1925	Magnusson, Elvy	Elvy		Magnusson			Västanvindsgatan 10	44430	Stenungsund	14	15	2		fbf	0303-81367	0		2	4	1	1	2	192809163393	M	0		2	50	24MAY2001	0	0
+516361	51636	1	192506199393	19-jun-25	Hemmingsson, Jonas Olaus	Jonas		Hemmingsson			Islingbyvägen 6	78472	Borlänge	20	81	2		fbf	0243-227771	0		1	4	2	1	2	193102198227	M	0		2	50	01-nov-01	0	0
+516362	51636	2	192506198221	19-jun-25	Jonasson, Inga	Inga		Jonasson			Söderforsvägen 50	81593	Tierp	3	60	5		fbf	0293-40106	0		2	4	1	2	1	0		0		2	50	27-feb-02	0	0
+516611	51661	1	192508198997	19-aug-25	Fredriksson, Hugo Valfrid	Hugo		Fredriksson			Källgatan 6	97331	Luleå	25	80	1		fbf	0920-221006	0		1	4	2	1	2	192503028967	M	0		2	50	14-feb-02	0	0
+516612	51661	2	192508199045	19-aug-25	Nilsson, Julia Linnea	Linnea		Nilsson			Vibbyn 11	96191	Boden	25	82	1		fbf	0921-343015	0		2	4	1	2	1	0		0		1	92	30-aug-97	0	0
+516751	51675	1	192510175975	17OCT1925	Jonsson, Gunnar	Gunnar		Jonsson			Bjällum Villa Maria	53293	Axvall	14	99	47		fbf	0500-491165	0		1	4	2	2	1	192911142301	M	0		2	92	01-jan-98	0	0
+516752	51675	2	192510175926	17OCT1925	Andersson, Dagmar Johanna Margareta	Dagmar		Andersson			Violvägen 7	54139	Skövde	14	96	1		fbf	0500-417110	0		2	4	1	1	2	192607075930	M	0		2	50	20-feb-03	0	0
+516931	51693	1	192512052735	05-dec-25	Rössvik, Cedrik Paul Johannes	Cedrik		Rössvik			Skogsgläntan 10 B	56691	Habo	6	43	1		fbf	036-42075	0		1	4	2	2	1	192812112429	M	0		2	92	01-jan-98	0	0
+516932	51693	2	192512052420	05-dec-25	Bengtsson, Vera	Vera		Bengtsson			Slånbärsvägen 5 EKBACKAGÅRDEN 1	57137	Nässjö	6	82	1		fbf	0380-16207	0		2	4	1	1	2	0		0		2	50	01MAY2002	0	0
+2100451	210045	1	193304048972	04-apr-33	Andersson, Sune	Sune		Andersson			Hermelinsgatan 28	96133	Boden	25	82	1		fbf	0921-15540	0		1	4	2	1	2	193501179067	M	0		2	50	16-aug-01	0	0
+2100452	210045	2	193304048923	04-apr-33	Gottfridsson, Inger Mariana	Inger		Gottfridsson			Hyttgatan 13 B, 2TR	81130	Sandviken	21	81	1		fbf	026-257330	0		2	4	1	2	1	193012317511	M	0		2	50	06-sep-01	0	0
+2100561	210056	1	193304085925	08-apr-33	Jönsson, Annie	Annie		Jönsson			Djupedalsvägen 2	54136	Skövde	14	96	1		fbf	0500-414296	0		2	2	2	1	2	192603096658	M	0		2	50	20-feb-03	0	0
+2100562	210056	2	193304085941	08-apr-33	Engelbrektsson, Aina Karin Linnéa	Aina		Engelbrektsson			Returvägen 4	54178	Värsås	14	96	15		fbf	0500-420039	0		2	2	1	2	1	0		0		1	50	20-feb-03	0	0
+2100711	210071	1	193304113578	11-apr-33	Wetterlöf, Sven-Åke	Sven-Åke		Wetterlöf			Gjutareg 17	28151	Hässleholm	12	93	1		fbf	0451-41183	0		1	4	2	1	2	193403193646	M	0		2	92	30-aug-97	0	0
+2100712	210071	2	193304113560	11-apr-33	Rhodin, Anna-Greta	Anna-Greta		Rhodin			Hantverkaregatan 1	23332	Svedala	12	63	1		fbf	040-401553	0		2	4	1	2	1	192906293911	M	0		2	92	30-aug-97	0	0
+2100831	210083	1	193304145703	14-apr-33	Andersson, Astrid Matilda	Astrid		Andersson			Bringsrovägen 36	46450	Dals Rostock	14	61	7		fbf	0530-20064	0		2	2	2	1	2	0		0		1	50	28-aug-03	0	0
+2100832	210083	2	193304145729	14-apr-33	Andersson, Karin	Karin		Andersson			Sandelhielmsgatan 9	46235	Vänersborg	14	87	1		fbf	0521-16153	0		2	2	1	2	1	192907165639	M	0		2	92	08-jan-98	0	0
+2101081	210108	1	193304196193	19-apr-33	Edvardsson, Bo	Bo		Edvardsson			Foderrumsvägen 8	42354	Torslanda	14	80	29		fbf	031-561955	0		1	2	2	1	2	193210224824	M	0		2	50	28-jan-03	0	0
+2101082	210108	2	193304196177	19-apr-33	Edvardsson, Rolf Valfrid	Rolf		Edvardsson			Sulkyg 4	43131	Mölndal	14	81	1		fbf	031-278047	0		1	2	1	2	1	193710134820	M	0		2	92	30-aug-97	0	0
+2101291	210129	1	193304267812	26-apr-33	Lindfors, Sven Ivar	Sven Ivar		Lindfors			Sjöstigen 3	83331	Strömsund	23	13	1		fbf	0670-10394	0		1	4	2	2	1	193201028424	M	0		2	92	30-aug-97	0	0
+2101292	210129	2	193304267846	26-apr-33	Hallén, Elsy Marie	Elsy Marie		Hallén			Frejavägen 8 B	82065	Forsa	21	84	11		fbf	0650-23820	0		2	4	1	1	2	193311087732	M	0		2	92	13-dec-97	0	0
+2101351	210135	1	193304284171	28-apr-33	Persson, Per	Per		Persson			Repslagareg 14E	27152	Ystad	12	86	1		fbf	0411-14485	0		1	2	2	1	2	193305314142	M	0		2	92	30-aug-97	0	0
+2101352	210135	2	193304284155	28-apr-33	Persson, Edvin Gunnar	Gunnar		Persson			Brösarp 8	27033	Vollsjö	12	65	11		fbf	0416-30235	0		1	2	1	2	1	193510054160	M	0		2	50	03-jan-02	0	0
+2101451	210145	1	193304308533	30-apr-33	Vallin, Alrik	Alrik		Vallin			Box 69	91702	Högland	24	25	1		fbf	0942-41041	0		1	2	2	1	2	195207308569	M	0		2	92	30-aug-97	0	0
+2101452	210145	2	193304308558	30-apr-33	Wallin, Emil	Emil		Wallin			Rajastrand 1731	83081	Norråker	24	25	2		fbf	0942-43032	0		1	2	1	2	1	193812018566	M	0		2	92	30-aug-97	0	0
+2101951	210195	1	193305198099	19MAY1933	Brink, Karl	Karl		Brink			Järnvägsg 66	89042	Mellansel	22	84	4		fbf	0661-40155	0		1	4	2	2	1	193408017824	M	0		2	92	30-aug-97	0	0
+2101952	210195	2	193305198024	19MAY1933	Jonsson, Ingrid	Ingrid		Jonsson			Rissna 4460	84050	Gällö	23	5	5		fbf	0693-60039	0		2	4	1	1	2	193007298411	M	0		2	92	30-aug-97	0	0
+2101981	210198	1	193305208013	20MAY1933	Petersson, Klas	Klas		Petersson			Borgsjöbyn 4196	84197	Erikslund	22	60	2		fbf	0690-20490	0		1	2	2	2	1	193510028263	M	0		2	92	30-aug-97	0	0
+2101982	210198	2	193305208039	20MAY1933	Petersson, Göran	Göran		Petersson			Köpmangatan 11	84134	Ånge	22	60	2		fbf	0690-61540	0		1	2	1	1	2	0		0		1	50	27-sep-01	0	0
+2102001	210200	1	193305212940	21MAY1933	Hallberg, Ingrid Viola	Ingrid		Hallberg			Runvägen 5 A	39352	Kalmar	8	80	17		fbf	0480-422151	0		2	2	2	2	1	193105183077	M	0		2	50	02-dec-98	0	0
+2102002	210200	2	193305212965	21MAY1933	Jivung, Ines	Ines		Jivung			Björkenäsvägen 38	39359	Kalmar	8	80	18		fbf	0480-472157	0		2	2	1	1	2	193102282955	M	0		2	50	31OCT2002	0	0
+2102191	210219	1	193305273306	27MAY1933	Mattisson, Siv Linnea	Siv		Mattisson			Moshult 213	36191	Emmaboda	8	62	3		fbf	0471-45059	0		2	4	2	2	1	0		0		2	50	21-feb-01	0	0
+2102192	210219	2	193305273314	27MAY1933	Johansson, Gösta Albin	Gösta		Johansson			Nyhemsvägen 21	37010	Bräkne-hoby	10	81	10		fbf	0457-80194	0		1	4	1	1	2	194003123785	M	0		2	50	16OCT2003	0	0
+2102351	210235	1	193306021217	02-jun-33	Karlsson, Bengt Johnny	Bengt Johnny		Karlsson			Knutby Videv 10	74012	Knutby	3	80	28		fbf	0174-40248	0		1	2	2	1	2	193811196207	M	0		2	40	13-nov-01	0	0
+2102352	210235	2	193306021233	02-jun-33	Karlsson, Bert	Bert Ingemar		Karlsson			Knutbyhus 1 B	74012	Knutby	3	80	28		fbf	0174-40206	0		1	2	1	2	1	193810281026	M	0		2	40	13-nov-01	0	0
+2102531	210253	1	193306067541	06-jun-33	Voxlin, Majbritt Inga Vilhelmina	Inga		Voxlin			Apoteksgatan 11	82831	Edsbyn	21	21	1		fbf	0657-20001	0		2	4	2	1	2	0		0		1	50	26-jun-01	0	0
+2102532	210253	2	193306067731	06-jun-33	Eriksson, Hans	Hans		Eriksson			Långgatan 16 A	82832	Edsbyn	21	21	1		fbf	0657-20044	0		1	4	1	2	1	0		0		1	50	01OCT2002	0	0
+2102801	210280	1	193306172952	17-jun-33	Johansson, Alf	Alf Gunnar		Johansson			Sleipnerg 2 D	38693	Färjestaden	8	40	15		fbf		0		1	2	2	2	1	0		0		1	92	30-aug-97	0	0
+2102802	210280	2	193306172978	17-jun-33	Johansson, Stig Erik	Stig Erik		Johansson			Långrälla 3350	38696	Färjestaden	8	40	16		fbf	0485-32337	0		1	2	1	1	2	0		0		1	92	30-aug-97	0	0
+2102891	210289	1	193306194824	19-jun-33	Larsson, Siv	Siv		Larsson			Kilbäcksgatan 37 B, LÄG 9	45130	Uddevalla	14	85	1		fbf	0522-12739	0		2	2	2	2	1	193204224830	M	0		2	92	30-aug-97	0	0
+2102892	210289	2	193306194840	19-jun-33	Gustafsson, Gun	Gun		Gustafsson			Tjärhovsgatan 18 B, LÄG 102	45142	Uddevalla	14	85	1		fbf	0522-33693	0		2	2	1	1	2	0		0		1	92	30-aug-97	0	0
+2102981	210298	1	193306224613	22-jun-33	Emanuelsson, Inge	Inge		Emanuelsson			Skånegatan 400	43230	Varberg	13	83	1		fbf	0340-84716	0		1	2	2	2	1	0		0		1	50	03MAY2001	0	0
+2102982	210298	2	193306224639	22-jun-33	Emanuelsson, Egon Vendel	Egon		Emanuelsson			Löddeåvägen 34	24193	Eslöv	12	85	7		fbf	046-249268	0		1	2	1	1	2	193803245426	M	0		2	50	24OCT2002	0	0
+2103361	210336	1	193307015002	01-jul-33	Ivarson, Hanna Ingela	Ingela		Ivarson			Ängholmen 18	42676	Västra Frölunda	14	80	23		fbf	031-290832	0		2	2	2	2	1	192808175018	M	0		2	50	09-jun-98	0	0
+2103362	210336	2	193307015028	01-jul-33	Ewald, Lisa Margareta	Margareta		Ewald			Doktor Liborius Gata 11	41323	Göteborg	14	80	9		fbf	031-823910	0		2	2	1	1	2	0		0		1	50	15OCT2002	0	0
+2103421	210342	1	193307032437	03-jul-33	Ringfors, Lars	Lars		Ringfors			Sofia Dahlbergs Gata 11	57337	Tranås	6	87	1		fbf	0140-19817	0		1	4	2	1	2	0		0		1	50	27-sep-01	0	0
+2103422	210342	2	193307032460	03-jul-33	Bjarnle, Barbro	Barbro		Bjarnle			Pilgatan 13, IV	55318	Jönköping	6	80	1		fbf	036-125819	0		2	4	1	2	1	0		0		1	50	26-sep-02	0	0
+2103801	210380	1	193307157390	15-jul-33	ANDERSSON, STIG ERLAND	Stig Erland		Andersson			Limbäcksgatan 32	79296	Våmhus	20	62	2		fbf	0250-45058	0		1	4	2	2	1	193809237104	M	0		2	92	30-aug-97	0	0
+2103802	210380	2	193307157309	15-jul-33	WEDDE, DAGMAR LINNÉA	Dagmar Linnéa		Wedde			Askholsvägen 33	79296	Våmhus	20	62	2		fbf	0250-12922	0		2	4	1	1	2	0		0		1	50	24-jul-98	0	0
+2104671	210467	1	193308090657	09-aug-33	Schantz, Bengt Ivar	Bengt		Schantz			Mastvägen 12	13671	Haninge	1	36	1		fbf	08-7761234	0		1	2	2	2	1	193601302304	M	0		2	50	15-jun-01	0	0
+2104672	210467	2	193308090673	09-aug-33	Schantz, Folke Lennart	Lennart		Schantz			Lisebergsvägen 43	13668	Haninge	1	36	1		fbf	08-7760530	0		1	2	1	1	2	193502231248	M	0		2	50	07-jun-01	0	0
+2104831	210483	1	193308141013	14-aug-33	Pettersson, Matts Erik	Mats		Pettersson			Färgarg 10	85356	Sundsvall	22	81	1		fbf	060-174501	0		1	4	2	1	2	193708127547	M	0		2	50	14-mar-02	0	0
+2104832	210483	2	193308141005	14-aug-33	Lundblom, Kristina	Kristina		Lundblom			Luleåvägen 295	85731	Sundsvall	22	81	6		fbf	060-502308	0		2	4	1	2	1	0		0		1	50	14-mar-02	0	0
+2105701	210570	1	193309121907	12-sep-33	Lamberth Broman, Daga Lilly Ingeborg	Daga Lilly Ingeborg		Lamberth Broman			Floragatan 1 F	59135	Motala	5	83	1		fbf	0141-217403	0		2	2	2	2	1	0		0		7	50	04-aug-98	0	0
+2105702	210570	2	193309121915	12-sep-33	LAMBERTH, BOO STELLAN RAGNAR	Boo Stellan Ragnar		Lamberth			Våghusgatan 48	59049	Vikingstad	5	80	18		fbf	013-80417	0		1	2	1	1	2	193207312400	M	0		2	50	26-apr-01	0	0
+2106511	210651	1	193310091032	09OCT1933	Jansson, Karl Ivar	Ivar		Jansson			Bergängen 4541	76042	Björkö	1	88	2		fbf	0176-91361	0		1	2	2	1	2	0		0		1	92	30-aug-97	0	0
+2106512	210651	2	193310091057	09OCT1933	Jansson, Karl Olof	Olof		Jansson			Simpnäs 4012	76042	Björkö	1	88	2		fbf	0176-91037	0		1	2	1	2	1	0		0		1	92	30-aug-97	0	0
+2106821	210682	1	193310154137	15OCT1933	Nilsson, Bengt	Bengt		Nilsson			Åhusgatan 22	24331	Höör	12	67	2		fbf	0413-21964	0		1	4	2	1	2	0		0		1	92	30-aug-97	0	0
+2106822	210682	2	193310153907	15OCT1933	Nilsson, Inga Majken	Inga		Nilsson			Lagerbringsgatan 2 F	41257	Göteborg	14	80	8		fbf	031-160173	0		2	4	1	2	1	0		0		1	50	15OCT2002	0	0
+2107411	210741	1	193311087773	08-nov-33	Larsson, Lars Åke	Åke		Larsson			Svarvargatan 7, V	81136	Sandviken	21	81	1		fbf	026-257174	0		1	4	2	2	1	0		0		1	50	30-aug-01	0	0
+2107412	210741	2	193311087708	08-nov-33	Larsson, Barbro	Barbro		Larsson			Sätralinjen 4 C 1TR	81153	Sandviken	21	81	1		fbf	026-270369	0		2	4	1	1	2	0		0		1	92	02OCT1997	0	0
+2107911	210791	1	193311275212	27-nov-33	Schandorff, Rune	Rune		Schandorff			Rådmansg 33	44230	Kungälv	14	82	1		fbf	0303-12355	0		1	4	2	1	2	193410074862	M	0		2	92	30-aug-97	0	0
+2107912	210791	2	193311275204	27-nov-33	Johansson, Barbro	Barbro		Johansson			Stabbetorget 6	41680	Göteborg	14	80	38		fbf	031-841538	0		2	4	1	2	1	193503024915	M	0		2	92	30-aug-97	0	0
+2108121	210812	1	193312034121	03-dec-33	Hutzelmann, Ulla Birgitta	Ulla		Hutzelmann			Wrangelsgatan 13	25439	Helsingborg	12	83	1		fbf	042-144996	0		2	4	2	1	2	0		0		1	92	30-aug-97	0	0
+2108122	210812	2	193312033933	03-dec-33	Skog, John	Jon		Skog			Halmstadsgatan 10	25252	Helsingborg	12	83	2		fbf	042-242603	0		1	4	1	2	1	0		0		1	92	30-aug-97	0	0
+2108361	210836	1	193312103520	10-dec-33	Lindskog, Kerstin	Kerstin		Lindskog			Jörgensgatan 1	27140	Ystad	12	86	1		fbf	0411-15221	0		2	2	2	1	2	0		0		1	92	21-nov-97	0	0
+2108362	210836	2	193312103546	10-dec-33	Larsson, Ann-Marie	Ann-Marie		Larsson			Disponentgatan 12	27333	Tomelilla	12	70	5		fbf	0417-511936	0		2	2	1	2	1	193904204132	M	0		2	50	24MAY2001	0	0
+2108531	210853	1	193312154309	15-dec-33	Kock, Birgit	Birgit		Kock			Torngatan 14	23234	Arlöv	12	31	1		fbf	040-433525	0		2	2	2	1	2	0		0		1	50	04-sep-03	0	0
+2108532	210853	2	193312153525	15-dec-33	Jadeland, Margit	Margit		Jadeland			Eriksdalsg 7 B VII	21216	Malmö	12	80	4		fbf		0		2	2	1	2	1	192512083730	M	0		2	50	05-sep-02	0	0
+2108681	210868	1	193312193315	19-dec-33	Svensson, Sven	Sven		Svensson			Snickareg 11 C	51155	Kinna	14	63	1		fbf	0320-10449	0		1	2	2	2	1	0		0		1	92	01-jan-98	0	0
+2108682	210868	2	193312193331	19-dec-33	Svensson, Lars Erik	Lars		Svensson			Volontärbacken 5 C	37232	Ronneby	10	81	1		fbf	0457-16791	0		1	2	1	1	2	0		0		1	92	30-aug-97	0	0
+2108691	210869	1	193312194800	19-dec-33	Josefsson, Eivor	Eivor		Josefsson			Hummerg 4	45632	Kungshamn	14	27	1		fbf	0523-30898	0		2	2	2	2	1	193207144894	M	0		2	50	05-sep-02	0	0
+2108692	210869	2	193312194826	19-dec-33	Karlsson, Sydnöi	Sydnöi		Karlsson			Ringvägen 25	45334	Lysekil	14	84	1		fbf	0523-12081	0		2	2	1	1	2	193212044816	M	0		2	50	06-sep-01	0	0
+2108821	210882	1	193312237815	23-dec-33	Säterberg, Rolf Anders	Rolf		Säterberg			Kometvägen 13, 7 TR	18348	Täby	1	60	1		fbf	08-7687153	0		1	4	2	2	1	193608197806	M	0		2	50	17-jan-02	0	0
+2108822	210882	2	193312237807	23-dec-33	Persson, Mona Karin	Mona		Persson			Viken 1628	84193	Östavall	22	60	3		fbf	0690-30033	0		2	4	1	1	2	193004127811	M	0		2	92	30-aug-97	0	0
+2109471	210947	1	193401127828	12-jan-34	Söderberg, Gudrun Margareta	Gudrun		Söderberg			Aprilvägen 16	17761	Järfälla	1	23	4		fbf	08-58033370	0		2	2	2	2	1	193102258435	M	0		2	50	07-apr-01	0	0
+2109472	210947	2	193401127844	12-jan-34	Rumert, Sigrid Elisabet	Sigrid		Rumert			Björkvägen 19	83254	Frösön	23	80	2		fbf	063-44092	0		2	2	1	1	2	193405190491	M	0		2	50	24-aug-01	0	0
+2109771	210977	1	193401242452	24-jan-34	Hernsäter, Stig Börje Fridolf	Stig		Hernsäter			Nejlikebacken 12	55456	Jönköping	6	80	2		fbf	036-174517	0		1	4	2	2	1	193601142627	M	0		2	50	07-dec-99	0	0
+2109772	210977	2	193401242403	24-jan-34	Henriksson, Gerd Alma Britta	Gerd		Henriksson			Sturegatan 9 B, 3 TR	55336	Jönköping	6	80	1		fbf	036-168413	0		2	4	1	1	2	0		0		1	50	05OCT2002	0	0
+2110291	211029	1	193402116135	11-feb-34	Andersson, Hans Ove	Ove		Andersson			Häggesled Häggesled Säteri 1	53194	Järpås	14	94	3		fbf	0510-93082	0		1	4	2	2	1	193311095909	M	0		2	50	03-jan-02	0	0
+2110292	211029	2	193402116127	11-feb-34	Gunnarsson, Margareta	Margareta		Gunnarsson			Hangelösa, Käbbagården	53392	Lundsbrunn	14	71	12		fbf	0510-52043	0		2	4	1	1	2	192802025912	M	0		2	50	03-jan-02	0	0
+2110561	211056	1	193402209344	20-feb-34	Johansson, Elna Kristina	Elna Kristina		Johansson			Älvstigen 3	84134	Ånge	22	60	2		fbf	0690-61527	0		2	2	2	2	1	192811078035	M	0		2	92	30-aug-97	0	0
+2110562	211056	2	193402209369	20-feb-34	Nilsson, Elsa Maria	Elsa Maria		Nilsson			Torggatan 11	84133	Ånge	22	60	2		fbf	0690-61184	0		2	2	1	1	2	193110118019	M	0		2	50	27-sep-01	0	0
+2110831	211083	1	193402254134	25-feb-34	Hansson, Per-Olle	Per-Olle		Hansson			Almaröd 12	27454	Skivarp	12	64	6		fbf	0411-30422	0		1	4	2	2	1	0		0		1	92	30-aug-97	0	0
+2110832	211083	2	193402253904	25-feb-34	Jönsson, Inga-Kerstin	Inga-Kerstin		Jönsson			Syréngatan 9	23332	Svedala	12	63	1		fbf	040-400535	0		2	4	1	1	2	193604053912	M	0		2	92	30-aug-97	0	0
+2111521	211152	1	193403165503	16-mar-34	Olsson, Margit Viola	Margit		Olsson			Thorsellg 8	66631	Bengtsfors	14	60	1		fbf	0531-61993	0		2	2	2	2	1	0		0		1	92	01-jan-98	0	0
+2111522	211152	2	193403165529	16-mar-34	Göthe, Aina Elisabet	Aina		Göthe			Malmgatan 3	66233	Åmål	14	92	1		fbf	0532-10038	0		2	2	1	1	2	0		0		1	50	20-sep-01	0	0
+2112061	211206	1	193404034179	03-apr-34	Larsson, Hans Einar	Hans		Larsson			Erik Dahlbergsg 11	27151	Ystad	12	86	1		fbf	0411-10542	0		1	4	2	2	1	193807244102	M	0		2	92	30-aug-97	0	0
+2112062	211206	2	193404033924	03-apr-34	Nilsson, Anna-Greta	Anna-Greta		Nilsson			Sjögången 11 F	27152	Ystad	12	86	1		fbf	0411-14233	0		2	4	1	1	2	192608054199	M	0		2	92	30-aug-97	0	0
+2112681	211268	1	193404201653	20-apr-34	Adolfsson, Stig	Stig		Adolfsson			Fristadsg 10D, II	63345	Eskilstuna	4	84	2		fbf	016-131287	0		1	2	2	2	1	0		0		1	92	30-aug-97	0	0
+2112682	211268	2	193404201679	20-apr-34	Adolfsson, Rolf	Rolf		Adolfsson			Esbjergsg 3	63230	Eskilstuna	4	84	1		fbf	016-423141	0		1	2	1	1	2	193303151660	M	0		2	92	30-aug-97	0	0
+2112941	211294	1	193404261442	26-apr-34	Pettersson, Vera Linnéa	Vera		Pettersson			Vallby, Hagby	74020	Vänge	3	80	7		fbf	018-397045	0		2	4	2	2	1	193904091455	M	0		2	92	30-aug-97	0	0
+2112942	211294	2	193404261475	26-apr-34	Andersson, Sven Elis	Elis		Andersson			Rasbokil, Tibble	75595	Uppsala	3	80	42		fbf	018-351373	0		1	4	1	1	2	0		0		1	92	30-aug-97	0	0
+2113261	211326	1	193405051438	05MAY1934	Lundell, Alf	Alf		Lundell			Rönningsberg 1322	83047	Trångsviken	23	9	10		fbf	0640-40055	0		1	4	2	1	2	193810228407	M	0		2	92	30-aug-97	0	0
+2113262	211326	2	193405051404	05MAY1934	Engström, Vajlitt	Vajlitt		Engström	Forseth		Pärlhakevägen 3	83161	Östersund	23	80	1		fbf	063-510449	0		2	4	1	2	1	0		0		1	50	24-aug-01	0	0
+2113871	211387	1	193405211222	21MAY1934	Larsson, Märta Margot Elisabet	Märta Margot Elisabet		Larsson			Strindbergsv 15, NB	15231	Södertälje	1	81	2		fbf		0		2	4	2	2	1	0		0		1	92	30-aug-97	0	0
+2113872	211387	2	193405211339	21MAY1934	Pettersson, Sven Roland	Sven Roland		Pettersson			Rosenlundsv 13	15240	Södertälje	1	81	2		fbf	08-55015804	0		1	4	1	1	2	0		0		1	92	30-aug-97	0	0
+2114121	211412	1	193405290366	29MAY1934	Winell, Beata	Anita Margareta Beata		Winell			Lektorsvägen 1 1TR	43250	Varberg	13	83	1		fbf	0346-16330	0		2	4	2	1	2	0		0		1	50	03-jan-02	0	0
+2114122	211412	2	193405290176	29MAY1934	Winell, Tom Vilhelm	Tom		Winell			Gamla Södertäljevägen 90	14171	Segeltorp	1	26	3		fbf	08-881550	0		1	4	1	2	1	193801302443	M	0		2	50	01MAY2003	0	0
+2114241	211424	1	193405317730	31MAY1934	Danielsson, Gunnar Reinhold	Gunnar Reinhold		Danielsson			Borg 3095	82694	Norrala	21	82	9		fbf	0270-30076	0		1	4	2	1	2	194307047565	M	0		2	92	30-aug-97	0	0
+2114242	211424	2	193405317722	31MAY1934	Arvidsson, Gunhild Marianne	Gunhild Marianne		Arvidsson			Lumavägen 73	82020	Ljusne	21	82	4		fbf	0270-67851	0		2	4	1	2	1	193205227717	M	0		2	50	16-aug-01	0	0
+2114251	211425	1	193405318993	31MAY1934	Thurfjell, Jens	Jens		Thurfjell			Rosenfinksgatan 23	25450	Helsingborg	12	83	1		fbf	042-240418	0		1	4	2	1	2	194307169021	M	0		2	50	31-aug-01	0	0
+2114252	211425	2	193405318902	31MAY1934	Lundgren, Inger Margareta	Inger		Lundgren			Alhamnsv 84	97592	Luleå	25	80	3		fbf	0920-33039	0		2	4	1	2	1	194112278918	M	0		2	92	30-aug-97	0	0
+2114381	211438	1	193406052310	05-jun-34	Holmström, Ingemar	Alf Erik Ingemar		Holmström		Stenudden	Kasimirsborg 13	59493	Gamleby	8	83	11		fbf	0493-51632	0		1	2	2	2	1	193709051902	M	0		2	50	27-mar-02	0	0
+2114382	211438	2	193406052336	05-jun-34	Holmström, Rolf Arne Holger	Arne		Holmström			Skäggetorps Centrum 10	58644	Linköping	5	80	35		fbf		0		1	2	1	1	2	0		0		1	92	30-aug-97	0	0
+2114481	211448	1	193406074512	07-jun-34	Nordström, Tore Herman	Tore Herman		Nordström			Sjöblads Väg 27 IX	21370	Malmö	12	80	9		fbf	040-221009	0		1	4	2	2	1	193312164308	M	0		2	50	15-aug-02	0	0
+2114482	211448	2	193406074504	07-jun-34	Persson, Ulla Ragnhild	Ulla Ragnhild		Persson			Västra Skrävlingevägen 136 1 TR	21234	Malmö	12	80	10		fbf	040-493950	0		2	4	1	1	2	0		0		2	50	02-sep-03	0	0
+2114641	211464	1	193406135032	13-jun-34	Bengtsson, Karl Axel	Karl-Axel		Bengtsson			Myrvägen 10	44943	Nol	14	40	5		sp	0303-740350	0		1	4	2	1	2	194011025584	M	0		2	92	27-aug-98	0	0
+2114642	211464	2	193406135024	13-jun-34	Christensen, Vanja Ingeborg	Vanja		Christensen			Klara Hansson Väg 8	27035	Blentarp	12	65	5		fbf	0416-13255	0		2	4	1	2	1	193711199251	M	0		2	92	30-aug-97	0	0
+2114811	211481	1	193406185011	18-jun-34	Sjöberg, Ralf Gerhard	Ralf		Sjöberg			Östra Midvintersgatan 16	41512	Göteborg	14	80	5		fbf	031-465232	0		1	2	2	2	1	193610012662	M	0		2	50	29OCT2002	0	0
+2114812	211481	2	193406185037	18-jun-34	Sjöberg, Ragne	Ragne		Sjöberg			Femtegårdsvägen 4	44373	Gråbo	14	41	3		fbf	0321-40059	0		1	2	1	1	2	0		0		1	50	01-aug-01	0	0
+2115821	211582	1	193407235575	23-jul-34	Henningsson, Gunnar	Gunnar		Henningsson			N Storg 3 F	33230	Gislaved	6	62	1		fbf	0371-10290	0		1	4	2	2	1	194109182628	M	0		2	92	30-aug-97	0	0
+2115822	211582	2	193407235526	23-jul-34	Hansson, Syster Gunhild	Gunhild		Hansson			Tranbärsg 12	33236	Gislaved	6	62	1		fbf	0371-511273	0		2	4	1	1	2	193308065535	M	0		2	92	30-aug-97	0	0
+2115861	211586	1	193407241003	24-jul-34	Wendelbrandt, Märta Hildeg Kristina	Kristina		Wendelbrandt			Herrgårdsvägen 11, NB	19478	Upplands Väsby	1	14	2		fbf	08-59033708	0		2	4	2	1	2	192409156912	M	0		2	50	25OCT2001	0	0
+2115862	211586	2	193407241037	24-jul-34	Nilsson, Sven Hilding Olof	Olof		Nilsson			Blåbärsvägen 10	42655	Västra Frölunda	14	84	1			0980-16968	0		1	4	1	2	1	0		0		2	50	17-jul-03	0	0
+2116071	211607	1	193407301435	30-jul-34	Eriksson, Göran Sigfrid	Göran		Eriksson			Hagby Prästg	74020	Vänge	3	80	7		fbf	018-397021	0		1	4	2	1	2	193809131489	M	0		2	92	30-aug-97	0	0
+2116072	211607	2	193407301427	30-jul-34	Thalén, Gun Margareta	Gun		Thalén			Pensionärsv 2	74350	Vattholma	3	80	24		fbf	018-350233	0		2	4	1	2	1	193603071410	M	0		2	92	30-aug-97	0	0
+2116121	211612	1	193407308919	30-jul-34	Selberg, Per Leo	Per Leo		Selberg			Edeforsgatan 60	97438	Luleå	25	80	2		fbf	0920-222178	0		1	4	2	2	1	194002188540	M	0		2	50	14-feb-02	0	0
+2116122	211612	2	193407318900	31-jul-34	Ekblom, Kerstin Elisabet	Kerstin		Ekblom			Kyrkgatan 3	96133	Boden	25	82	1		fbf	0921-16821	0		2	4	1	1	2	193604298970	M	0		2	50	16-aug-01	0	0
+2116191	211619	1	193408018038	01-aug-34	Ledin, Per Olof	Per		Ledin			Gamla Prästgårdsvägen 7	88134	Sollefteå	22	83	1		fbf	0620-13812	0		1	4	2	1	2	193608238089	M	0		2	50	26-apr-01	0	0
+2116192	211619	2	193408018061	01-aug-34	Bodin, Karin	Karin		Bodin			Framnäsbacken 14, III	17166	Solna	1	84	2		fbf	08-822402	0		2	4	1	2	1	0		0		1	92	30-aug-97	0	0
+2116311	211631	1	193408054835	05-aug-34	Utbult, Bertil Alarik	Bertil		Utbult			Trängebergsvägen 10	43090	Öckerö	14	7	1		fbf	031-966762	0		1	2	2	2	1	193607074865	M	0		2	50	19-sep-02	0	0
+2116312	211631	2	193408054850	05-aug-34	Utbult, Tage Ragnar	Ragnar		Utbult			Trängebergsvägen 8	43090	Öckerö	14	7	1		fbf	031-965652	0		1	2	1	1	2	193702274865	M	0		2	50	19-sep-02	0	0
+2116481	211648	1	193408112328	11-aug-34	Larsson, Marianne	Marianne		Larsson			Viggebyvägen 12	61430	Söderköping	5	82	1		fbf	0121-10528	0		2	4	2	1	2	193405031935	M	0		2	92	30-aug-97	0	0
+2116482	211648	2	193408112310	11-aug-34	Andersson, Ingvar	Ingvar		Andersson			Ebbarps Stugby 39	31293	Laholm	13	81	1		fbf	0430-18484	0		1	4	1	2	1	0		0		1	50	15OCT2003	0	0
+2116891	211689	1	193408263535	26-aug-34	Jönsson, Börje	Kurt Börje Evert		Jönsson			Kumminv 15	28133	Hässleholm	12	93	1		fbf	0451-15347	0		1	2	2	2	1	0		0		1	92	30-aug-97	0	0
+2116892	211689	2	193408263550	26-aug-34	Jönsson, Axel Göte Ingvar	Axel Göte Ingvar		Jönsson			Trebackalångg 2	28140	Hässleholm	12	93	1		fbf		0		1	2	1	1	2	193206149324	M	0		2	92	30-aug-97	0	0
+2117021	211702	1	193408297715	29-aug-34	ADELHAG, ANDERS RUNE EINAR	Anders Rune Einar		Adelhag			Härnevi Rotbrunna 6	74596	Enköping	3	81	33		fbf	0171-410270	0		1	4	2	2	1	194112096906	M	0		2	50	08-jun-01	0	0
+2117022	211702	2	193408297707	29-aug-34	Granström, Ingrid Alice	Ingrid Alice		Granström			Verkstadsvägen 12	81740	Bergby	21	80	3		fbf	0297-10703	0		2	4	1	1	2	0		0		7	50	27-nov-02	0	0
+2117201	211720	1	193409048745	04-sep-34	Falk, Tyra Marie	Tyra		Falk			Provåker 8	91693	Bjurholm	24	3	1		fbf	0932-21067	0		2	2	2	1	2	193409308511	M	0		2	92	30-aug-97	0	0
+2117202	211720	2	193409048760	04-sep-34	Lindblad, Viola Randine	Viola		Lindblad			Renmarksv 19	92142	Lycksele	24	81	1		fbf	0950-12594	0		2	2	1	2	1	193312298577	M	0		2	92	30-aug-97	0	0
+2117321	211732	1	193409097874	09-sep-34	Larsson, Karl-Erik	Karl-Erik		Larsson			Gustavsbergsvägen 16	87165	Härnösand	22	80	1		fbf	0611-12860	0		1	4	2	1	2	195204214406	M	0		2	50	12-apr-01	0	0
+2117322	211732	2	193409097825	09-sep-34	Söderström, Ulla	Ulla		Söderström			Repslagarev 22  1 TR	85234	Sundsvall	22	81	1		fbf	060-176903	0		2	4	1	2	1	193304058013	M	0		2	50	14-mar-02	0	0
+2117421	211742	1	193409113515	11-sep-34	Bengtsson, Bengt Torsten	Torsten		Bengtsson			Norrevångsgatan 43 A	23536	Vellinge	12	33	4		fbf	040-469126	0		1	2	2	1	2	193706223504	M	0		2	50	11-jun-03	0	0
+2117422	211742	2	193409113531	11-sep-34	Bengtsson, Lars Bertil	Bertil		Bengtsson			Apoteksgatan 3	26433	Klippan	12	76	1		fbf	0435-15083	0		1	2	1	2	1	0		0		1	50	30-jan-03	0	0
+2118591	211859	1	193410242634	24OCT1934	Filipsson, Sten Evert Uno	Sten		Filipsson			Alebäcksgatan 7	53141	Lidköping	14	94	1		fbf	0510-65513	0		1	4	2	1	2	193706096645	M	0		2	50	29MAY2001	0	0
+2118592	211859	2	193410242402	24OCT1934	Nilsson, Sonja Inga Viola	Sonja		Nilsson			Kvarnlyckev 2	66010	Dals Långed	14	60	6		fbf	0531-40420	0		2	4	1	2	1	193010135436	M	0		2	92	01-jan-98	0	0
+2118881	211888	1	193411032125	03-nov-34	Svensson, Barbro	Barbro		Svensson		Storängsgården	Södra Storängsvägen 50	61243	Finspång	5	62	1		fbf	0122-15560	0		2	2	2	1	2	0		0		2	50	05-nov-02	0	0
+2118882	211888	2	193411032141	03-nov-34	Jansson, Ulla	Ulla		Jansson			Örebrovägen 116	61294	Finspång	5	62	2		fbf	0122-60004	0		2	2	1	2	1	192812312334	M	0		2	50	16-aug-01	0	0
+2119171	211917	1	193411147741	14-nov-34	Holtet Karin Johanna Margareta	Karin Johanna Margareta		Holtet			Fjällstueveien 23 D	982	OSLO 9	0	0	0			0047-221 097 49	9		2	2	2	1	2	0		0		0	0		0	0
+2119172	211917	2	193411147766	14-nov-34	Brandt, Tone Gunvor Christine	Tone		Brandt			Nibble	73040	Kolbäck	19	61	3		fbf	0220-40769	0		2	2	1	2	1	0		0		1	92	30-aug-97	0	0
+2119521	211952	1	193411267168	26-nov-34	Johansson, Siv Ingegärd	Siv Ingegärd		Johansson			Knapptågsv 32	79433	Orsa	20	34	2		fbf	0250-41685	0		2	2	2	2	1	0		0		1	92	30-aug-97	0	0
+2119522	211952	2	193411267143	26-nov-34	Hultman, Karin Gunhild	Karin Gunhild		Hultman			Storängsv 20 B, NB	18431	Åkersberga	1	17	2		fbf	08-54022689	0		2	2	1	1	2	0		0		1	92	30-aug-97	0	0
+2119751	211975	1	193412036802	03-dec-34	Dahg, Ester Teresia	Teresia		Dahg			Tors Väg 3	26937	Båstad	12	78	1		sp	0431-79151	0		2	2	2	2	1	193804176893	M	0		2	50	28-mar-03	0	0
+2119752	211975	2	193412036828	03-dec-34	Möllberg, Signe Teresia	Signe		Möllberg			Bossåsvägen 9	69333	Degerfors	18	62	1		fbf	0586-41495	0		2	2	1	1	2	193504216619	M	0		2	50	16-aug-01	0	0
+2119761	211976	1	193412037800	03-dec-34	Andersson, Karin Josefina	Karin		Andersson			Tornslingan 31, 1 TR	14261	Trångsund	1	26	2		fbf	08-7718013	0		2	4	2	1	2	192508111255	M	0		2	92	30-aug-97	0	0
+2119762	211976	2	193412037818	03-dec-34	Hallén, Sven	Sven Erik		Hallén			Skönsbergsv 21 D, II	85645	Sundsvall	22	81	3		fbf	060-171929	0		1	4	1	2	1	193404227823	M	0		2	50	14-mar-02	0	0
+2119851	211985	1	193412072815	07-dec-34	Velander, Torsten Ingemar Herbert	Torsten Ingemar Herbert		Velander			Järnvägsgatan 50	36130	Emmaboda	8	62	1		fbf	0471-12716	0		1	4	2	2	1	0		0		1	50	21-nov-02	0	0
+2119852	211985	2	193412072807	07-dec-34	Elofsson, Vega Astrid Elise	Vega Astrid Elise		Elofsson		Högadal	Högadalsvägen 110	36191	Emmaboda	8	62	1		fbf	0471-10992	0		2	4	1	1	2	0		0		1	50	22-aug-02	0	0
+2120341	212034	1	193412221115	22-dec-34	Åsberg, Ulf Ragnar	Ulf		Åsberg			Smedvägen 19	17671	Järfälla	1	23	5		fbf	08-58351961	0		1	2	2	2	1	193505242929	M	0		2	50	07-apr-01	0	0
+2120342	212034	2	193412221099	22-dec-34	Åsberg, Jan	Jan Axel		Åsberg			Spångav 329, I	16346	Spånga	1	80	41		fbf	08-367370	0		1	2	1	1	2	194012301000	M	0		2	92	30-aug-97	0	0
